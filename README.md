@@ -43,11 +43,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com//fractava/notes-core/issues/63) in [fractava/notes-core](https://github.com//fractava/notes-core)
-2. ❗️ Opened issue [#63](https://github.com//fractava/notes-core/issues/63) in [fractava/notes-core](https://github.com//fractava/notes-core)
-3. 💪 Opened PR [#62](https://github.com//fractava/notes-core/pull/62) in [fractava/notes-core](https://github.com//fractava/notes-core)
-4. ❗️ Opened issue [#61](https://github.com//fractava/notes-core/issues/61) in [fractava/notes-core](https://github.com//fractava/notes-core)
-5. ❗️ Opened issue [#60](https://github.com//fractava/notes-core/issues/60) in [fractava/notes-core](https://github.com//fractava/notes-core)
+1. 🗣 Commented on [#195](https://github.com//nextcloud/news/issues/195) in [nextcloud/news](https://github.com//nextcloud/news)
+2. 🎉 Merged PR [#148](https://github.com//e-alfred/flowupload/pull/148) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+3. 🎉 Merged PR [#149](https://github.com//e-alfred/flowupload/pull/149) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+4. 🗣 Commented on [#63](https://github.com//fractava/notes-core/issues/63) in [fractava/notes-core](https://github.com//fractava/notes-core)
+5. ❗️ Opened issue [#63](https://github.com//fractava/notes-core/issues/63) in [fractava/notes-core](https://github.com//fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
