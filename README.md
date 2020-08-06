@@ -6,6 +6,7 @@
 - 📫 How to reach me: mail@jonathan-treffler.de
 - ⚡ Fun fact: This Dino Animation is from @saadeghi :)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TessyPowder)
 ![](https://github-readme-stats.vercel.app/api?username=TessyPowder&show_icons=true&include_all_commits=true&hide_title=true)
 
 ## Recent Activity:
