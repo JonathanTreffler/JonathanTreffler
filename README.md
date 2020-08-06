@@ -6,7 +6,20 @@
 - 📫 How to reach me: mail@jonathan-treffler.de
 - ⚡ Fun fact: This Dino Animation is from @saadeghi :)
 
+### Connect with me:
+
+[<img align="left" alt="jonathan-treffler.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jonathan-treffler.de)
+[<img align="left" alt="Jonathan Treffler | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCeNkM_i1i9_Ver9njtxLAqw)
+[<img align="left" alt="Jonathan Treffler | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/TessyPowder)
+[<img align="left" alt="Jonathan Treffler | NPM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />](https://www.npmjs.com/~jonathan_treffler)
+
+<br>
+<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TessyPowder)
+
+<br>
+
 ![](https://github-readme-stats.vercel.app/api?username=TessyPowder&show_icons=true&include_all_commits=true&hide_title=true)
 
 ## Recent Activity:
