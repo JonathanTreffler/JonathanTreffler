@@ -1,4 +1,10 @@
-### Hi there 👋
+![Internet not working gif](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
+
+### Hi there, i am using Github :)
+
+- 🔭 I’m currently working on [fractava/notes-core](https://github.com/fractava/notes-core)
+- 📫 How to reach me: mail@jonathan-treffler.de
+- ⚡ Fun fact: This Dino Animation is from @saadeghi :)
 
 ![](https://github-readme-stats.vercel.app/api?username=TessyPowder&show_icons=true&include_all_commits=true&hide_title=true)
 
@@ -11,17 +17,3 @@
 5. ❗️ Opened issue [#60](https://github.com//fractava/notes-core/issues/60) in [fractava/notes-core](https://github.com//fractava/notes-core)
 <!--END_SECTION:activity-->
 
-<!--
-**TessyPowder/TessyPowder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
