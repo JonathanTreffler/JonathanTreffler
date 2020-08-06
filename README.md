@@ -29,5 +29,5 @@
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
-<!-- YOUTUBE::START -->
-<!-- YOUTUBE::END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
