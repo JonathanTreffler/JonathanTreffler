@@ -17,6 +17,7 @@
 [<img align="left" alt="Jonathan Treffler | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCeNkM_i1i9_Ver9njtxLAqw)
 
 <br>
+<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TessyPowder)
 ![](https://github-readme-stats.vercel.app/api?username=TessyPowder&show_icons=true&include_all_commits=true&hide_title=true)
