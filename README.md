@@ -28,3 +28,5 @@
 5. ❗️ Opened issue [#60](https://github.com//fractava/notes-core/issues/60) in [fractava/notes-core](https://github.com//fractava/notes-core)
 <!--END_SECTION:activity-->
 
+## Youtube Activity:
+<!-- YOUTUBE:START -->
