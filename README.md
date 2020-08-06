@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=TessyPowder&show_icons=true&include_all_commits=true&hide_title=true)
+
+## Recent Activity:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#63](https://github.com//fractava/notes-core/issues/63) in [fractava/notes-core](https://github.com//fractava/notes-core)
 2. ❗️ Opened issue [#63](https://github.com//fractava/notes-core/issues/63) in [fractava/notes-core](https://github.com//fractava/notes-core)
