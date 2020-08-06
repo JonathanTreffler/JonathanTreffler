@@ -17,9 +17,6 @@
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TessyPowder)
-
-<br>
-
 ![](https://github-readme-stats.vercel.app/api?username=TessyPowder&show_icons=true&include_all_commits=true&hide_title=true)
 
 ## Recent Activity:
