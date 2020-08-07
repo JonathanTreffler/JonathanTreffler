@@ -43,11 +43,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
-2. 💪 Opened PR [#748](https://github.com//nextcloud/news/pull/748) in [nextcloud/news](https://github.com//nextcloud/news)
-3. 🗣 Commented on [#195](https://github.com//nextcloud/news/issues/195) in [nextcloud/news](https://github.com//nextcloud/news)
-4. 🗣 Commented on [#103](https://github.com//e-alfred/flowupload/issues/103) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-5. 🗣 Commented on [#195](https://github.com//nextcloud/news/issues/195) in [nextcloud/news](https://github.com//nextcloud/news)
+1. 🎉 Merged PR [#1](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/1) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+2. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
+3. 💪 Opened PR [#748](https://github.com//nextcloud/news/pull/748) in [nextcloud/news](https://github.com//nextcloud/news)
+4. 🗣 Commented on [#195](https://github.com//nextcloud/news/issues/195) in [nextcloud/news](https://github.com//nextcloud/news)
+5. 🗣 Commented on [#103](https://github.com//e-alfred/flowupload/issues/103) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
