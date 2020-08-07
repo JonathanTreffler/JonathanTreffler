@@ -1,6 +1,6 @@
 ![Internet not working gif](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
 
-![](https://gpvc.arturio.dev/TessyPowder)
+![](https://gpvc.arturio.dev/JonathanTreffler)
 
 ### Hi there, i am using Github :)
 
