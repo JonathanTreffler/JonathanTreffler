@@ -20,8 +20,8 @@
 
 ## Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TessyPowder)
-![](https://github-readme-stats.vercel.app/api?username=TessyPowder&show_icons=true&include_all_commits=true&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTreffler)
+![](https://github-readme-stats.vercel.app/api?username=JonathanTreffler&show_icons=true&include_all_commits=true&hide_title=true)
 
 ## Languages and Tools:
 
