@@ -42,10 +42,10 @@
 ## Recent Activity:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
-2. ❗️ Opened issue [#66](https://github.com//fractava/notes-core/issues/66) in [fractava/notes-core](https://github.com//fractava/notes-core)
-3. ❗️ Opened issue [#65](https://github.com//fractava/notes-core/issues/65) in [fractava/notes-core](https://github.com//fractava/notes-core)
-4. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
-5. 🎉 Merged PR [#1](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/1) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+2. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
+3. ❗️ Opened issue [#66](https://github.com//fractava/notes-core/issues/66) in [fractava/notes-core](https://github.com//fractava/notes-core)
+4. ❗️ Opened issue [#65](https://github.com//fractava/notes-core/issues/65) in [fractava/notes-core](https://github.com//fractava/notes-core)
+5. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
