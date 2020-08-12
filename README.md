@@ -41,10 +41,10 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#45](https://github.com//westberliner/checksum/issues/45) in [westberliner/checksum](https://github.com//westberliner/checksum)
-2. 🗣 Commented on [#29](https://github.com//DecaTec/sharerenamer/issues/29) in [DecaTec/sharerenamer](https://github.com//DecaTec/sharerenamer)
-3. 💪 Opened PR [#1277](https://github.com//nextcloud/nextcloud-vue/pull/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
-4. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
+1. 🗣 Commented on [#21](https://github.com//DecaTec/sharerenamer/issues/21) in [DecaTec/sharerenamer](https://github.com//DecaTec/sharerenamer)
+2. ❗️ Opened issue [#45](https://github.com//westberliner/checksum/issues/45) in [westberliner/checksum](https://github.com//westberliner/checksum)
+3. 🗣 Commented on [#29](https://github.com//DecaTec/sharerenamer/issues/29) in [DecaTec/sharerenamer](https://github.com//DecaTec/sharerenamer)
+4. 💪 Opened PR [#1277](https://github.com//nextcloud/nextcloud-vue/pull/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
 5. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
 <!--END_SECTION:activity-->
 
