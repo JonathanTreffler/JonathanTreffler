@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com//fractava/notes-core/pull/70) in [fractava/notes-core](https://github.com//fractava/notes-core)
-2. 🎉 Merged PR [#73](https://github.com//fractava/notes-core/pull/73) in [fractava/notes-core](https://github.com//fractava/notes-core)
-3. 🎉 Merged PR [#74](https://github.com//fractava/notes-core/pull/74) in [fractava/notes-core](https://github.com//fractava/notes-core)
-4. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
-5. 🗣 Commented on [#152](https://github.com//e-alfred/flowupload/issues/152) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+1. 🎉 Merged PR [#72](https://github.com//fractava/notes-core/pull/72) in [fractava/notes-core](https://github.com//fractava/notes-core)
+2. 🎉 Merged PR [#70](https://github.com//fractava/notes-core/pull/70) in [fractava/notes-core](https://github.com//fractava/notes-core)
+3. 🎉 Merged PR [#73](https://github.com//fractava/notes-core/pull/73) in [fractava/notes-core](https://github.com//fractava/notes-core)
+4. 🎉 Merged PR [#74](https://github.com//fractava/notes-core/pull/74) in [fractava/notes-core](https://github.com//fractava/notes-core)
+5. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
