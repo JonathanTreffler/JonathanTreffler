@@ -4,7 +4,7 @@
 
 ### Hi there, i am using Github :)
 
-- 🔭 I’m currently working on [fractava/notes-core](https://github.com/fractava/notes-core)
+- 🔭 I’m currently working on [fractava/notes-core](https://github.com/fractava/notes-core) and [nextcloud/news](https://github.com/nextcloud/news)
 - 📫 How to reach me: mail@jonathan-treffler.de
 - ⚡ Fun fact: This Dino Animation is from @saadeghi :)
 
