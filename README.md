@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#758](https://github.com//nextcloud/news/issues/758) in [nextcloud/news](https://github.com//nextcloud/news)
-2. ❗️ Opened issue [#75](https://github.com//fractava/notes-core/issues/75) in [fractava/notes-core](https://github.com//fractava/notes-core)
-3. 🎉 Merged PR [#64](https://github.com//fractava/notes-core/pull/64) in [fractava/notes-core](https://github.com//fractava/notes-core)
-4. 🎉 Merged PR [#67](https://github.com//fractava/notes-core/pull/67) in [fractava/notes-core](https://github.com//fractava/notes-core)
-5. 🎉 Merged PR [#69](https://github.com//fractava/notes-core/pull/69) in [fractava/notes-core](https://github.com//fractava/notes-core)
+1. ❗️ Opened issue [#4](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck/issues/4) in [JonathanTreffler/Wann-tritt-Scheuer-zurueck](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck)
+2. 🗣 Commented on [#758](https://github.com//nextcloud/news/issues/758) in [nextcloud/news](https://github.com//nextcloud/news)
+3. ❗️ Opened issue [#3](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck/issues/3) in [JonathanTreffler/Wann-tritt-Scheuer-zurueck](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck)
+4. ❗️ Opened issue [#2](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck/issues/2) in [JonathanTreffler/Wann-tritt-Scheuer-zurueck](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck)
+5. 🗣 Commented on [#758](https://github.com//nextcloud/news/issues/758) in [nextcloud/news](https://github.com//nextcloud/news)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
