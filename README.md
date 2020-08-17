@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/24) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-2. ❗️ Opened issue [#3](https://github.com//JonathanTreffler/Quill-mathQuill-blot/issues/3) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com//JonathanTreffler/Quill-mathQuill-blot)
-3. 🎉 Merged PR [#2](https://github.com//JonathanTreffler/Quill-mathQuill-blot/pull/2) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com//JonathanTreffler/Quill-mathQuill-blot)
-4. ❗️ Opened issue [#9](https://github.com//chickomat/chickomat.github.io/issues/9) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-5. ❗️ Opened issue [#2](https://github.com//fractava/notes-docs/issues/2) in [fractava/notes-docs](https://github.com//fractava/notes-docs)
+1. 🎉 Merged PR [#25](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/25) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+2. 🗣 Commented on [#25](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/issues/25) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+3. 🗣 Commented on [#2](https://github.com//JonathanTreffler/Quill-mathLive-blot/issues/2) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+4. 🎉 Merged PR [#26](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/26) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+5. ❗️ Opened issue [#12](https://github.com//JonathanTreffler/JonathanTreffler.github.io/issues/12) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
