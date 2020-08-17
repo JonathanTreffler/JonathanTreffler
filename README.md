@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck/issues/4) in [JonathanTreffler/Wann-tritt-Scheuer-zurueck](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck)
-2. 🗣 Commented on [#758](https://github.com//nextcloud/news/issues/758) in [nextcloud/news](https://github.com//nextcloud/news)
-3. ❗️ Opened issue [#3](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck/issues/3) in [JonathanTreffler/Wann-tritt-Scheuer-zurueck](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck)
-4. ❗️ Opened issue [#2](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck/issues/2) in [JonathanTreffler/Wann-tritt-Scheuer-zurueck](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck)
-5. 🗣 Commented on [#758](https://github.com//nextcloud/news/issues/758) in [nextcloud/news](https://github.com//nextcloud/news)
+1. 🗣 Commented on [#10](https://github.com//JonathanTreffler/JonathanTreffler.github.io/issues/10) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+2. 🗣 Commented on [#10](https://github.com//JonathanTreffler/JonathanTreffler.github.io/issues/10) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#11](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/11) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+4. 🎉 Merged PR [#9](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/9) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+5. ❗️ Opened issue [#4](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck/issues/4) in [JonathanTreffler/Wann-tritt-Scheuer-zurueck](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
