@@ -41,10 +41,10 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com//chickomat/chickomat.github.io/pull/7) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-2. 🎉 Merged PR [#8](https://github.com//chickomat/chickomat.github.io/pull/8) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-3. 🎉 Merged PR [#6](https://github.com//chickomat/chickomat.github.io/pull/6) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-4. 🗣 Commented on [#6](https://github.com//chickomat/chickomat.github.io/issues/6) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+1. 🗣 Commented on [#3](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck/issues/3) in [JonathanTreffler/Wann-tritt-Scheuer-zurueck](https://github.com//JonathanTreffler/Wann-tritt-Scheuer-zurueck)
+2. 🎉 Merged PR [#7](https://github.com//chickomat/chickomat.github.io/pull/7) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+3. 🎉 Merged PR [#8](https://github.com//chickomat/chickomat.github.io/pull/8) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+4. 🎉 Merged PR [#6](https://github.com//chickomat/chickomat.github.io/pull/6) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
 5. 🗣 Commented on [#6](https://github.com//chickomat/chickomat.github.io/issues/6) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
