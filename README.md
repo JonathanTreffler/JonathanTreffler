@@ -41,10 +41,10 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com//chickomat/chickomat.github.io/issues/6) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+1. 🎉 Merged PR [#6](https://github.com//chickomat/chickomat.github.io/pull/6) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
 2. 🗣 Commented on [#6](https://github.com//chickomat/chickomat.github.io/issues/6) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-3. 🎉 Merged PR [#10](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/10) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
-4. 🗣 Commented on [#10](https://github.com//JonathanTreffler/JonathanTreffler.github.io/issues/10) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+3. 🗣 Commented on [#6](https://github.com//chickomat/chickomat.github.io/issues/6) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+4. 🎉 Merged PR [#10](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/10) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
 5. 🗣 Commented on [#10](https://github.com//JonathanTreffler/JonathanTreffler.github.io/issues/10) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
