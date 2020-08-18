@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//JonathanTreffler/Home-Assistant-remote-cec/issues/2) in [JonathanTreffler/Home-Assistant-remote-cec](https://github.com//JonathanTreffler/Home-Assistant-remote-cec)
-2. ❗️ Opened issue [#1](https://github.com//JonathanTreffler/Home-Assistant-remote-cec/issues/1) in [JonathanTreffler/Home-Assistant-remote-cec](https://github.com//JonathanTreffler/Home-Assistant-remote-cec)
-3. ❗️ Opened issue [#3](https://github.com//JonathanTreffler/Quill-mathLive-blot/issues/3) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
-4. ❗️ Opened issue [#27](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/issues/27) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-5. 🎉 Merged PR [#2](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/2) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+1. 🗣 Commented on [#36](https://github.com//nextcloud/3rdparty/issues/36) in [nextcloud/3rdparty](https://github.com//nextcloud/3rdparty)
+2. ❗️ Opened issue [#2](https://github.com//JonathanTreffler/Home-Assistant-remote-cec/issues/2) in [JonathanTreffler/Home-Assistant-remote-cec](https://github.com//JonathanTreffler/Home-Assistant-remote-cec)
+3. ❗️ Opened issue [#1](https://github.com//JonathanTreffler/Home-Assistant-remote-cec/issues/1) in [JonathanTreffler/Home-Assistant-remote-cec](https://github.com//JonathanTreffler/Home-Assistant-remote-cec)
+4. ❗️ Opened issue [#3](https://github.com//JonathanTreffler/Quill-mathLive-blot/issues/3) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+5. ❗️ Opened issue [#27](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/issues/27) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
