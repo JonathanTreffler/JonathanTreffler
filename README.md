@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com//chickomat/chickomat.github.io/pull/10) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-2. ❗️ Opened issue [#4](https://github.com//JonathanTreffler/Nextcloud-Uploads-List/issues/4) in [JonathanTreffler/Nextcloud-Uploads-List](https://github.com//JonathanTreffler/Nextcloud-Uploads-List)
-3. ❗️ Opened issue [#3](https://github.com//JonathanTreffler/Nextcloud-Uploads-List/issues/3) in [JonathanTreffler/Nextcloud-Uploads-List](https://github.com//JonathanTreffler/Nextcloud-Uploads-List)
-4. ❗️ Opened issue [#2](https://github.com//JonathanTreffler/Nextcloud-Uploads-List/issues/2) in [JonathanTreffler/Nextcloud-Uploads-List](https://github.com//JonathanTreffler/Nextcloud-Uploads-List)
-5. ❗️ Opened issue [#1](https://github.com//JonathanTreffler/Nextcloud-Uploads-List/issues/1) in [JonathanTreffler/Nextcloud-Uploads-List](https://github.com//JonathanTreffler/Nextcloud-Uploads-List)
+1. 🎉 Merged PR [#4](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/4) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+2. 🎉 Merged PR [#13](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/13) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#28](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/28) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+4. 🎉 Merged PR [#10](https://github.com//chickomat/chickomat.github.io/pull/10) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+5. ❗️ Opened issue [#4](https://github.com//JonathanTreffler/Nextcloud-Uploads-List/issues/4) in [JonathanTreffler/Nextcloud-Uploads-List](https://github.com//JonathanTreffler/Nextcloud-Uploads-List)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
