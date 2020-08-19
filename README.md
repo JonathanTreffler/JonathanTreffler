@@ -43,9 +43,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
 2. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
-3. 🎉 Merged PR [#4](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/4) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
-4. 🎉 Merged PR [#13](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/13) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#28](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/28) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+3. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
+4. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
+5. 🎉 Merged PR [#4](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/4) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
