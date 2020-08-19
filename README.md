@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
-2. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
-3. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
+1. 🎉 Merged PR [#155](https://github.com//e-alfred/flowupload/pull/155) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+2. 🎉 Merged PR [#11](https://github.com//chickomat/chickomat.github.io/pull/11) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+3. 🎉 Merged PR [#156](https://github.com//e-alfred/flowupload/pull/156) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
 4. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
-5. 🎉 Merged PR [#4](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/4) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+5. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
