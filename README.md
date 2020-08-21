@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#150](https://github.com//e-alfred/flowupload/pull/150) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-2. 🎉 Merged PR [#153](https://github.com//e-alfred/flowupload/pull/153) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-3. 🎉 Merged PR [#158](https://github.com//e-alfred/flowupload/pull/158) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-4. 🎉 Merged PR [#157](https://github.com//e-alfred/flowupload/pull/157) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-5. 🗣 Commented on [#157](https://github.com//e-alfred/flowupload/issues/157) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+1. 🎉 Merged PR [#159](https://github.com//e-alfred/flowupload/pull/159) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+2. 🎉 Merged PR [#150](https://github.com//e-alfred/flowupload/pull/150) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+3. 🎉 Merged PR [#153](https://github.com//e-alfred/flowupload/pull/153) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+4. 🎉 Merged PR [#158](https://github.com//e-alfred/flowupload/pull/158) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+5. 🎉 Merged PR [#157](https://github.com//e-alfred/flowupload/pull/157) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
