@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#161](https://github.com//e-alfred/flowupload/pull/161) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-2. 🎉 Merged PR [#162](https://github.com//e-alfred/flowupload/pull/162) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-3. 🎉 Merged PR [#163](https://github.com//e-alfred/flowupload/pull/163) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-4. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
-5. 🗣 Commented on [#91](https://github.com//thomasloven/hass-browser_mod/issues/91) in [thomasloven/hass-browser_mod](https://github.com//thomasloven/hass-browser_mod)
+1. 🗣 Commented on [#750](https://github.com//nextcloud/news/issues/750) in [nextcloud/news](https://github.com//nextcloud/news)
+2. 🎉 Merged PR [#161](https://github.com//e-alfred/flowupload/pull/161) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+3. 🎉 Merged PR [#162](https://github.com//e-alfred/flowupload/pull/162) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+4. 🎉 Merged PR [#163](https://github.com//e-alfred/flowupload/pull/163) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+5. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
