@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#164](https://github.com//e-alfred/flowupload/pull/164) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-2. 🗣 Commented on [#750](https://github.com//nextcloud/news/issues/750) in [nextcloud/news](https://github.com//nextcloud/news)
-3. 🎉 Merged PR [#161](https://github.com//e-alfred/flowupload/pull/161) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-4. 🎉 Merged PR [#162](https://github.com//e-alfred/flowupload/pull/162) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-5. 🎉 Merged PR [#163](https://github.com//e-alfred/flowupload/pull/163) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+1. 🎉 Merged PR [#29](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/29) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+2. 🎉 Merged PR [#164](https://github.com//e-alfred/flowupload/pull/164) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+3. 🗣 Commented on [#750](https://github.com//nextcloud/news/issues/750) in [nextcloud/news](https://github.com//nextcloud/news)
+4. 🎉 Merged PR [#161](https://github.com//e-alfred/flowupload/pull/161) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+5. 🎉 Merged PR [#162](https://github.com//e-alfred/flowupload/pull/162) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
