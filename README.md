@@ -42,10 +42,10 @@
 ## Recent Activity:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
-2. 🗣 Commented on [#29](https://github.com//DecaTec/sharerenamer/issues/29) in [DecaTec/sharerenamer](https://github.com//DecaTec/sharerenamer)
-3. 🎉 Merged PR [#14](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/14) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
-4. 💪 Opened PR [#14](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/14) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#29](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/29) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+2. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
+3. 🗣 Commented on [#29](https://github.com//DecaTec/sharerenamer/issues/29) in [DecaTec/sharerenamer](https://github.com//DecaTec/sharerenamer)
+4. 🎉 Merged PR [#14](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/14) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+5. 💪 Opened PR [#14](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/14) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
