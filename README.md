@@ -41,10 +41,10 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#165](https://github.com//e-alfred/flowupload/pull/165) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-2. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
-3. 🎉 Merged PR [#15](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/15) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
-4. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
+1. 🎉 Merged PR [#16](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/16) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#165](https://github.com//e-alfred/flowupload/pull/165) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+3. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
+4. 🎉 Merged PR [#15](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/15) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
 5. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
 <!--END_SECTION:activity-->
 
