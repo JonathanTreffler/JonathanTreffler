@@ -50,7 +50,6 @@
 
 ## Youtube Activity:
 <!-- YOUTUBE:START -->
-- [Countdown: Wann tritt Scheuer zurück ?](https://www.youtube.com/watch?v=gOJUUwpfndo)
 - [DWAVE Quantum Computer Animation](https://www.youtube.com/watch?v=AcO8yO35ci8)
 - [ISC 2019: The Quantum Boys](https://www.youtube.com/watch?v=aM_pAA9FdYY)
 <!-- YOUTUBE:END -->
