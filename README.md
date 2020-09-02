@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/32) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-2. 🎉 Merged PR [#33](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/33) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-3. 🎉 Merged PR [#30](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/30) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-4. 🎉 Merged PR [#31](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/31) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-5. ❗️ Opened issue [#2](https://github.com//JonathanTreffler/modern-vue-gallery/issues/2) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+1. ❗️ Opened issue [#16](https://github.com//chickomat/chickomat.github.io/issues/16) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+2. 🎉 Merged PR [#5](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/5) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+3. 🎉 Merged PR [#12](https://github.com//chickomat/chickomat.github.io/pull/12) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+4. 🎉 Merged PR [#13](https://github.com//chickomat/chickomat.github.io/pull/13) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+5. 🎉 Merged PR [#14](https://github.com//chickomat/chickomat.github.io/pull/14) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
