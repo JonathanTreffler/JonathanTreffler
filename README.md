@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#81](https://github.com//fractava/notes-core/issues/81) in [fractava/notes-core](https://github.com//fractava/notes-core)
-2. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
-3. 🎉 Merged PR [#169](https://github.com//e-alfred/flowupload/pull/169) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-4. 🎉 Merged PR [#168](https://github.com//e-alfred/flowupload/pull/168) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-5. 🎉 Merged PR [#170](https://github.com//e-alfred/flowupload/pull/170) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+1. ❗️ Opened issue [#2](https://github.com//JonathanTreffler/modern-vue-gallery/issues/2) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+2. ❗️ Opened issue [#1](https://github.com//JonathanTreffler/modern-vue-gallery/issues/1) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+3. ❗️ Opened issue [#81](https://github.com//fractava/notes-core/issues/81) in [fractava/notes-core](https://github.com//fractava/notes-core)
+4. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
+5. 🎉 Merged PR [#169](https://github.com//e-alfred/flowupload/pull/169) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
