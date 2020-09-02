@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com//chickomat/chickomat.github.io/issues/16) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-2. 🎉 Merged PR [#17](https://github.com//chickomat/chickomat.github.io/pull/17) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-3. 💪 Opened PR [#17](https://github.com//chickomat/chickomat.github.io/pull/17) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-4. ❗️ Opened issue [#3](https://github.com//JonathanTreffler/modern-vue-gallery/issues/3) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-5. ❗️ Opened issue [#16](https://github.com//chickomat/chickomat.github.io/issues/16) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+1. ❗️ Opened issue [#1](https://github.com//JonathanTreffler/my-vue-eslintrc/issues/1) in [JonathanTreffler/my-vue-eslintrc](https://github.com//JonathanTreffler/my-vue-eslintrc)
+2. 🎉 Merged PR [#17](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/17) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+3. 🗣 Commented on [#91](https://github.com//thomasloven/hass-browser_mod/issues/91) in [thomasloven/hass-browser_mod](https://github.com//thomasloven/hass-browser_mod)
+4. ❗️ Closed issue [#16](https://github.com//chickomat/chickomat.github.io/issues/16) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+5. 🎉 Merged PR [#17](https://github.com//chickomat/chickomat.github.io/pull/17) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
