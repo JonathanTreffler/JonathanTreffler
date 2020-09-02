@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//JonathanTreffler/canvas2image-2/issues/2) in [JonathanTreffler/canvas2image-2](https://github.com//JonathanTreffler/canvas2image-2)
-2. ❗️ Opened issue [#1](https://github.com//JonathanTreffler/canvas2image-2/issues/1) in [JonathanTreffler/canvas2image-2](https://github.com//JonathanTreffler/canvas2image-2)
-3. 🎉 Merged PR [#4](https://github.com//JonathanTreffler/Quill-mathQuill-blot/pull/4) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com//JonathanTreffler/Quill-mathQuill-blot)
-4. ❗️ Opened issue [#1](https://github.com//JonathanTreffler/my-vue-eslintrc/issues/1) in [JonathanTreffler/my-vue-eslintrc](https://github.com//JonathanTreffler/my-vue-eslintrc)
-5. 🎉 Merged PR [#17](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/17) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+1. ❗️ Closed issue [#1](https://github.com//JonathanTreffler/canvas2image-2/issues/1) in [JonathanTreffler/canvas2image-2](https://github.com//JonathanTreffler/canvas2image-2)
+2. 🎉 Merged PR [#2](https://github.com//JonathanTreffler/vuejs-quill/pull/2) in [JonathanTreffler/vuejs-quill](https://github.com//JonathanTreffler/vuejs-quill)
+3. 🗣 Commented on [#2](https://github.com//JonathanTreffler/vuejs-quill/issues/2) in [JonathanTreffler/vuejs-quill](https://github.com//JonathanTreffler/vuejs-quill)
+4. 🎉 Merged PR [#1](https://github.com//JonathanTreffler/vuejs-quill/pull/1) in [JonathanTreffler/vuejs-quill](https://github.com//JonathanTreffler/vuejs-quill)
+5. ❗️ Opened issue [#2](https://github.com//JonathanTreffler/canvas2image-2/issues/2) in [JonathanTreffler/canvas2image-2](https://github.com//JonathanTreffler/canvas2image-2)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
