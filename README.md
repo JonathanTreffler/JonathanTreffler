@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com//JonathanTreffler/modern-vue-gallery/pull/5) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-2. 🗣 Commented on [#5](https://github.com//JonathanTreffler/modern-vue-gallery/issues/5) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-3. 🗣 Commented on [#5](https://github.com//JonathanTreffler/modern-vue-gallery/issues/5) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-4. ❗️ Closed issue [#1](https://github.com//JonathanTreffler/canvas2image-2/issues/1) in [JonathanTreffler/canvas2image-2](https://github.com//JonathanTreffler/canvas2image-2)
-5. 🎉 Merged PR [#2](https://github.com//JonathanTreffler/vuejs-quill/pull/2) in [JonathanTreffler/vuejs-quill](https://github.com//JonathanTreffler/vuejs-quill)
+1. ❗️ Opened issue [#3](https://github.com//JonathanTreffler/Home-Assistant-remote-cec/issues/3) in [JonathanTreffler/Home-Assistant-remote-cec](https://github.com//JonathanTreffler/Home-Assistant-remote-cec)
+2. ❗️ Closed issue [#3](https://github.com//JonathanTreffler/modern-vue-gallery/issues/3) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+3. 🎉 Merged PR [#5](https://github.com//JonathanTreffler/modern-vue-gallery/pull/5) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+4. 🗣 Commented on [#5](https://github.com//JonathanTreffler/modern-vue-gallery/issues/5) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+5. 🗣 Commented on [#5](https://github.com//JonathanTreffler/modern-vue-gallery/issues/5) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
