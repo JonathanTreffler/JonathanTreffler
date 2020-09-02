@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com//chickomat/chickomat.github.io/issues/16) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-2. 🎉 Merged PR [#5](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/5) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
-3. 🎉 Merged PR [#12](https://github.com//chickomat/chickomat.github.io/pull/12) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-4. 🎉 Merged PR [#13](https://github.com//chickomat/chickomat.github.io/pull/13) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-5. 🎉 Merged PR [#14](https://github.com//chickomat/chickomat.github.io/pull/14) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+1. 💪 Opened PR [#17](https://github.com//chickomat/chickomat.github.io/pull/17) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+2. ❗️ Opened issue [#3](https://github.com//JonathanTreffler/modern-vue-gallery/issues/3) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+3. ❗️ Opened issue [#16](https://github.com//chickomat/chickomat.github.io/issues/16) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+4. 🎉 Merged PR [#5](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/5) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+5. 🎉 Merged PR [#12](https://github.com//chickomat/chickomat.github.io/pull/12) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
