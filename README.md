@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com//fractava/notes-core/pull/80) in [fractava/notes-core](https://github.com//fractava/notes-core)
-2. 🎉 Merged PR [#7](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/7) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
-3. 🎉 Merged PR [#18](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/18) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#5](https://github.com//JonathanTreffler/Quill-mathQuill-blot/pull/5) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com//JonathanTreffler/Quill-mathQuill-blot)
-5. ❗️ Closed issue [#2](https://github.com//JonathanTreffler/my-vue-eslintrc/issues/2) in [JonathanTreffler/my-vue-eslintrc](https://github.com//JonathanTreffler/my-vue-eslintrc)
+1. 🗣 Commented on [#4](https://github.com//JonathanTreffler/modern-vue-gallery/issues/4) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+2. 🎉 Merged PR [#80](https://github.com//fractava/notes-core/pull/80) in [fractava/notes-core](https://github.com//fractava/notes-core)
+3. 🎉 Merged PR [#7](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/7) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+4. 🎉 Merged PR [#18](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/18) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#5](https://github.com//JonathanTreffler/Quill-mathQuill-blot/pull/5) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com//JonathanTreffler/Quill-mathQuill-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
