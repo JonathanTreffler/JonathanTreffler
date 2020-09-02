@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//JonathanTreffler/modern-vue-gallery/issues/2) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-2. ❗️ Opened issue [#1](https://github.com//JonathanTreffler/modern-vue-gallery/issues/1) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-3. ❗️ Opened issue [#81](https://github.com//fractava/notes-core/issues/81) in [fractava/notes-core](https://github.com//fractava/notes-core)
-4. 🗣 Commented on [#1277](https://github.com//nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com//nextcloud/nextcloud-vue)
-5. 🎉 Merged PR [#169](https://github.com//e-alfred/flowupload/pull/169) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+1. 🎉 Merged PR [#32](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/32) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+2. 🎉 Merged PR [#33](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/33) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+3. 🎉 Merged PR [#30](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/30) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+4. 🎉 Merged PR [#31](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/31) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+5. ❗️ Opened issue [#2](https://github.com//JonathanTreffler/modern-vue-gallery/issues/2) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
