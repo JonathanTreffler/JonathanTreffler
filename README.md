@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com//JonathanTreffler/Home-Assistant-remote-cec/issues/3) in [JonathanTreffler/Home-Assistant-remote-cec](https://github.com//JonathanTreffler/Home-Assistant-remote-cec)
-2. ❗️ Closed issue [#3](https://github.com//JonathanTreffler/modern-vue-gallery/issues/3) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-3. 🎉 Merged PR [#5](https://github.com//JonathanTreffler/modern-vue-gallery/pull/5) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-4. 🗣 Commented on [#5](https://github.com//JonathanTreffler/modern-vue-gallery/issues/5) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-5. 🗣 Commented on [#5](https://github.com//JonathanTreffler/modern-vue-gallery/issues/5) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+1. ❗️ Closed issue [#2](https://github.com//JonathanTreffler/my-vue-eslintrc/issues/2) in [JonathanTreffler/my-vue-eslintrc](https://github.com//JonathanTreffler/my-vue-eslintrc)
+2. ❗️ Opened issue [#2](https://github.com//JonathanTreffler/my-vue-eslintrc/issues/2) in [JonathanTreffler/my-vue-eslintrc](https://github.com//JonathanTreffler/my-vue-eslintrc)
+3. ❗️ Opened issue [#3](https://github.com//JonathanTreffler/Home-Assistant-remote-cec/issues/3) in [JonathanTreffler/Home-Assistant-remote-cec](https://github.com//JonathanTreffler/Home-Assistant-remote-cec)
+4. ❗️ Closed issue [#3](https://github.com//JonathanTreffler/modern-vue-gallery/issues/3) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+5. 🎉 Merged PR [#5](https://github.com//JonathanTreffler/modern-vue-gallery/pull/5) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
