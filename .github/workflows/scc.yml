@@ -2,6 +2,8 @@ name: SCC
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron:  '0 */6 * * *'
 
 jobs:
   calculate_loc:
@@ -24,19 +26,13 @@ jobs:
         run: go get -u github.com/boyter/scc/
       
       - name: scc
-        run: scc ./projects/ &> scc.txt
+        run: scc ./projects/
       
       - name: scc html
         run: scc ./projects/ --include-ext vue,js,py,pde,css,sh,html,php,ts,cpp,json,xml,md -f html-table &> scc.html
       
       - name: README update
         run: node scc.js
-    
-      - name: Upload scc output as a build artifact
-        uses: actions/upload-artifact@v1
-        with:
-          name: scc
-          path: scc.txt
       
       - name: Commit files
         run: |
