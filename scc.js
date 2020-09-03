@@ -1,16 +1,16 @@
 fs = require('fs');
 
 fs.readFile("scc.html", 'utf8', function (err,data) {
-  var scc = data;
-  
-  fs.readFile("README.md", 'utf8', function (err,data) {
-    var readme = data;
+  var sccData = data;
 
-    run();
+  fs.readFile("README.md", 'utf8', function (err,data) {
+    var readmeData = data;
+
+    run(sccData, readmeData);
   });
 });
 
-function run() {
+function run(scc, readme) {
   let startString = "<!-- /start_scc/ -->";
   let endString = "<!-- /end_scc/ -->";
 
