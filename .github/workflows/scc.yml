@@ -39,12 +39,14 @@ jobs:
       - name: scc html
         run: scc ./projects/ -f html-table &> scc.html
       
-      - name: README update
+      - name: README update var setup
         run: |
           table=$(cat scc.html)
-          echo "$table"
           table="<!-- /start_scc/ --> ${table} <!-- /end_scc/ -->"
           echo "$table"
+      
+      - name: README update replace
+        run: |
           sed -i '\%<!-- /start_scc/ -->%,\%<!-- /end_scc/ -->%c\'"$table"'' README.md
           cat README.md
     
