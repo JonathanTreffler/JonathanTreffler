@@ -44,12 +44,15 @@ jobs:
           table=$(cat scc.html)
           table="<!-- /start_scc/ --> ${table} <!-- /end_scc/ -->"
           echo "$table"
+          
+      - name: test
+        run: echo "$table"
       
       - name: README update replace
         run: |
           echo "$table"
           echo "================================="
-          sed -i '\%<!-- /start_scc/ -->%,\%<!-- /end_scc/ -->%c\'test "$table"'' README.md
+          sed -i '\%<!-- /start_scc/ -->%,\%<!-- /end_scc/ -->%c\test '"$table"'' README.md
           cat README.md
     
       - name: Upload scc output as a build artifact
