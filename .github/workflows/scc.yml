@@ -47,7 +47,9 @@ jobs:
       
       - name: README update replace
         run: |
-          sed -i '\%<!-- /start_scc/ -->%,\%<!-- /end_scc/ -->%c\'"$table"'' README.md
+          echo "$table"
+          echo "================================="
+          sed -i '\%<!-- /start_scc/ -->%,\%<!-- /end_scc/ -->%c\'test "$table"'' README.md
           cat README.md
     
       - name: Upload scc output as a build artifact
