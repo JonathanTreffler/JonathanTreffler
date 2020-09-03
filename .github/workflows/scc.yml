@@ -1,0 +1,49 @@
+name: SCC
+
+on:
+  workflow_dispatch:
+
+jobs:
+  calculate_loc:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: 'true'
+
+      - name: ls
+        run: ls -la projects
+      
+      - uses: actions/setup-go@v2
+        with:
+          go-version: '^1.13.1'
+      
+      - run: go version
+      
+      - name: scc install
+        run: go get -u github.com/boyter/scc/
+      
+      - name: jq install
+        run: |
+          sudo apt update
+          sudo apt install jq
+      
+      - name: remove old files
+        run: rm scc.txt scc.html
+        continue-on-error: true
+      
+      - name: scc
+        run: scc ./projects/ &> scc.txt
+      
+      - name: scc html
+        run: scc ./projects/ -f html-table &> scc.html
+      
+      - name: scc json
+        run: scc ./projects/ -f json
+    
+      - name: Upload scc output as a build artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: scc
+          path: scc.txt
