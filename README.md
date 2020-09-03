@@ -41,11 +41,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#171](https://github.com//e-alfred/flowupload/pull/171) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-2. 🎉 Merged PR [#172](https://github.com//e-alfred/flowupload/pull/172) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-3. 🎉 Merged PR [#15](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/15) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
-4. 🎉 Merged PR [#16](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/16) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
-5. 🎉 Merged PR [#17](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/17) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+1. 🗣 Commented on [#18](https://github.com//JonathanTreffler/Quill-mathLive-blot/issues/18) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+2. 🎉 Merged PR [#171](https://github.com//e-alfred/flowupload/pull/171) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+3. 🎉 Merged PR [#172](https://github.com//e-alfred/flowupload/pull/172) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+4. 🎉 Merged PR [#15](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/15) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+5. 🎉 Merged PR [#16](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/16) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
