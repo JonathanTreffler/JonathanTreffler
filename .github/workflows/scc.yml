@@ -31,7 +31,7 @@ jobs:
         run: scc ./projects/ &> scc.txt
       
       - name: scc html
-        run: scc ./projects/ -f html-table &> scc.html
+        run: scc ./projects/ -f html-table --no-complexity &> scc.html
       
       - name: README update
         run: node scc.js
