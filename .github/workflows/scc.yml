@@ -23,10 +23,6 @@ jobs:
       - name: scc install
         run: go get -u github.com/boyter/scc/
       
-      - name: remove old files
-        run: rm scc.txt scc.html
-        continue-on-error: true
-      
       - name: scc
         run: scc ./projects/ &> scc.txt
       
