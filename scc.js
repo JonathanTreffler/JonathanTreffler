@@ -27,7 +27,7 @@ function run(scc, readme) {
   console.log("=========");
   console.log(searchString);
 
-  let replaceString = startString + scc + endString;
+  let replaceString = startString + "\n" + scc + endString;
 
   console.log("=========");
   console.log(replaceString);
