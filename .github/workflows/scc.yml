@@ -22,17 +22,20 @@ jobs:
         with:
           node-version: '14'
             
-      - name: scc install
+      - name: SCC install
         run: go get -u github.com/boyter/scc/
       
-      - name: scc
-        run: scc ./projects/
+      - name: SCC
+        run: scc ./projects/ > scc.txt
       
-      - name: scc html
-        run: scc ./projects/ --include-ext vue,js,py,pde,css,sh,html,php,ts,cpp,json,xml,md -f html-table &> scc.html
+      - name: SCC html
+        run: scc ./projects/ --include-ext vue,js,py,pde,css,sh,html,php,ts,cpp,json,xml,md -f html-table > scc.html
       
       - name: README update
         run: node scc.js
+      
+      - name: Delete temporary files
+        run: rm scc.html
       
       - name: Commit files
         run: |
