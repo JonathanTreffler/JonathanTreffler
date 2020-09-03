@@ -25,7 +25,8 @@
 
 
 ## SCC (= Lines of Code):
-<!-- /start_scc/ --><table id="scc-table">
+<!-- /start_scc/ -->
+<table id="scc-table">
 	<thead><tr>
 		<th>Language</th>
 		<th>Files</th>
