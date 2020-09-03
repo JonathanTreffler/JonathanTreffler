@@ -36,4 +36,6 @@ function run(scc, readme) {
 
   console.log("=========");
   console.log(result);
+
+  fs.writeFile("README_new.md", result);
 }
