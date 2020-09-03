@@ -37,5 +37,5 @@ function run(scc, readme) {
   console.log("=========");
   console.log(result);
 
-  fs.writeFileSync("README_new.md", result);
+  fs.writeFileSync("README.md", result);
 }
