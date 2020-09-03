@@ -22,7 +22,7 @@ function run(scc, readme) {
 
   let betweenString = readme.substring(startIndex, endIndex)
 
-  let searchString = startString + betweenString + endString;
+  let searchString = betweenString + endString;
 
   console.log("=========");
   console.log(searchString);
