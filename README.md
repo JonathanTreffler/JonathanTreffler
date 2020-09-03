@@ -19,12 +19,9 @@
 <br>
 
 ## Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTreffler)
 ![](https://github-readme-stats.vercel.app/api?username=JonathanTreffler&show_icons=true&include_all_commits=true&hide_title=true)
 
-
-## SCC (= Lines of Code):
+## SCC (= Lines of Code of all my projects):
 <!-- /start_scc/ -->
 <table id="scc-table">
 	<thead><tr>
