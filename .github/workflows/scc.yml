@@ -39,8 +39,14 @@ jobs:
       - name: scc html
         run: scc ./projects/ -f html-table &> scc.html
       
-      - name: scc json
-        run: scc ./projects/ -f json
+      - name: README update
+        run: |
+          table=$(cat scc.html)
+          echo "$table"
+          table="<!-- /start_scc/ --> ${table} <!-- /end_scc/ -->"
+          echo "$table"
+          sed -i '\%<!-- /start_scc/ -->%,\%<!-- /end_scc/ -->%c\'"$table"'' README.md
+          cat README.md
     
       - name: Upload scc output as a build artifact
         uses: actions/upload-artifact@v1
