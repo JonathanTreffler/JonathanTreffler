@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22](https://github.com//JonathanTreffler/Quill-mathLive-blot/issues/22) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
-2. 🗣 Commented on [#9](https://github.com//hmlendea/geforcenow-electron/issues/9) in [hmlendea/geforcenow-electron](https://github.com//hmlendea/geforcenow-electron)
-3. 💪 Opened PR [#11](https://github.com//hmlendea/geforcenow-electron/pull/11) in [hmlendea/geforcenow-electron](https://github.com//hmlendea/geforcenow-electron)
-4. ❗️ Opened issue [#7](https://github.com//JonathanTreffler/Quill-mathQuill-blot/issues/7) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com//JonathanTreffler/Quill-mathQuill-blot)
-5. 🎉 Merged PR [#6](https://github.com//JonathanTreffler/Quill-mathQuill-blot/pull/6) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com//JonathanTreffler/Quill-mathQuill-blot)
+1. 🎉 Merged PR [#23](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/23) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+2. ❗️ Closed issue [#22](https://github.com//JonathanTreffler/Quill-mathLive-blot/issues/22) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+3. 🗣 Commented on [#9](https://github.com//hmlendea/geforcenow-electron/issues/9) in [hmlendea/geforcenow-electron](https://github.com//hmlendea/geforcenow-electron)
+4. 💪 Opened PR [#11](https://github.com//hmlendea/geforcenow-electron/pull/11) in [hmlendea/geforcenow-electron](https://github.com//hmlendea/geforcenow-electron)
+5. ❗️ Opened issue [#7](https://github.com//JonathanTreffler/Quill-mathQuill-blot/issues/7) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com//JonathanTreffler/Quill-mathQuill-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
