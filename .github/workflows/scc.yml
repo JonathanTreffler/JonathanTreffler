@@ -38,6 +38,7 @@ jobs:
         run: rm scc.html
       
       - name: Commit files
+        continue-on-error: true
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "Github Actions"
