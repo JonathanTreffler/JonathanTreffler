@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com//JonathanTreffler/Quill-mathLive-blot/issues/6) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
-2. 🗣 Commented on [#6](https://github.com//JonathanTreffler/Quill-mathLive-blot/issues/6) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
-3. 💪 Opened PR [#41](https://github.com//quilljs/awesome-quill/pull/41) in [quilljs/awesome-quill](https://github.com//quilljs/awesome-quill)
-4. ❗️ Closed issue [#7](https://github.com//JonathanTreffler/Quill-mathQuill-blot/issues/7) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com//JonathanTreffler/Quill-mathQuill-blot)
-5. 🎉 Merged PR [#8](https://github.com//JonathanTreffler/Quill-mathQuill-blot/pull/8) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com//JonathanTreffler/Quill-mathQuill-blot)
+1. 💪 Opened PR [#42](https://github.com//quilljs/awesome-quill/pull/42) in [quilljs/awesome-quill](https://github.com//quilljs/awesome-quill)
+2. ❗️ Closed issue [#6](https://github.com//JonathanTreffler/Quill-mathLive-blot/issues/6) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+3. 🗣 Commented on [#6](https://github.com//JonathanTreffler/Quill-mathLive-blot/issues/6) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+4. 💪 Opened PR [#41](https://github.com//quilljs/awesome-quill/pull/41) in [quilljs/awesome-quill](https://github.com//quilljs/awesome-quill)
+5. ❗️ Closed issue [#7](https://github.com//JonathanTreffler/Quill-mathQuill-blot/issues/7) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com//JonathanTreffler/Quill-mathQuill-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
