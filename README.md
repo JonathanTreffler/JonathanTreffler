@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#175](https://github.com//e-alfred/flowupload/pull/175) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-2. 🎉 Merged PR [#173](https://github.com//e-alfred/flowupload/pull/173) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-3. 🎉 Merged PR [#174](https://github.com//e-alfred/flowupload/pull/174) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-4. 💪 Opened PR [#42](https://github.com//quilljs/awesome-quill/pull/42) in [quilljs/awesome-quill](https://github.com//quilljs/awesome-quill)
-5. ❗️ Closed issue [#6](https://github.com//JonathanTreffler/Quill-mathLive-blot/issues/6) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+1. 🎉 Merged PR [#21](https://github.com//chickomat/chickomat.github.io/pull/21) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+2. 🎉 Merged PR [#175](https://github.com//e-alfred/flowupload/pull/175) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+3. 🎉 Merged PR [#173](https://github.com//e-alfred/flowupload/pull/173) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+4. 🎉 Merged PR [#174](https://github.com//e-alfred/flowupload/pull/174) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+5. 💪 Opened PR [#42](https://github.com//quilljs/awesome-quill/pull/42) in [quilljs/awesome-quill](https://github.com//quilljs/awesome-quill)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
