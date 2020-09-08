@@ -57,21 +57,21 @@
 	</tr><tr>
 		<th>Markdown</th>
 		<th>58</th>
-		<th>1244</th>
-		<th>259</th>
+		<th>1271</th>
+		<th>261</th>
 		<th>0</th>
-		<th>985</th>
+		<th>1010</th>
 		<th>0</th>
-		<th>54498</th>
+		<th>54992</th>
 	</tr><tr>
 		<th>JSON</th>
 		<th>53</th>
-		<th>123056</th>
+		<th>123379</th>
 		<th>1</th>
 		<th>0</th>
-		<th>123055</th>
+		<th>123378</th>
 		<th>0</th>
-		<th>4911069</th>
+		<th>4934183</th>
 	</tr><tr>
 		<th>Processing</th>
 		<th>25</th>
@@ -157,12 +157,12 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>374</th>
-		<th>161450</th>
-		<th>5182</th>
+		<th>161800</th>
+		<th>5184</th>
 		<th>6000</th>
-		<th>150268</th>
+		<th>150616</th>
 		<th>3742</th>
-    	<th>6536599</th>
+    	<th>6560207</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
