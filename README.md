@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com//JonathanTreffler/modern-vue-gallery/pull/9) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-2. 🎉 Merged PR [#26](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/26) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
-3. 🗣 Commented on [#176](https://github.com//e-alfred/flowupload/issues/176) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-4. ❗️ Opened issue [#2385](https://github.com//nextcloud/desktop/issues/2385) in [nextcloud/desktop](https://github.com//nextcloud/desktop)
-5. 🎉 Merged PR [#25](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/25) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+1. 🎉 Merged PR [#177](https://github.com//e-alfred/flowupload/pull/177) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+2. 🎉 Merged PR [#9](https://github.com//JonathanTreffler/modern-vue-gallery/pull/9) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+3. 🎉 Merged PR [#26](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/26) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+4. 🗣 Commented on [#176](https://github.com//e-alfred/flowupload/issues/176) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+5. ❗️ Opened issue [#2385](https://github.com//nextcloud/desktop/issues/2385) in [nextcloud/desktop](https://github.com//nextcloud/desktop)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
