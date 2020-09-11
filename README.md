@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#179](https://github.com//e-alfred/flowupload/pull/179) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-2. 🗣 Commented on [#2385](https://github.com//nextcloud/desktop/issues/2385) in [nextcloud/desktop](https://github.com//nextcloud/desktop)
-3. 🎉 Merged PR [#10](https://github.com//JonathanTreffler/modern-vue-gallery/pull/10) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-4. 🎉 Merged PR [#178](https://github.com//e-alfred/flowupload/pull/178) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-5. 🎉 Merged PR [#177](https://github.com//e-alfred/flowupload/pull/177) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+1. 🎉 Merged PR [#20](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/20) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#179](https://github.com//e-alfred/flowupload/pull/179) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+3. 🗣 Commented on [#2385](https://github.com//nextcloud/desktop/issues/2385) in [nextcloud/desktop](https://github.com//nextcloud/desktop)
+4. 🎉 Merged PR [#10](https://github.com//JonathanTreffler/modern-vue-gallery/pull/10) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+5. 🎉 Merged PR [#178](https://github.com//e-alfred/flowupload/pull/178) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
