@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com//JonathanTreffler/modern-vue-gallery/pull/11) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-2. 🎉 Merged PR [#18](https://github.com//chickomat/chickomat.github.io/pull/18) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-3. 🎉 Merged PR [#21](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/21) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#20](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/20) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#179](https://github.com//e-alfred/flowupload/pull/179) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+1. 🎉 Merged PR [#22](https://github.com//chickomat/chickomat.github.io/pull/22) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+2. 🎉 Merged PR [#11](https://github.com//JonathanTreffler/modern-vue-gallery/pull/11) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+3. 🎉 Merged PR [#18](https://github.com//chickomat/chickomat.github.io/pull/18) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+4. 🎉 Merged PR [#21](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/21) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#20](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/20) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
