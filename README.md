@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com//JonathanTreffler/modern-vue-gallery/pull/16) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-2. 🎉 Merged PR [#14](https://github.com//JonathanTreffler/modern-vue-gallery/pull/14) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-3. 🎉 Merged PR [#180](https://github.com//e-alfred/flowupload/pull/180) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-4. 🎉 Merged PR [#181](https://github.com//e-alfred/flowupload/pull/181) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-5. 🎉 Merged PR [#38](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/38) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+1. 🎉 Merged PR [#27](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/27) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+2. 🎉 Merged PR [#16](https://github.com//JonathanTreffler/modern-vue-gallery/pull/16) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+3. 🎉 Merged PR [#14](https://github.com//JonathanTreffler/modern-vue-gallery/pull/14) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+4. 🎉 Merged PR [#180](https://github.com//e-alfred/flowupload/pull/180) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+5. 🎉 Merged PR [#181](https://github.com//e-alfred/flowupload/pull/181) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
