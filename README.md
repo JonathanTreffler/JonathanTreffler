@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com//JonathanTreffler/vuejs-quill/pull/4) in [JonathanTreffler/vuejs-quill](https://github.com//JonathanTreffler/vuejs-quill)
-2. 🎉 Merged PR [#3](https://github.com//JonathanTreffler/my-vue-eslintrc/pull/3) in [JonathanTreffler/my-vue-eslintrc](https://github.com//JonathanTreffler/my-vue-eslintrc)
-3. 🎉 Merged PR [#27](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/27) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
-4. 🎉 Merged PR [#16](https://github.com//JonathanTreffler/modern-vue-gallery/pull/16) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-5. 🎉 Merged PR [#14](https://github.com//JonathanTreffler/modern-vue-gallery/pull/14) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+1. 🎉 Merged PR [#22](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/22) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#4](https://github.com//JonathanTreffler/vuejs-quill/pull/4) in [JonathanTreffler/vuejs-quill](https://github.com//JonathanTreffler/vuejs-quill)
+3. 🎉 Merged PR [#3](https://github.com//JonathanTreffler/my-vue-eslintrc/pull/3) in [JonathanTreffler/my-vue-eslintrc](https://github.com//JonathanTreffler/my-vue-eslintrc)
+4. 🎉 Merged PR [#27](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/27) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+5. 🎉 Merged PR [#16](https://github.com//JonathanTreffler/modern-vue-gallery/pull/16) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
