@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/42) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-2. 🎉 Merged PR [#22](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/22) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
-3. 🎉 Merged PR [#4](https://github.com//JonathanTreffler/vuejs-quill/pull/4) in [JonathanTreffler/vuejs-quill](https://github.com//JonathanTreffler/vuejs-quill)
-4. 🎉 Merged PR [#3](https://github.com//JonathanTreffler/my-vue-eslintrc/pull/3) in [JonathanTreffler/my-vue-eslintrc](https://github.com//JonathanTreffler/my-vue-eslintrc)
-5. 🎉 Merged PR [#27](https://github.com//JonathanTreffler/Quill-mathLive-blot/pull/27) in [JonathanTreffler/Quill-mathLive-blot](https://github.com//JonathanTreffler/Quill-mathLive-blot)
+1. 🎉 Merged PR [#23](https://github.com//chickomat/chickomat.github.io/pull/23) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+2. 🎉 Merged PR [#25](https://github.com//chickomat/chickomat.github.io/pull/25) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+3. 🎉 Merged PR [#24](https://github.com//chickomat/chickomat.github.io/pull/24) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+4. 🎉 Merged PR [#42](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/42) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+5. 🎉 Merged PR [#22](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/22) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
