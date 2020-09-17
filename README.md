@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//JonathanTreffler/canvas2image-2/pull/3) in [JonathanTreffler/canvas2image-2](https://github.com//JonathanTreffler/canvas2image-2)
-2. ❗️ Opened issue [#89](https://github.com//fractava/notes-core/issues/89) in [fractava/notes-core](https://github.com//fractava/notes-core)
-3. 🗣 Commented on [#276](https://github.com//janis91/ocr/issues/276) in [janis91/ocr](https://github.com//janis91/ocr)
-4. 🎉 Merged PR [#8](https://github.com//JonathanTreffler/modern-vue-gallery/pull/8) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-5. 🎉 Merged PR [#43](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/43) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+1. ❗️ Opened issue [#2](https://github.com//algorithmik-kurs/algorithmik-kurs.github.io/issues/2) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com//algorithmik-kurs/algorithmik-kurs.github.io)
+2. ❗️ Opened issue [#1](https://github.com//algorithmik-kurs/algorithmik-kurs.github.io/issues/1) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com//algorithmik-kurs/algorithmik-kurs.github.io)
+3. 🎉 Merged PR [#3](https://github.com//JonathanTreffler/canvas2image-2/pull/3) in [JonathanTreffler/canvas2image-2](https://github.com//JonathanTreffler/canvas2image-2)
+4. ❗️ Opened issue [#89](https://github.com//fractava/notes-core/issues/89) in [fractava/notes-core](https://github.com//fractava/notes-core)
+5. 🗣 Commented on [#276](https://github.com//janis91/ocr/issues/276) in [janis91/ocr](https://github.com//janis91/ocr)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
