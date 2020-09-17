@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//algorithmik-kurs/algorithmik-kurs.github.io/issues/2) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com//algorithmik-kurs/algorithmik-kurs.github.io)
-2. ❗️ Opened issue [#1](https://github.com//algorithmik-kurs/algorithmik-kurs.github.io/issues/1) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com//algorithmik-kurs/algorithmik-kurs.github.io)
-3. 🎉 Merged PR [#3](https://github.com//JonathanTreffler/canvas2image-2/pull/3) in [JonathanTreffler/canvas2image-2](https://github.com//JonathanTreffler/canvas2image-2)
-4. ❗️ Opened issue [#89](https://github.com//fractava/notes-core/issues/89) in [fractava/notes-core](https://github.com//fractava/notes-core)
-5. 🗣 Commented on [#276](https://github.com//janis91/ocr/issues/276) in [janis91/ocr](https://github.com//janis91/ocr)
+1. 🗣 Commented on [#182](https://github.com//e-alfred/flowupload/issues/182) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+2. ❗️ Opened issue [#2](https://github.com//algorithmik-kurs/algorithmik-kurs.github.io/issues/2) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com//algorithmik-kurs/algorithmik-kurs.github.io)
+3. ❗️ Opened issue [#1](https://github.com//algorithmik-kurs/algorithmik-kurs.github.io/issues/1) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com//algorithmik-kurs/algorithmik-kurs.github.io)
+4. 🎉 Merged PR [#3](https://github.com//JonathanTreffler/canvas2image-2/pull/3) in [JonathanTreffler/canvas2image-2](https://github.com//JonathanTreffler/canvas2image-2)
+5. ❗️ Opened issue [#89](https://github.com//fractava/notes-core/issues/89) in [fractava/notes-core](https://github.com//fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
