@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#772](https://github.com//esphome/esphome-docs/pull/772) in [esphome/esphome-docs](https://github.com//esphome/esphome-docs)
-2. ❗️ Opened issue [#28](https://github.com//chickomat/chickomat.github.io/issues/28) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
-3. ❗️ Closed issue [#20](https://github.com//JonathanTreffler/nuxt-gallery/issues/20) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
-4. 🗣 Commented on [#20](https://github.com//JonathanTreffler/nuxt-gallery/issues/20) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
-5. ❗️ Opened issue [#44](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/issues/44) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+1. ❗️ Opened issue [#23](https://github.com//JonathanTreffler/nuxt-gallery/issues/23) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
+2. ❗️ Opened issue [#22](https://github.com//JonathanTreffler/nuxt-gallery/issues/22) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
+3. 🎉 Merged PR [#21](https://github.com//JonathanTreffler/nuxt-gallery/pull/21) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
+4. 🗣 Commented on [#21](https://github.com//JonathanTreffler/nuxt-gallery/issues/21) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
+5. 💪 Opened PR [#772](https://github.com//esphome/esphome-docs/pull/772) in [esphome/esphome-docs](https://github.com//esphome/esphome-docs)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
