@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com//JonathanTreffler/modern-vue-gallery/issues/20) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-2. ❗️ Closed issue [#2](https://github.com//JonathanTreffler/modern-vue-gallery/issues/2) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-3. 🗣 Commented on [#2](https://github.com//JonathanTreffler/modern-vue-gallery/issues/2) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-4. 🎉 Merged PR [#19](https://github.com//JonathanTreffler/modern-vue-gallery/pull/19) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-5. ❗️ Closed issue [#1](https://github.com//JonathanTreffler/modern-vue-gallery/issues/1) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+1. ❗️ Closed issue [#20](https://github.com//JonathanTreffler/nuxt-gallery/issues/20) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
+2. 🗣 Commented on [#20](https://github.com//JonathanTreffler/nuxt-gallery/issues/20) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
+3. ❗️ Opened issue [#44](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/issues/44) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+4. ❗️ Opened issue [#20](https://github.com//JonathanTreffler/modern-vue-gallery/issues/20) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+5. ❗️ Closed issue [#2](https://github.com//JonathanTreffler/modern-vue-gallery/issues/2) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
