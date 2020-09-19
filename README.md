@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com//JonathanTreffler/modern-vue-gallery/issues/2) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-2. 🗣 Commented on [#2](https://github.com//JonathanTreffler/modern-vue-gallery/issues/2) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-3. 🎉 Merged PR [#19](https://github.com//JonathanTreffler/modern-vue-gallery/pull/19) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-4. ❗️ Closed issue [#1](https://github.com//JonathanTreffler/modern-vue-gallery/issues/1) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
-5. 🗣 Commented on [#1](https://github.com//JonathanTreffler/modern-vue-gallery/issues/1) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+1. ❗️ Opened issue [#20](https://github.com//JonathanTreffler/modern-vue-gallery/issues/20) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+2. ❗️ Closed issue [#2](https://github.com//JonathanTreffler/modern-vue-gallery/issues/2) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+3. 🗣 Commented on [#2](https://github.com//JonathanTreffler/modern-vue-gallery/issues/2) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+4. 🎉 Merged PR [#19](https://github.com//JonathanTreffler/modern-vue-gallery/pull/19) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
+5. ❗️ Closed issue [#1](https://github.com//JonathanTreffler/modern-vue-gallery/issues/1) in [JonathanTreffler/modern-vue-gallery](https://github.com//JonathanTreffler/modern-vue-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
