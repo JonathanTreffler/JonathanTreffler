@@ -62,7 +62,7 @@
 		<th>0</th>
 		<th>1048</th>
 		<th>0</th>
-		<th>56808</th>
+		<th>56809</th>
 	</tr><tr>
 		<th>JSON</th>
 		<th>53</th>
@@ -162,7 +162,7 @@
 		<th>6000</th>
 		<th>154129</th>
 		<th>3742</th>
-    	<th>6695966</th>
+    	<th>6695967</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
