@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/23) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
-2. 🗣 Commented on [#184](https://github.com//e-alfred/flowupload/issues/184) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-3. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
-4. 🎉 Merged PR [#25](https://github.com//JonathanTreffler/nuxt-gallery/pull/25) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
-5. ❗️ Opened issue [#24](https://github.com//JonathanTreffler/nuxt-gallery/issues/24) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
+1. 🎉 Merged PR [#45](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/45) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+2. 🎉 Merged PR [#46](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/46) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+3. 🎉 Merged PR [#47](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/47) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com//Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+4. 🎉 Merged PR [#29](https://github.com//chickomat/chickomat.github.io/pull/29) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
+5. 🎉 Merged PR [#30](https://github.com//chickomat/chickomat.github.io/pull/30) in [chickomat/chickomat.github.io](https://github.com//chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
