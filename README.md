@@ -66,12 +66,12 @@
 	</tr><tr>
 		<th>JSON</th>
 		<th>53</th>
-		<th>126824</th>
+		<th>126826</th>
 		<th>1</th>
 		<th>0</th>
-		<th>126823</th>
+		<th>126825</th>
 		<th>0</th>
-		<th>5067349</th>
+		<th>5067487</th>
 	</tr><tr>
 		<th>Processing</th>
 		<th>25</th>
@@ -157,12 +157,12 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>373</th>
-		<th>165299</th>
+		<th>165301</th>
 		<th>5195</th>
 		<th>6000</th>
-		<th>154104</th>
+		<th>154106</th>
 		<th>3742</th>
-    	<th>6694986</th>
+    	<th>6695124</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
