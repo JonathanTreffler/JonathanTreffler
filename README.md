@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com//e-alfred/flowupload/issues/184) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
-2. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
-3. 🎉 Merged PR [#25](https://github.com//JonathanTreffler/nuxt-gallery/pull/25) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
-4. ❗️ Opened issue [#24](https://github.com//JonathanTreffler/nuxt-gallery/issues/24) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
-5. ❗️ Opened issue [#23](https://github.com//JonathanTreffler/nuxt-gallery/issues/23) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
+1. 🎉 Merged PR [#23](https://github.com//JonathanTreffler/JonathanTreffler.github.io/pull/23) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com//JonathanTreffler/JonathanTreffler.github.io)
+2. 🗣 Commented on [#184](https://github.com//e-alfred/flowupload/issues/184) in [e-alfred/flowupload](https://github.com//e-alfred/flowupload)
+3. 🗣 Commented on [#748](https://github.com//nextcloud/news/issues/748) in [nextcloud/news](https://github.com//nextcloud/news)
+4. 🎉 Merged PR [#25](https://github.com//JonathanTreffler/nuxt-gallery/pull/25) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
+5. ❗️ Opened issue [#24](https://github.com//JonathanTreffler/nuxt-gallery/issues/24) in [JonathanTreffler/nuxt-gallery](https://github.com//JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
