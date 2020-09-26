@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1277](https://github.com/nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue)
+1. 🗣 Commented on [#184](https://github.com/e-alfred/flowupload/issues/184) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 2. 🗣 Commented on [#1277](https://github.com/nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue)
-3. 🎉 Merged PR [#187](https://github.com/e-alfred/flowupload/pull/187) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. ❗️ Closed issue [#1](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/1) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-5. 🗣 Commented on [#1](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/1) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+3. 🗣 Commented on [#1277](https://github.com/nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue)
+4. 🎉 Merged PR [#187](https://github.com/e-alfred/flowupload/pull/187) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. ❗️ Closed issue [#1](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/1) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
