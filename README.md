@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#188](https://github.com/e-alfred/flowupload/pull/188) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🎉 Merged PR [#189](https://github.com/e-alfred/flowupload/pull/189) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🗣 Commented on [#184](https://github.com/e-alfred/flowupload/issues/184) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🗣 Commented on [#186](https://github.com/e-alfred/flowupload/issues/186) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🎉 Merged PR [#26](https://github.com/JonathanTreffler/nuxt-gallery/pull/26) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. 🎉 Merged PR [#5](https://github.com/JonathanTreffler/vuejs-quill/pull/5) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
+2. 🎉 Merged PR [#188](https://github.com/e-alfred/flowupload/pull/188) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🎉 Merged PR [#189](https://github.com/e-alfred/flowupload/pull/189) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🗣 Commented on [#184](https://github.com/e-alfred/flowupload/issues/184) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🗣 Commented on [#186](https://github.com/e-alfred/flowupload/issues/186) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
