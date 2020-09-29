@@ -71,7 +71,7 @@
 		<th>0</th>
 		<th>126929</th>
 		<th>0</th>
-		<th>5071557</th>
+		<th>5071566</th>
 	</tr><tr>
 		<th>Processing</th>
 		<th>25</th>
@@ -162,7 +162,7 @@
 		<th>6000</th>
 		<th>154210</th>
 		<th>3742</th>
-    	<th>6699194</th>
+    	<th>6699203</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
