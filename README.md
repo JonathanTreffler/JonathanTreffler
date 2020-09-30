@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/JonathanTreffler/vuejs-quill/pull/6) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-2. 🗣 Commented on [#186](https://github.com/e-alfred/flowupload/issues/186) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🗣 Commented on [#1277](https://github.com/nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue)
+2. 🎉 Merged PR [#6](https://github.com/JonathanTreffler/vuejs-quill/pull/6) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
 3. 🗣 Commented on [#186](https://github.com/e-alfred/flowupload/issues/186) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 4. 🗣 Commented on [#186](https://github.com/e-alfred/flowupload/issues/186) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🎉 Merged PR [#24](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/24) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🗣 Commented on [#186](https://github.com/e-alfred/flowupload/issues/186) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
