@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/e-alfred/flowupload/issues/186) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🎉 Merged PR [#6](https://github.com/JonathanTreffler/vuejs-quill/pull/6) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
 2. 🗣 Commented on [#186](https://github.com/e-alfred/flowupload/issues/186) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 3. 🗣 Commented on [#186](https://github.com/e-alfred/flowupload/issues/186) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🎉 Merged PR [#24](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/24) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#48](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/48) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+4. 🗣 Commented on [#186](https://github.com/e-alfred/flowupload/issues/186) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🎉 Merged PR [#24](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/24) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
