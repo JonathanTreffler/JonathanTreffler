@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/fractava/notes-core/pull/85) in [fractava/notes-core](https://github.com/fractava/notes-core)
-2. 🎉 Merged PR [#86](https://github.com/fractava/notes-core/pull/86) in [fractava/notes-core](https://github.com/fractava/notes-core)
-3. 🎉 Merged PR [#90](https://github.com/fractava/notes-core/pull/90) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. 🎉 Merged PR [#91](https://github.com/fractava/notes-core/pull/91) in [fractava/notes-core](https://github.com/fractava/notes-core)
-5. 🎉 Merged PR [#84](https://github.com/fractava/notes-core/pull/84) in [fractava/notes-core](https://github.com/fractava/notes-core)
+1. ❗️ Closed issue [#184](https://github.com/e-alfred/flowupload/issues/184) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🗣 Commented on [#184](https://github.com/e-alfred/flowupload/issues/184) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🎉 Merged PR [#87](https://github.com/fractava/notes-core/pull/87) in [fractava/notes-core](https://github.com/fractava/notes-core)
+4. 🎉 Merged PR [#82](https://github.com/fractava/notes-core/pull/82) in [fractava/notes-core](https://github.com/fractava/notes-core)
+5. 🗣 Commented on [#82](https://github.com/fractava/notes-core/issues/82) in [fractava/notes-core](https://github.com/fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
