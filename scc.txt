@@ -4,7 +4,7 @@ Language                 Files     Lines   Blanks  Comments     Code Complexity
 Vue                         97      6537      403         6     6128        198
 JavaScript                  88     25422     4059      5815    15548       3258
 Markdown                    58      1332      272         0     1060          0
-JSON                        53    127224        1         0   127223          0
+JSON                        53    127251        1         0   127250          0
 YAML                        49      2091      265       295     1531          0
 Plain Text                  43       832        1         0      831          0
 SVG                         29      5318        0         0     5318          0
@@ -24,12 +24,12 @@ C Header                     1        31        9         5       17          0
 C++                          1        39        4         6       29          1
 Makefile                     1       157       12        51       94          1
 ───────────────────────────────────────────────────────────────────────────────
-Total                      549    191609     8665      6518   176426       3748
+Total                      549    191636     8665      6518   176453       3748
 ───────────────────────────────────────────────────────────────────────────────
-Estimated Cost to Develop $6,172,854
-Estimated Schedule Effort 27.466211 months
-Estimated People Required 19.966558
+Estimated Cost to Develop $6,173,846
+Estimated Schedule Effort 27.467888 months
+Estimated People Required 19.968547
 ───────────────────────────────────────────────────────────────────────────────
-Processed 10037419 bytes, 10.037 megabytes (SI)
+Processed 10038548 bytes, 10.039 megabytes (SI)
 ───────────────────────────────────────────────────────────────────────────────
 
