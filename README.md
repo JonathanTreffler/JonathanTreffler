@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/31) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-2. 🎉 Merged PR [#195](https://github.com/e-alfred/flowupload/pull/195) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🎉 Merged PR [#33](https://github.com/chickomat/chickomat.github.io/pull/33) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-4. 🎉 Merged PR [#49](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/49) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-5. 🎉 Merged PR [#26](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/26) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🎉 Merged PR [#34](https://github.com/chickomat/chickomat.github.io/pull/34) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+2. 🎉 Merged PR [#35](https://github.com/chickomat/chickomat.github.io/pull/35) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+3. 🎉 Merged PR [#31](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/31) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+4. 🎉 Merged PR [#195](https://github.com/e-alfred/flowupload/pull/195) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🎉 Merged PR [#33](https://github.com/chickomat/chickomat.github.io/pull/33) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
