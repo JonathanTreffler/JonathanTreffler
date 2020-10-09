@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/chickomat/chickomat.github.io/pull/34) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-2. 🎉 Merged PR [#35](https://github.com/chickomat/chickomat.github.io/pull/35) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-3. 🎉 Merged PR [#31](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/31) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-4. 🎉 Merged PR [#195](https://github.com/e-alfred/flowupload/pull/195) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🎉 Merged PR [#33](https://github.com/chickomat/chickomat.github.io/pull/33) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+1. 🎉 Merged PR [#32](https://github.com/JonathanTreffler/nuxt-gallery/pull/32) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+2. 🎉 Merged PR [#33](https://github.com/JonathanTreffler/nuxt-gallery/pull/33) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+3. 🎉 Merged PR [#34](https://github.com/JonathanTreffler/nuxt-gallery/pull/34) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+4. 🎉 Merged PR [#34](https://github.com/chickomat/chickomat.github.io/pull/34) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+5. 🎉 Merged PR [#35](https://github.com/chickomat/chickomat.github.io/pull/35) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
