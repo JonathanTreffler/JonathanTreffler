@@ -170,10 +170,10 @@
 ## Github Activity:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#198](https://github.com/e-alfred/flowupload/issues/198) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🗣 Commented on [#10](https://github.com/e-alfred/flowupload/issues/10) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🎉 Merged PR [#196](https://github.com/e-alfred/flowupload/pull/196) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🎉 Merged PR [#197](https://github.com/e-alfred/flowupload/pull/197) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🎉 Merged PR [#50](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/50) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+2. 🎉 Merged PR [#52](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/52) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+3. 🗣 Commented on [#198](https://github.com/e-alfred/flowupload/issues/198) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🗣 Commented on [#10](https://github.com/e-alfred/flowupload/issues/10) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🎉 Merged PR [#196](https://github.com/e-alfred/flowupload/pull/196) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
