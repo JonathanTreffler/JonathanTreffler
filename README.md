@@ -98,7 +98,7 @@
 		<th>14</th>
 		<th>327</th>
 		<th>0</th>
-		<th>21422</th>
+		<th>21423</th>
 	</tr><tr>
 		<th>Python</th>
 		<th>8</th>
@@ -162,7 +162,7 @@
 		<th>6000</th>
 		<th>154520</th>
 		<th>3742</th>
-    	<th>6713552</th>
+    	<th>6713553</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
