@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/JonathanTreffler/nuxt-gallery/pull/35) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-2. 🎉 Merged PR [#36](https://github.com/JonathanTreffler/nuxt-gallery/pull/36) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-3. 🎉 Merged PR [#32](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/32) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-4. 🎉 Merged PR [#33](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/33) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-5. 🎉 Merged PR [#34](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/34) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+1. 🎉 Merged PR [#196](https://github.com/e-alfred/flowupload/pull/196) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🎉 Merged PR [#197](https://github.com/e-alfred/flowupload/pull/197) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🎉 Merged PR [#50](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/50) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+4. 🎉 Merged PR [#199](https://github.com/e-alfred/flowupload/pull/199) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🎉 Merged PR [#96](https://github.com/fractava/notes-core/pull/96) in [fractava/notes-core](https://github.com/fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
