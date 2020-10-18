@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/4) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-2. ❗️ Closed issue [#3](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/3) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-3. 💪 Opened PR [#4](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/4) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-4. ❗️ Opened issue [#3](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/3) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-5. 🎉 Merged PR [#23](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/23) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+1. 🎉 Merged PR [#202](https://github.com/e-alfred/flowupload/pull/202) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🎉 Merged PR [#40](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/40) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+3. 🎉 Merged PR [#4](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/4) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+4. ❗️ Closed issue [#3](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/3) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+5. 💪 Opened PR [#4](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/4) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
