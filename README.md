@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/3) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-2. 🎉 Merged PR [#23](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/23) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-3. 🗣 Commented on [#21](https://github.com/JonathanTreffler/Quill-mathQuill-blot/issues/21) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-4. 🎉 Merged PR [#22](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/22) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-5. 🗣 Commented on [#202](https://github.com/e-alfred/flowupload/issues/202) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 💪 Opened PR [#4](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/4) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+2. ❗️ Opened issue [#3](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/3) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+3. 🎉 Merged PR [#23](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/23) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+4. 🗣 Commented on [#21](https://github.com/JonathanTreffler/Quill-mathQuill-blot/issues/21) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+5. 🎉 Merged PR [#22](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/22) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
