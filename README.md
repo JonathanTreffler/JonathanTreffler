@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#203](https://github.com/e-alfred/flowupload/pull/203) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🎉 Merged PR [#208](https://github.com/e-alfred/flowupload/pull/208) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🎉 Merged PR [#55](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/55) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-4. 🗣 Commented on [#40](https://github.com/JonathanTreffler/Quill-mathLive-blot/issues/40) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-5. 🎉 Merged PR [#40](https://github.com/JonathanTreffler/nuxt-gallery/pull/40) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. ❗️ Opened issue [#3](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/3) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+2. 🎉 Merged PR [#23](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/23) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+3. 🗣 Commented on [#21](https://github.com/JonathanTreffler/Quill-mathQuill-blot/issues/21) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+4. 🎉 Merged PR [#22](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/22) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+5. 🗣 Commented on [#202](https://github.com/e-alfred/flowupload/issues/202) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
