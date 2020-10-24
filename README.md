@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/issues/51) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-2. 🎉 Merged PR [#57](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/57) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-3. 🎉 Merged PR [#41](https://github.com/chickomat/chickomat.github.io/pull/41) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-4. 🎉 Merged PR [#38](https://github.com/fractava/notes-desktop/pull/38) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
-5. 🎉 Merged PR [#9](https://github.com/JonathanTreffler/vuejs-quill/pull/9) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
+1. ❗️ Opened issue [#965](https://github.com/esphome/feature-requests/issues/965) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
+2. 🗣 Commented on [#51](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/issues/51) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+3. 🎉 Merged PR [#57](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/57) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+4. 🎉 Merged PR [#41](https://github.com/chickomat/chickomat.github.io/pull/41) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+5. 🎉 Merged PR [#38](https://github.com/fractava/notes-desktop/pull/38) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
