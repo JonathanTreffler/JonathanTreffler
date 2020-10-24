@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/JonathanTreffler/nuxt-gallery/pull/42) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-2. 🎉 Merged PR [#43](https://github.com/JonathanTreffler/nuxt-gallery/pull/43) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-3. 🗣 Commented on [#43](https://github.com/JonathanTreffler/nuxt-gallery/issues/43) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-4. 🎉 Merged PR [#51](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/51) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-5. 🎉 Merged PR [#214](https://github.com/e-alfred/flowupload/pull/214) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. ❗️ Closed issue [#22](https://github.com/JonathanTreffler/nuxt-gallery/issues/22) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+2. 🗣 Commented on [#22](https://github.com/JonathanTreffler/nuxt-gallery/issues/22) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+3. 🗣 Commented on [#22](https://github.com/JonathanTreffler/nuxt-gallery/issues/22) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+4. 🎉 Merged PR [#41](https://github.com/JonathanTreffler/nuxt-gallery/pull/41) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+5. 🎉 Merged PR [#39](https://github.com/JonathanTreffler/nuxt-gallery/pull/39) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
