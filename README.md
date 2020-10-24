@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#213](https://github.com/e-alfred/flowupload/pull/213) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🎉 Merged PR [#43](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/43) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-3. ❗️ Opened issue [#965](https://github.com/esphome/feature-requests/issues/965) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
-4. 🗣 Commented on [#51](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/issues/51) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-5. 🎉 Merged PR [#57](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/57) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+1. 🎉 Merged PR [#212](https://github.com/e-alfred/flowupload/pull/212) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🎉 Merged PR [#31](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/31) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#39](https://github.com/fractava/notes-desktop/pull/39) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+4. 🎉 Merged PR [#58](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/58) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+5. 🎉 Merged PR [#42](https://github.com/chickomat/chickomat.github.io/pull/42) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
