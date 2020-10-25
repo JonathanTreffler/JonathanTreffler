@@ -169,10 +169,10 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#215](https://github.com/e-alfred/flowupload/pull/215) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🎉 Merged PR [#44](https://github.com/JonathanTreffler/nuxt-gallery/pull/44) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-3. ❗️ Closed issue [#22](https://github.com/JonathanTreffler/nuxt-gallery/issues/22) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-4. 🗣 Commented on [#22](https://github.com/JonathanTreffler/nuxt-gallery/issues/22) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. 🎉 Merged PR [#32](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/32) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#215](https://github.com/e-alfred/flowupload/pull/215) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🎉 Merged PR [#44](https://github.com/JonathanTreffler/nuxt-gallery/pull/44) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+4. ❗️ Closed issue [#22](https://github.com/JonathanTreffler/nuxt-gallery/issues/22) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 5. 🗣 Commented on [#22](https://github.com/JonathanTreffler/nuxt-gallery/issues/22) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
