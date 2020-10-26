@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/32) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. 🎉 Merged PR [#215](https://github.com/e-alfred/flowupload/pull/215) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🎉 Merged PR [#44](https://github.com/JonathanTreffler/nuxt-gallery/pull/44) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-4. ❗️ Closed issue [#22](https://github.com/JonathanTreffler/nuxt-gallery/issues/22) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-5. 🗣 Commented on [#22](https://github.com/JonathanTreffler/nuxt-gallery/issues/22) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. 🎉 Merged PR [#45](https://github.com/JonathanTreffler/nuxt-gallery/pull/45) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+2. 🎉 Merged PR [#25](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/25) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+3. 🎉 Merged PR [#10](https://github.com/JonathanTreffler/vuejs-quill/pull/10) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
+4. 🗣 Commented on [#85](https://github.com/jlesage/docker-nginx-proxy-manager/issues/85) in [jlesage/docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager)
+5. 🎉 Merged PR [#32](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/32) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
