@@ -57,12 +57,12 @@
 	</tr><tr>
 		<th>Markdown</th>
 		<th>59</th>
-		<th>1344</th>
+		<th>1345</th>
 		<th>275</th>
 		<th>0</th>
-		<th>1069</th>
+		<th>1070</th>
 		<th>0</th>
-		<th>59255</th>
+		<th>59273</th>
 	</tr><tr>
 		<th>JSON</th>
 		<th>53</th>
@@ -157,12 +157,12 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>374</th>
-		<th>169356</th>
+		<th>169357</th>
 		<th>5198</th>
 		<th>6000</th>
-		<th>158158</th>
+		<th>158159</th>
 		<th>3742</th>
-    	<th>6880480</th>
+    	<th>6880498</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
