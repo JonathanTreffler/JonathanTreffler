@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/jlesage/docker-nginx-proxy-manager/issues/85) in [jlesage/docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager)
-2. 🗣 Commented on [#21](https://github.com/DecaTec/sharerenamer/issues/21) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
-3. 💪 Opened PR [#31](https://github.com/DecaTec/sharerenamer/pull/31) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
-4. 🎉 Merged PR [#46](https://github.com/JonathanTreffler/nuxt-gallery/pull/46) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-5. 🎉 Merged PR [#11](https://github.com/JonathanTreffler/vuejs-quill/pull/11) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
+1. 🎉 Merged PR [#99](https://github.com/fractava/notes-core/pull/99) in [fractava/notes-core](https://github.com/fractava/notes-core)
+2. 🗣 Commented on [#99](https://github.com/fractava/notes-core/issues/99) in [fractava/notes-core](https://github.com/fractava/notes-core)
+3. 🎉 Merged PR [#26](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/26) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+4. 🎉 Merged PR [#45](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/45) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+5. 🎉 Merged PR [#47](https://github.com/JonathanTreffler/nuxt-gallery/pull/47) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
