@@ -30,6 +30,6 @@ Estimated Cost to Develop $6,306,758
 Estimated Schedule Effort 27.691114 months
 Estimated People Required 20.233999
 ───────────────────────────────────────────────────────────────────────────────
-Processed 10205184 bytes, 10.205 megabytes (SI)
+Processed 10204392 bytes, 10.204 megabytes (SI)
 ───────────────────────────────────────────────────────────────────────────────
 
