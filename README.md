@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#226](https://github.com/e-alfred/flowupload/pull/226) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🎉 Merged PR [#223](https://github.com/e-alfred/flowupload/pull/223) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🎉 Merged PR [#220](https://github.com/e-alfred/flowupload/pull/220) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🎉 Merged PR [#221](https://github.com/e-alfred/flowupload/pull/221) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🎉 Merged PR [#222](https://github.com/e-alfred/flowupload/pull/222) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🎉 Merged PR [#224](https://github.com/e-alfred/flowupload/pull/224) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🎉 Merged PR [#225](https://github.com/e-alfred/flowupload/pull/225) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🎉 Merged PR [#226](https://github.com/e-alfred/flowupload/pull/226) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🎉 Merged PR [#223](https://github.com/e-alfred/flowupload/pull/223) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🎉 Merged PR [#220](https://github.com/e-alfred/flowupload/pull/220) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
