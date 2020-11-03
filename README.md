@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/upptime/upptime/issues/48) in [upptime/upptime](https://github.com/upptime/upptime)
-2. 🗣 Commented on [#48](https://github.com/upptime/upptime/issues/48) in [upptime/upptime](https://github.com/upptime/upptime)
-3. ❗️ Opened issue [#48](https://github.com/upptime/upptime/issues/48) in [upptime/upptime](https://github.com/upptime/upptime)
-4. 🎉 Merged PR [#224](https://github.com/e-alfred/flowupload/pull/224) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🎉 Merged PR [#225](https://github.com/e-alfred/flowupload/pull/225) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
+2. 🗣 Commented on [#1277](https://github.com/nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue)
+3. 🗣 Commented on [#48](https://github.com/upptime/upptime/issues/48) in [upptime/upptime](https://github.com/upptime/upptime)
+4. 🗣 Commented on [#48](https://github.com/upptime/upptime/issues/48) in [upptime/upptime](https://github.com/upptime/upptime)
+5. ❗️ Opened issue [#48](https://github.com/upptime/upptime/issues/48) in [upptime/upptime](https://github.com/upptime/upptime)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
