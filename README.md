@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/34) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. 🎉 Merged PR [#40](https://github.com/fractava/notes-desktop/pull/40) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
-3. 🎉 Merged PR [#104](https://github.com/fractava/notes-core/pull/104) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. 🎉 Merged PR [#44](https://github.com/chickomat/chickomat.github.io/pull/44) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-5. 🎉 Merged PR [#60](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/60) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+1. 🎉 Merged PR [#12](https://github.com/JonathanTreffler/vuejs-quill/pull/12) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
+2. 🎉 Merged PR [#34](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/34) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#40](https://github.com/fractava/notes-desktop/pull/40) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+4. 🎉 Merged PR [#104](https://github.com/fractava/notes-core/pull/104) in [fractava/notes-core](https://github.com/fractava/notes-core)
+5. 🎉 Merged PR [#44](https://github.com/chickomat/chickomat.github.io/pull/44) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
