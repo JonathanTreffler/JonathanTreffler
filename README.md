@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24109](https://github.com/nextcloud/server/issues/24109) in [nextcloud/server](https://github.com/nextcloud/server)
-2. 🎉 Merged PR [#232](https://github.com/e-alfred/flowupload/pull/232) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🎉 Merged PR [#30](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/30) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-4. 🎉 Merged PR [#50](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/50) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-5. 🎉 Merged PR [#233](https://github.com/e-alfred/flowupload/pull/233) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🎉 Merged PR [#50](https://github.com/JonathanTreffler/nuxt-gallery/pull/50) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+2. 🗣 Commented on [#24109](https://github.com/nextcloud/server/issues/24109) in [nextcloud/server](https://github.com/nextcloud/server)
+3. 🎉 Merged PR [#232](https://github.com/e-alfred/flowupload/pull/232) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🎉 Merged PR [#30](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/30) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+5. 🎉 Merged PR [#50](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/50) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
