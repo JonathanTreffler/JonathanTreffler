@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/JonathanTreffler/nuxt-gallery/pull/51) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-2. 🎉 Merged PR [#52](https://github.com/JonathanTreffler/nuxt-gallery/pull/52) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-3. 🎉 Merged PR [#50](https://github.com/JonathanTreffler/nuxt-gallery/pull/50) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-4. 🗣 Commented on [#24109](https://github.com/nextcloud/server/issues/24109) in [nextcloud/server](https://github.com/nextcloud/server)
-5. 🎉 Merged PR [#232](https://github.com/e-alfred/flowupload/pull/232) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🎉 Merged PR [#36](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/36) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#37](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/37) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#51](https://github.com/JonathanTreffler/nuxt-gallery/pull/51) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+4. 🎉 Merged PR [#52](https://github.com/JonathanTreffler/nuxt-gallery/pull/52) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+5. 🎉 Merged PR [#50](https://github.com/JonathanTreffler/nuxt-gallery/pull/50) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
