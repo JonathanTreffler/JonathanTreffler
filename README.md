@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/35) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. 🎉 Merged PR [#36](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/36) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🎉 Merged PR [#37](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/37) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#51](https://github.com/JonathanTreffler/nuxt-gallery/pull/51) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-5. 🎉 Merged PR [#52](https://github.com/JonathanTreffler/nuxt-gallery/pull/52) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. 🎉 Merged PR [#46](https://github.com/chickomat/chickomat.github.io/pull/46) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+2. 🎉 Merged PR [#47](https://github.com/chickomat/chickomat.github.io/pull/47) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+3. 🎉 Merged PR [#35](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/35) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🎉 Merged PR [#36](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/36) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#37](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/37) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
