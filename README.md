@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/61) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-2. 🎉 Merged PR [#62](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/62) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-3. 🎉 Merged PR [#63](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/63) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-4. 🎉 Merged PR [#45](https://github.com/chickomat/chickomat.github.io/pull/45) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-5. 🎉 Merged PR [#46](https://github.com/chickomat/chickomat.github.io/pull/46) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+1. 🎉 Merged PR [#43](https://github.com/fractava/notes-desktop/pull/43) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+2. 🎉 Merged PR [#44](https://github.com/fractava/notes-desktop/pull/44) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+3. 🎉 Merged PR [#64](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/64) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+4. 🎉 Merged PR [#235](https://github.com/e-alfred/flowupload/pull/235) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🎉 Merged PR [#53](https://github.com/JonathanTreffler/nuxt-gallery/pull/53) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
