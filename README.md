@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/fractava/notes-desktop/pull/43) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
-2. 🎉 Merged PR [#44](https://github.com/fractava/notes-desktop/pull/44) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
-3. 🎉 Merged PR [#64](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/64) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-4. 🎉 Merged PR [#235](https://github.com/e-alfred/flowupload/pull/235) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🎉 Merged PR [#53](https://github.com/JonathanTreffler/nuxt-gallery/pull/53) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. 🎉 Merged PR [#105](https://github.com/fractava/notes-core/pull/105) in [fractava/notes-core](https://github.com/fractava/notes-core)
+2. 🎉 Merged PR [#48](https://github.com/chickomat/chickomat.github.io/pull/48) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+3. 🎉 Merged PR [#41](https://github.com/fractava/notes-desktop/pull/41) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+4. 🎉 Merged PR [#42](https://github.com/fractava/notes-desktop/pull/42) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+5. 🎉 Merged PR [#43](https://github.com/fractava/notes-desktop/pull/43) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
