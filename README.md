@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#236](https://github.com/e-alfred/flowupload/pull/236) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🎉 Merged PR [#45](https://github.com/fractava/notes-desktop/pull/45) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
-3. 🎉 Merged PR [#105](https://github.com/fractava/notes-core/pull/105) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. 🎉 Merged PR [#48](https://github.com/chickomat/chickomat.github.io/pull/48) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-5. 🎉 Merged PR [#41](https://github.com/fractava/notes-desktop/pull/41) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+1. ❗️ Opened issue [#4](https://github.com/JonathanTreffler/status/issues/4) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+2. ❗️ Opened issue [#3](https://github.com/JonathanTreffler/status/issues/3) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. ❗️ Opened issue [#2](https://github.com/JonathanTreffler/status/issues/2) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. ❗️ Opened issue [#1](https://github.com/JonathanTreffler/status/issues/1) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. 🎉 Merged PR [#236](https://github.com/e-alfred/flowupload/pull/236) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
