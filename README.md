@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/JonathanTreffler/status/issues/4) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. ❗️ Opened issue [#3](https://github.com/JonathanTreffler/status/issues/3) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. ❗️ Opened issue [#2](https://github.com/JonathanTreffler/status/issues/2) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. ❗️ Opened issue [#1](https://github.com/JonathanTreffler/status/issues/1) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. 🎉 Merged PR [#236](https://github.com/e-alfred/flowupload/pull/236) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. ❗️ Closed issue [#4](https://github.com/JonathanTreffler/status/issues/4) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+2. 🗣 Commented on [#4](https://github.com/JonathanTreffler/status/issues/4) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. ❗️ Closed issue [#3](https://github.com/JonathanTreffler/status/issues/3) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. 🗣 Commented on [#3](https://github.com/JonathanTreffler/status/issues/3) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. ❗️ Closed issue [#2](https://github.com/JonathanTreffler/status/issues/2) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
