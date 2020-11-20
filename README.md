@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/JonathanTreffler/status/issues/4) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🗣 Commented on [#4](https://github.com/JonathanTreffler/status/issues/4) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. ❗️ Closed issue [#3](https://github.com/JonathanTreffler/status/issues/3) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. 🗣 Commented on [#3](https://github.com/JonathanTreffler/status/issues/3) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. ❗️ Closed issue [#2](https://github.com/JonathanTreffler/status/issues/2) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+1. 🎉 Merged PR [#46](https://github.com/fractava/notes-desktop/pull/46) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+2. ❗️ Closed issue [#4](https://github.com/JonathanTreffler/status/issues/4) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. 🗣 Commented on [#4](https://github.com/JonathanTreffler/status/issues/4) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. ❗️ Closed issue [#3](https://github.com/JonathanTreffler/status/issues/3) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. 🗣 Commented on [#3](https://github.com/JonathanTreffler/status/issues/3) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
