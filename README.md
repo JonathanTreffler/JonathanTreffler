@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#237](https://github.com/e-alfred/flowupload/pull/237) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🎉 Merged PR [#238](https://github.com/e-alfred/flowupload/pull/238) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🎉 Merged PR [#31](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/31) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-4. 🎉 Merged PR [#51](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/51) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-5. 🎉 Merged PR [#56](https://github.com/JonathanTreffler/nuxt-gallery/pull/56) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. 🎉 Merged PR [#33](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/33) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+2. 🎉 Merged PR [#13](https://github.com/JonathanTreffler/vuejs-quill/pull/13) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
+3. 🎉 Merged PR [#237](https://github.com/e-alfred/flowupload/pull/237) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🎉 Merged PR [#238](https://github.com/e-alfred/flowupload/pull/238) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🎉 Merged PR [#31](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/31) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
