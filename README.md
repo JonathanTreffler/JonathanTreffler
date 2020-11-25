@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/33) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-2. 🎉 Merged PR [#13](https://github.com/JonathanTreffler/vuejs-quill/pull/13) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-3. 🎉 Merged PR [#237](https://github.com/e-alfred/flowupload/pull/237) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🎉 Merged PR [#238](https://github.com/e-alfred/flowupload/pull/238) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🎉 Merged PR [#31](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/31) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+1. 🎉 Merged PR [#38](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/38) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#106](https://github.com/fractava/notes-core/pull/106) in [fractava/notes-core](https://github.com/fractava/notes-core)
+3. 🎉 Merged PR [#65](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/65) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+4. 🎉 Merged PR [#49](https://github.com/chickomat/chickomat.github.io/pull/49) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+5. 🎉 Merged PR [#241](https://github.com/e-alfred/flowupload/pull/241) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
