@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/fractava/notes-desktop/pull/48) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
-2. 🎉 Merged PR [#242](https://github.com/e-alfred/flowupload/pull/242) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🎉 Merged PR [#107](https://github.com/fractava/notes-core/pull/107) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. 🗣 Commented on [#52](https://github.com/JonathanTreffler/Quill-mathLive-blot/issues/52) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-5. 🎉 Merged PR [#38](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/38) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🗣 Commented on [#243](https://github.com/e-alfred/flowupload/issues/243) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🎉 Merged PR [#48](https://github.com/fractava/notes-desktop/pull/48) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+3. 🎉 Merged PR [#242](https://github.com/e-alfred/flowupload/pull/242) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🎉 Merged PR [#107](https://github.com/fractava/notes-core/pull/107) in [fractava/notes-core](https://github.com/fractava/notes-core)
+5. 🗣 Commented on [#52](https://github.com/JonathanTreffler/Quill-mathLive-blot/issues/52) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
