@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#168](https://github.com/linuxserver/docker-nextcloud/issues/168) in [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud)
-2. 🎉 Merged PR [#14](https://github.com/JonathanTreffler/vuejs-quill/pull/14) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-3. 🎉 Merged PR [#63](https://github.com/JonathanTreffler/nuxt-gallery/pull/63) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-4. 🎉 Merged PR [#246](https://github.com/e-alfred/flowupload/pull/246) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🎉 Merged PR [#49](https://github.com/fractava/notes-desktop/pull/49) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+1. 🎉 Merged PR [#15](https://github.com/JonathanTreffler/vuejs-quill/pull/15) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
+2. 🎉 Merged PR [#57](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/57) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+3. 🎉 Merged PR [#43](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/43) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🗣 Commented on [#168](https://github.com/linuxserver/docker-nextcloud/issues/168) in [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud)
+5. 🎉 Merged PR [#14](https://github.com/JonathanTreffler/vuejs-quill/pull/14) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
