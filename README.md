@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#109](https://github.com/fractava/notes-core/pull/109) in [fractava/notes-core](https://github.com/fractava/notes-core)
-2. 🎉 Merged PR [#15](https://github.com/JonathanTreffler/vuejs-quill/pull/15) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-3. 🎉 Merged PR [#57](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/57) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-4. 🎉 Merged PR [#43](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/43) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🗣 Commented on [#168](https://github.com/linuxserver/docker-nextcloud/issues/168) in [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud)
+1. 🎉 Merged PR [#71](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/71) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+2. 🎉 Merged PR [#109](https://github.com/fractava/notes-core/pull/109) in [fractava/notes-core](https://github.com/fractava/notes-core)
+3. 🎉 Merged PR [#15](https://github.com/JonathanTreffler/vuejs-quill/pull/15) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
+4. 🎉 Merged PR [#57](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/57) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+5. 🎉 Merged PR [#43](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/43) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
