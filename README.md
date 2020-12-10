@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#251](https://github.com/e-alfred/flowupload/pull/251) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🗣 Commented on [#31](https://github.com/nextcloud/calendar/issues/31) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
-3. 🎉 Merged PR [#39](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/39) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-4. 🗣 Commented on [#2644](https://github.com/nextcloud/calendar/issues/2644) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
-5. 🗣 Commented on [#39](https://github.com/JonathanTreffler/Quill-mathQuill-blot/issues/39) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+1. 🎉 Merged PR [#68](https://github.com/JonathanTreffler/nuxt-gallery/pull/68) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+2. 🎉 Merged PR [#69](https://github.com/JonathanTreffler/nuxt-gallery/pull/69) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+3. 🎉 Merged PR [#251](https://github.com/e-alfred/flowupload/pull/251) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🗣 Commented on [#31](https://github.com/nextcloud/calendar/issues/31) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
+5. 🎉 Merged PR [#39](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/39) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
