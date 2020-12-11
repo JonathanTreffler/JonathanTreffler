@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/chickomat/chickomat.github.io/pull/58) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-2. 🎉 Merged PR [#74](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/74) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-3. 🎉 Merged PR [#252](https://github.com/e-alfred/flowupload/pull/252) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🎉 Merged PR [#52](https://github.com/fractava/notes-desktop/pull/52) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
-5. 🗣 Commented on [#243](https://github.com/e-alfred/flowupload/issues/243) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🎉 Merged PR [#254](https://github.com/e-alfred/flowupload/pull/254) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🎉 Merged PR [#58](https://github.com/chickomat/chickomat.github.io/pull/58) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+3. 🎉 Merged PR [#74](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/74) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+4. 🎉 Merged PR [#252](https://github.com/e-alfred/flowupload/pull/252) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🎉 Merged PR [#52](https://github.com/fractava/notes-desktop/pull/52) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
