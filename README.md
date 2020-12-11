@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#243](https://github.com/e-alfred/flowupload/issues/243) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🎉 Merged PR [#52](https://github.com/fractava/notes-desktop/pull/52) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
 2. 🗣 Commented on [#243](https://github.com/e-alfred/flowupload/issues/243) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🎉 Merged PR [#68](https://github.com/JonathanTreffler/nuxt-gallery/pull/68) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-4. 🎉 Merged PR [#69](https://github.com/JonathanTreffler/nuxt-gallery/pull/69) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-5. 🎉 Merged PR [#251](https://github.com/e-alfred/flowupload/pull/251) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🗣 Commented on [#243](https://github.com/e-alfred/flowupload/issues/243) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🎉 Merged PR [#68](https://github.com/JonathanTreffler/nuxt-gallery/pull/68) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+5. 🎉 Merged PR [#69](https://github.com/JonathanTreffler/nuxt-gallery/pull/69) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
