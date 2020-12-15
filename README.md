@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#355](https://github.com/nextcloud/user_saml/issues/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
-2. 🎉 Merged PR [#255](https://github.com/e-alfred/flowupload/pull/255) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🎉 Merged PR [#254](https://github.com/e-alfred/flowupload/pull/254) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🎉 Merged PR [#58](https://github.com/chickomat/chickomat.github.io/pull/58) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-5. 🎉 Merged PR [#74](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/74) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+1. 🗣 Commented on [#1277](https://github.com/nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue)
+2. 🗣 Commented on [#355](https://github.com/nextcloud/user_saml/issues/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+3. 🎉 Merged PR [#255](https://github.com/e-alfred/flowupload/pull/255) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🎉 Merged PR [#254](https://github.com/e-alfred/flowupload/pull/254) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🎉 Merged PR [#58](https://github.com/chickomat/chickomat.github.io/pull/58) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
