@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#256](https://github.com/e-alfred/flowupload/pull/256) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🎉 Merged PR [#111](https://github.com/fractava/notes-core/pull/111) in [fractava/notes-core](https://github.com/fractava/notes-core)
-3. 🗣 Commented on [#1277](https://github.com/nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue)
-4. 🗣 Commented on [#355](https://github.com/nextcloud/user_saml/issues/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
-5. 🎉 Merged PR [#255](https://github.com/e-alfred/flowupload/pull/255) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🎉 Merged PR [#53](https://github.com/fractava/notes-desktop/pull/53) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+2. 🎉 Merged PR [#256](https://github.com/e-alfred/flowupload/pull/256) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🎉 Merged PR [#111](https://github.com/fractava/notes-core/pull/111) in [fractava/notes-core](https://github.com/fractava/notes-core)
+4. 🗣 Commented on [#1277](https://github.com/nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue)
+5. 🗣 Commented on [#355](https://github.com/nextcloud/user_saml/issues/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
