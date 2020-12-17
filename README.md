@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
-2. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
-3. 🎉 Merged PR [#61](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/61) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-4. 🎉 Merged PR [#53](https://github.com/fractava/notes-desktop/pull/53) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
-5. 🎉 Merged PR [#256](https://github.com/e-alfred/flowupload/pull/256) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🎉 Merged PR [#75](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/75) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+2. 🎉 Merged PR [#76](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/76) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+3. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
+4. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
+5. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
