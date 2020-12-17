@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/61) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-2. 🎉 Merged PR [#53](https://github.com/fractava/notes-desktop/pull/53) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
-3. 🎉 Merged PR [#256](https://github.com/e-alfred/flowupload/pull/256) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🎉 Merged PR [#111](https://github.com/fractava/notes-core/pull/111) in [fractava/notes-core](https://github.com/fractava/notes-core)
-5. 🗣 Commented on [#1277](https://github.com/nextcloud/nextcloud-vue/issues/1277) in [nextcloud/nextcloud-vue](https://github.com/nextcloud/nextcloud-vue)
+1. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
+2. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
+3. 🎉 Merged PR [#61](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/61) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+4. 🎉 Merged PR [#53](https://github.com/fractava/notes-desktop/pull/53) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+5. 🎉 Merged PR [#256](https://github.com/e-alfred/flowupload/pull/256) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
