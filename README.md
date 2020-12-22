@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/63) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-2. 🎉 Merged PR [#74](https://github.com/JonathanTreffler/nuxt-gallery/pull/74) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-3. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
-4. 🎉 Merged PR [#42](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/42) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-5. 🎉 Merged PR [#62](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/62) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+1. 🎉 Merged PR [#55](https://github.com/fractava/notes-desktop/pull/55) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+2. 🎉 Merged PR [#76](https://github.com/JonathanTreffler/nuxt-gallery/pull/76) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+3. 🎉 Merged PR [#263](https://github.com/e-alfred/flowupload/pull/263) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🎉 Merged PR [#63](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/63) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+5. 🎉 Merged PR [#74](https://github.com/JonathanTreffler/nuxt-gallery/pull/74) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
