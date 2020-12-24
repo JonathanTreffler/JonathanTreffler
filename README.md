@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/chickomat/chickomat.github.io/pull/63) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-2. 🎉 Merged PR [#49](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/49) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🎉 Merged PR [#64](https://github.com/chickomat/chickomat.github.io/pull/64) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-4. 🎉 Merged PR [#17](https://github.com/JonathanTreffler/vuejs-quill/pull/17) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-5. 🎉 Merged PR [#75](https://github.com/JonathanTreffler/nuxt-gallery/pull/75) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. 🎉 Merged PR [#61](https://github.com/chickomat/chickomat.github.io/pull/61) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+2. 🎉 Merged PR [#77](https://github.com/JonathanTreffler/nuxt-gallery/pull/77) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+3. 🎉 Merged PR [#79](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/79) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+4. 🎉 Merged PR [#80](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/80) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+5. 🎉 Merged PR [#63](https://github.com/chickomat/chickomat.github.io/pull/63) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
