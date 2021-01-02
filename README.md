@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#265](https://github.com/e-alfred/flowupload/pull/265) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🎉 Merged PR [#46](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/46) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-3. 🎉 Merged PR [#66](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/66) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-4. 🎉 Merged PR [#18](https://github.com/JonathanTreffler/vuejs-quill/pull/18) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-5. 🎉 Merged PR [#64](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/64) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+1. 🗣 Commented on [#74](https://github.com/Revadike/epicgames-freebies-claimer/issues/74) in [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer)
+2. 🎉 Merged PR [#266](https://github.com/e-alfred/flowupload/pull/266) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🎉 Merged PR [#47](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/47) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+4. 🎉 Merged PR [#67](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/67) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+5. 🎉 Merged PR [#79](https://github.com/JonathanTreffler/nuxt-gallery/pull/79) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
