@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Deltachaos/groupfolders/pull/1) in [Deltachaos/groupfolders](https://github.com/Deltachaos/groupfolders)
-2. 🎉 Merged PR [#19](https://github.com/JonathanTreffler/vuejs-quill/pull/19) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-3. 🎉 Merged PR [#116](https://github.com/fractava/notes-core/pull/116) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. 🎉 Merged PR [#57](https://github.com/fractava/notes-desktop/pull/57) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
-5. 🎉 Merged PR [#81](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/81) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+1. 🗣 Commented on [#239](https://github.com/e-alfred/flowupload/issues/239) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🗣 Commented on [#243](https://github.com/e-alfred/flowupload/issues/243) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🗣 Commented on [#243](https://github.com/e-alfred/flowupload/issues/243) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🗣 Commented on [#243](https://github.com/e-alfred/flowupload/issues/243) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🗣 Commented on [#268](https://github.com/e-alfred/flowupload/issues/268) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
