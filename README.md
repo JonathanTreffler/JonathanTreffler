@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/JonathanTreffler/vuejs-quill/pull/19) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-2. 🎉 Merged PR [#116](https://github.com/fractava/notes-core/pull/116) in [fractava/notes-core](https://github.com/fractava/notes-core)
-3. 🎉 Merged PR [#57](https://github.com/fractava/notes-desktop/pull/57) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
-4. 🎉 Merged PR [#81](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/81) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-5. 🎉 Merged PR [#82](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/82) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+1. 💪 Opened PR [#1](https://github.com/Deltachaos/groupfolders/pull/1) in [Deltachaos/groupfolders](https://github.com/Deltachaos/groupfolders)
+2. 🎉 Merged PR [#19](https://github.com/JonathanTreffler/vuejs-quill/pull/19) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
+3. 🎉 Merged PR [#116](https://github.com/fractava/notes-core/pull/116) in [fractava/notes-core](https://github.com/fractava/notes-core)
+4. 🎉 Merged PR [#57](https://github.com/fractava/notes-desktop/pull/57) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+5. 🎉 Merged PR [#81](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/81) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
