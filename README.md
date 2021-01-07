@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#268](https://github.com/e-alfred/flowupload/issues/268) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🗣 Commented on [#239](https://github.com/e-alfred/flowupload/issues/239) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🗣 Commented on [#243](https://github.com/e-alfred/flowupload/issues/243) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🗣 Commented on [#243](https://github.com/e-alfred/flowupload/issues/243) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🗣 Commented on [#243](https://github.com/e-alfred/flowupload/issues/243) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🎉 Merged PR [#117](https://github.com/fractava/notes-core/pull/117) in [fractava/notes-core](https://github.com/fractava/notes-core)
+2. 🎉 Merged PR [#118](https://github.com/fractava/notes-core/pull/118) in [fractava/notes-core](https://github.com/fractava/notes-core)
+3. 🎉 Merged PR [#59](https://github.com/fractava/notes-desktop/pull/59) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+4. 🎉 Merged PR [#61](https://github.com/fractava/notes-desktop/pull/61) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+5. 🎉 Merged PR [#83](https://github.com/JonathanTreffler/nuxt-gallery/pull/83) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
