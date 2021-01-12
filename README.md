@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/7) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-2. 🎉 Merged PR [#6](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/6) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-3. 🎉 Merged PR [#5](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/5) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-4. 💪 Opened PR [#5](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/5) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-5. 🎉 Merged PR [#69](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/69) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+1. ❗️ Opened issue [#7](https://github.com/JonathanTreffler/status/issues/7) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+2. 🎉 Merged PR [#7](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/7) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+3. 🎉 Merged PR [#6](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/6) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+4. 🎉 Merged PR [#5](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/5) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+5. 💪 Opened PR [#5](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/5) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
