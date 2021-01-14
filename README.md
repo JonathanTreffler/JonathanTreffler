@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/JonathanTreffler/status/issues/7) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🗣 Commented on [#7](https://github.com/JonathanTreffler/status/issues/7) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. ❗️ Opened issue [#7](https://github.com/JonathanTreffler/status/issues/7) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. 🎉 Merged PR [#7](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/7) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-5. 🎉 Merged PR [#6](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/6) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+1. 🗣 Commented on [#60](https://github.com/fractava/notes-desktop/issues/60) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+2. 🎉 Merged PR [#62](https://github.com/fractava/notes-desktop/pull/62) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+3. 🎉 Merged PR [#52](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/52) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+4. 🎉 Merged PR [#71](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/71) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+5. 🎉 Merged PR [#72](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/72) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
