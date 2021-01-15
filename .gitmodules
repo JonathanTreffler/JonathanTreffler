@@ -103,3 +103,6 @@
 [submodule "projects/covid-simulation"]
 	path = projects/covid-simulation
 	url = https://github.com/JonathanTreffler/covid-simulation
+[submodule "projects/BWINF-39-1-Aufgabe-3"]
+	path = projects/BWINF-39-1-Aufgabe-3
+	url = https://github.com/JonathanTreffler/BWINF-39-1-Aufgabe-3
