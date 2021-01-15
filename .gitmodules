@@ -106,3 +106,6 @@
 [submodule "projects/BWINF-39-1-Aufgabe-3"]
 	path = projects/BWINF-39-1-Aufgabe-3
 	url = https://github.com/JonathanTreffler/BWINF-39-1-Aufgabe-3
+[submodule "projects/Wegkosten-Rekursion"]
+	path = projects/Wegkosten-Rekursion
+	url = https://github.com/JonathanTreffler/Wegkosten-Rekursion
