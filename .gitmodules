@@ -109,3 +109,6 @@
 [submodule "projects/Wegkosten-Rekursion"]
 	path = projects/Wegkosten-Rekursion
 	url = https://github.com/JonathanTreffler/Wegkosten-Rekursion
+[submodule "projects/Rucksackproblem"]
+	path = projects/Rucksackproblem
+	url = https://github.com/JonathanTreffler/Rucksackproblem
