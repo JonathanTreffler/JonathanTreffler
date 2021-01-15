@@ -97,3 +97,6 @@
 [submodule "projects/ants-simulator"]
 	path = projects/ants-simulator
 	url = https://github.com/jufo-ameisen-2019/ants-simulator
+[submodule "projects/full-website-screenshot-action"]
+	path = projects/full-website-screenshot-action
+	url = https://github.com/JonathanTreffler/full-website-screenshot-action
