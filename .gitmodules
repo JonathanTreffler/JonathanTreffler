@@ -100,3 +100,6 @@
 [submodule "projects/full-website-screenshot-action"]
 	path = projects/full-website-screenshot-action
 	url = https://github.com/JonathanTreffler/full-website-screenshot-action
+[submodule "projects/covid-simulation"]
+	path = projects/covid-simulation
+	url = https://github.com/JonathanTreffler/covid-simulation
