@@ -3,13 +3,13 @@ Language                 Files     Lines   Blanks  Comments     Code Complexity
 ───────────────────────────────────────────────────────────────────────────────
 JavaScript                  99     25981     4172      5837    15972       3317
 Vue                         97      6537      403         6     6128        198
-Markdown                    62      1393      285         0     1108          0
+Markdown                    63      1398      286         0     1112          0
 JSON                        54    129204        1         0   129203          0
 YAML                        51      2139      269       297     1573          0
 Plain Text                  47       884        1         0      883          0
-License                     29     18880     3388         0    15492          0
+License                     30     19554     3509         0    16045          0
+Processing                  29      2305      288       102     1915        253
 SVG                         29      5318        0         0     5318          0
-Processing                  25      2216      274       101     1841        236
 gitignore                   22       521      136       151      234          0
 CSS                         12       939       58        22      859          0
 HTML                        10       368       17        14      337          0
@@ -24,12 +24,12 @@ C Header                     1        31        9         5       17          0
 C++                          1        39        4         6       29          1
 Makefile                     1       157       12        51       94          1
 ───────────────────────────────────────────────────────────────────────────────
-Total                      576    196342     9158      6542   180642       3807
+Total                      582    197110     9294      6543   181273       3824
 ───────────────────────────────────────────────────────────────────────────────
-Estimated Cost to Develop $6,327,832
-Estimated Schedule Effort 27.726239 months
-Estimated People Required 20.275891
+Estimated Cost to Develop $6,351,043
+Estimated Schedule Effort 27.764841 months
+Estimated People Required 20.321971
 ───────────────────────────────────────────────────────────────────────────────
-Processed 10276462 bytes, 10.276 megabytes (SI)
+Processed 10313944 bytes, 10.314 megabytes (SI)
 ───────────────────────────────────────────────────────────────────────────────
 

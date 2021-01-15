@@ -56,13 +56,13 @@
 		<th>164252</th>
 	</tr><tr>
 		<th>Markdown</th>
-		<th>62</th>
-		<th>1393</th>
-		<th>285</th>
+		<th>63</th>
+		<th>1398</th>
+		<th>286</th>
 		<th>0</th>
-		<th>1108</th>
+		<th>1112</th>
 		<th>0</th>
-		<th>60259</th>
+		<th>60512</th>
 	</tr><tr>
 		<th>JSON</th>
 		<th>54</th>
@@ -74,13 +74,13 @@
 		<th>5197855</th>
 	</tr><tr>
 		<th>Processing</th>
-		<th>25</th>
-		<th>2216</th>
-		<th>274</th>
-		<th>101</th>
-		<th>1841</th>
-		<th>236</th>
-		<th>53983</th>
+		<th>29</th>
+		<th>2305</th>
+		<th>288</th>
+		<th>102</th>
+		<th>1915</th>
+		<th>253</th>
+		<th>56063</th>
 	</tr><tr>
 		<th>CSS</th>
 		<th>12</th>
@@ -156,13 +156,13 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>390</th>
-		<th>168321</th>
-		<th>5321</th>
-		<th>6022</th>
-		<th>156978</th>
-		<th>3801</th>
-    	<th>6845149</th>
+		<th>395</th>
+		<th>168415</th>
+		<th>5336</th>
+		<th>6023</th>
+		<th>157056</th>
+		<th>3818</th>
+    	<th>6847482</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
