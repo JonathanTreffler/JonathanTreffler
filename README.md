@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/JonathanTreffler/nuxt-gallery/pull/84) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-2. 🎉 Merged PR [#85](https://github.com/JonathanTreffler/nuxt-gallery/pull/85) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-3. 🎉 Merged PR [#53](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/53) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-4. 🎉 Merged PR [#73](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/73) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-5. ❗️ Opened issue [#52](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/52) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🎉 Merged PR [#21](https://github.com/JonathanTreffler/vuejs-quill/pull/21) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
+2. 🎉 Merged PR [#54](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/54) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+3. 🎉 Merged PR [#84](https://github.com/JonathanTreffler/nuxt-gallery/pull/84) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+4. 🎉 Merged PR [#85](https://github.com/JonathanTreffler/nuxt-gallery/pull/85) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+5. 🎉 Merged PR [#53](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/53) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
