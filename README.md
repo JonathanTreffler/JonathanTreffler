@@ -169,10 +169,10 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#274](https://github.com/e-alfred/flowupload/issues/274) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🎉 Merged PR [#273](https://github.com/e-alfred/flowupload/pull/273) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 2. 🗣 Commented on [#274](https://github.com/e-alfred/flowupload/issues/274) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 3. 🗣 Commented on [#274](https://github.com/e-alfred/flowupload/issues/274) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🗣 Commented on [#2644](https://github.com/nextcloud/calendar/issues/2644) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
+4. 🗣 Commented on [#274](https://github.com/e-alfred/flowupload/issues/274) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 5. 🗣 Commented on [#2644](https://github.com/nextcloud/calendar/issues/2644) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
 <!--END_SECTION:activity-->
 
