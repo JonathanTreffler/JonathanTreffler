@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/JonathanTreffler/status/issues/8) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🗣 Commented on [#8](https://github.com/JonathanTreffler/status/issues/8) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. 🎉 Merged PR [#281](https://github.com/e-alfred/flowupload/pull/281) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🎉 Merged PR [#88](https://github.com/JonathanTreffler/nuxt-gallery/pull/88) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-5. 🎉 Merged PR [#58](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/58) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+1. ❗️ Closed issue [#32](https://github.com/DecaTec/sharerenamer/issues/32) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
+2. 🗣 Commented on [#32](https://github.com/DecaTec/sharerenamer/issues/32) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
+3. ❗️ Closed issue [#8](https://github.com/JonathanTreffler/status/issues/8) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. 🗣 Commented on [#8](https://github.com/JonathanTreffler/status/issues/8) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. 🎉 Merged PR [#281](https://github.com/e-alfred/flowupload/pull/281) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
