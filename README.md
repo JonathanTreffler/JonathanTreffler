@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#32](https://github.com/DecaTec/sharerenamer/issues/32) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
-2. 🗣 Commented on [#32](https://github.com/DecaTec/sharerenamer/issues/32) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
-3. ❗️ Closed issue [#8](https://github.com/JonathanTreffler/status/issues/8) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. 🗣 Commented on [#8](https://github.com/JonathanTreffler/status/issues/8) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. 🎉 Merged PR [#281](https://github.com/e-alfred/flowupload/pull/281) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🗣 Commented on [#90](https://github.com/JonathanTreffler/nuxt-gallery/issues/90) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+2. 🎉 Merged PR [#89](https://github.com/JonathanTreffler/nuxt-gallery/pull/89) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+3. 🎉 Merged PR [#70](https://github.com/chickomat/chickomat.github.io/pull/70) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+4. 🎉 Merged PR [#86](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/86) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+5. 🎉 Merged PR [#79](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/79) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
