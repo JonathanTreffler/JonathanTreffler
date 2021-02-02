@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/JonathanTreffler/vuejs-quill/issues/24) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-2. 🎉 Merged PR [#60](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/60) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-3. 🎉 Merged PR [#23](https://github.com/JonathanTreffler/vuejs-quill/pull/23) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-4. 🎉 Merged PR [#90](https://github.com/JonathanTreffler/nuxt-gallery/pull/90) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-5. 🗣 Commented on [#90](https://github.com/JonathanTreffler/nuxt-gallery/issues/90) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. 🎉 Merged PR [#55](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/55) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🗣 Commented on [#55](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/55) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#80](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/80) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+4. 🎉 Merged PR [#124](https://github.com/fractava/notes-core/pull/124) in [fractava/notes-core](https://github.com/fractava/notes-core)
+5. 🎉 Merged PR [#87](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/87) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
