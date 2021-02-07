@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/21) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
-2. 🗣 Commented on [#22](https://github.com/JonathanTreffler/my-vue-eslintrc/issues/22) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
-3. 🎉 Merged PR [#22](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/22) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
-4. 🎉 Merged PR [#56](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/56) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 💪 Opened PR [#56](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/56) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🗣 Commented on [#3130](https://github.com/gitpod-io/gitpod/issues/3130) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 🎉 Merged PR [#21](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/21) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
+3. 🗣 Commented on [#22](https://github.com/JonathanTreffler/my-vue-eslintrc/issues/22) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
+4. 🎉 Merged PR [#22](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/22) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
+5. 🎉 Merged PR [#56](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/56) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
