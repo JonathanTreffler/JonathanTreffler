@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/57) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. 🗣 Commented on [#3128](https://github.com/gitpod-io/gitpod/issues/3128) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. 🗣 Commented on [#3128](https://github.com/gitpod-io/gitpod/issues/3128) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. 🗣 Commented on [#3130](https://github.com/gitpod-io/gitpod/issues/3130) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. 🎉 Merged PR [#21](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/21) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
+1. 🎉 Merged PR [#57](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/57) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. ❗️ Closed issue [#12](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/12) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 💪 Opened PR [#57](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/57) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🗣 Commented on [#3128](https://github.com/gitpod-io/gitpod/issues/3128) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+5. 🗣 Commented on [#3128](https://github.com/gitpod-io/gitpod/issues/3128) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
