@@ -169,10 +169,10 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/57) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. ❗️ Closed issue [#12](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/12) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 💪 Opened PR [#57](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/57) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🗣 Commented on [#3128](https://github.com/gitpod-io/gitpod/issues/3128) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+1. 💪 Opened PR [#58](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/58) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#57](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/57) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. ❗️ Closed issue [#12](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/12) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 💪 Opened PR [#57](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/57) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 5. 🗣 Commented on [#3128](https://github.com/gitpod-io/gitpod/issues/3128) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
