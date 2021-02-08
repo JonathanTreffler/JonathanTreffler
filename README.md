@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/87) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-2. 🎉 Merged PR [#67](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/67) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-3. 🎉 Merged PR [#59](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/59) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 💪 Opened PR [#58](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/58) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#57](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/57) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🎉 Merged PR [#70](https://github.com/fractava/notes-desktop/pull/70) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+2. 🎉 Merged PR [#87](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/87) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+3. 🎉 Merged PR [#67](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/67) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+4. 🎉 Merged PR [#59](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/59) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 💪 Opened PR [#58](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/58) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
