@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JonathanTreffler/domspatzen-board-vue/pull/1) in [JonathanTreffler/domspatzen-board-vue](https://github.com/JonathanTreffler/domspatzen-board-vue)
-2. 💪 Opened PR [#1](https://github.com/JonathanTreffler/domspatzen-board-vue/pull/1) in [JonathanTreffler/domspatzen-board-vue](https://github.com/JonathanTreffler/domspatzen-board-vue)
-3. 🗣 Commented on [#379](https://github.com/jc21/nginx-proxy-manager/issues/379) in [jc21/nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager)
-4. 🎉 Merged PR [#61](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/61) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🗣 Commented on [#61](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/61) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🎉 Merged PR [#289](https://github.com/e-alfred/flowupload/pull/289) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🎉 Merged PR [#1](https://github.com/JonathanTreffler/domspatzen-board-vue/pull/1) in [JonathanTreffler/domspatzen-board-vue](https://github.com/JonathanTreffler/domspatzen-board-vue)
+3. 💪 Opened PR [#1](https://github.com/JonathanTreffler/domspatzen-board-vue/pull/1) in [JonathanTreffler/domspatzen-board-vue](https://github.com/JonathanTreffler/domspatzen-board-vue)
+4. 🗣 Commented on [#379](https://github.com/jc21/nginx-proxy-manager/issues/379) in [jc21/nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager)
+5. 🎉 Merged PR [#61](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/61) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
