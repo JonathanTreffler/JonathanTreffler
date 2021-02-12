@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#290](https://github.com/e-alfred/flowupload/pull/290) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🎉 Merged PR [#92](https://github.com/JonathanTreffler/nuxt-gallery/pull/92) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-3. 🎉 Merged PR [#289](https://github.com/e-alfred/flowupload/pull/289) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🎉 Merged PR [#1](https://github.com/JonathanTreffler/domspatzen-board-vue/pull/1) in [JonathanTreffler/domspatzen-board-vue](https://github.com/JonathanTreffler/domspatzen-board-vue)
-5. 💪 Opened PR [#1](https://github.com/JonathanTreffler/domspatzen-board-vue/pull/1) in [JonathanTreffler/domspatzen-board-vue](https://github.com/JonathanTreffler/domspatzen-board-vue)
+1. 🎉 Merged PR [#90](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/90) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+2. 🎉 Merged PR [#62](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/62) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#290](https://github.com/e-alfred/flowupload/pull/290) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🎉 Merged PR [#92](https://github.com/JonathanTreffler/nuxt-gallery/pull/92) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+5. 🎉 Merged PR [#289](https://github.com/e-alfred/flowupload/pull/289) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
