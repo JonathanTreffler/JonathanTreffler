@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#102](https://github.com/JonathanTreffler/nuxt-gallery/pull/102) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-2. 💪 Opened PR [#102](https://github.com/JonathanTreffler/nuxt-gallery/pull/102) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-3. 🗣 Commented on [#101](https://github.com/JonathanTreffler/nuxt-gallery/issues/101) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-4. ❗️ Opened issue [#101](https://github.com/JonathanTreffler/nuxt-gallery/issues/101) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-5. 🎉 Merged PR [#97](https://github.com/JonathanTreffler/nuxt-gallery/pull/97) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. ❗️ Opened issue [#103](https://github.com/JonathanTreffler/nuxt-gallery/issues/103) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+2. 🎉 Merged PR [#102](https://github.com/JonathanTreffler/nuxt-gallery/pull/102) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+3. 💪 Opened PR [#102](https://github.com/JonathanTreffler/nuxt-gallery/pull/102) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+4. 🗣 Commented on [#101](https://github.com/JonathanTreffler/nuxt-gallery/issues/101) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+5. ❗️ Opened issue [#101](https://github.com/JonathanTreffler/nuxt-gallery/issues/101) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
