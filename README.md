@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#293](https://github.com/e-alfred/flowupload/pull/293) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🎉 Merged PR [#25](https://github.com/JonathanTreffler/vuejs-quill/pull/25) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-3. 🎉 Merged PR [#26](https://github.com/JonathanTreffler/vuejs-quill/pull/26) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-4. 🗣 Commented on [#100](https://github.com/JonathanTreffler/nuxt-gallery/issues/100) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-5. 🎉 Merged PR [#23](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/23) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
+1. 🎉 Merged PR [#58](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/58) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#293](https://github.com/e-alfred/flowupload/pull/293) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🎉 Merged PR [#25](https://github.com/JonathanTreffler/vuejs-quill/pull/25) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
+4. 🎉 Merged PR [#26](https://github.com/JonathanTreffler/vuejs-quill/pull/26) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
+5. 🗣 Commented on [#100](https://github.com/JonathanTreffler/nuxt-gallery/issues/100) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
