@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/97) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-2. 🎉 Merged PR [#78](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/78) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-3. 🎉 Merged PR [#98](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/98) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-4. ❗️ Opened issue [#9](https://github.com/JonathanTreffler/status/issues/9) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. 🎉 Merged PR [#58](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/58) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🎉 Merged PR [#298](https://github.com/e-alfred/flowupload/pull/298) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🎉 Merged PR [#104](https://github.com/JonathanTreffler/nuxt-gallery/pull/104) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+3. 🎉 Merged PR [#296](https://github.com/e-alfred/flowupload/pull/296) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🎉 Merged PR [#73](https://github.com/fractava/notes-desktop/pull/73) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+5. 🎉 Merged PR [#74](https://github.com/chickomat/chickomat.github.io/pull/74) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
