@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/soonuse/epd-library-arduino/issues/15) in [soonuse/epd-library-arduino](https://github.com/soonuse/epd-library-arduino)
-2. 🗣 Commented on [#933](https://github.com/esphome/feature-requests/issues/933) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
-3. 🎉 Merged PR [#303](https://github.com/e-alfred/flowupload/pull/303) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🎉 Merged PR [#304](https://github.com/e-alfred/flowupload/pull/304) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🗣 Commented on [#306](https://github.com/e-alfred/flowupload/issues/306) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. ❗️ Opened issue [#15](https://github.com/soonuse/epd-library-arduino/issues/15) in [soonuse/epd-library-arduino](https://github.com/soonuse/epd-library-arduino)
+5. 🗣 Commented on [#933](https://github.com/esphome/feature-requests/issues/933) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
