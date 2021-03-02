@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com/e-alfred/flowupload/issues/306) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. ❗️ Opened issue [#15](https://github.com/soonuse/epd-library-arduino/issues/15) in [soonuse/epd-library-arduino](https://github.com/soonuse/epd-library-arduino)
-5. 🗣 Commented on [#933](https://github.com/esphome/feature-requests/issues/933) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
+1. 🎉 Merged PR [#309](https://github.com/e-alfred/flowupload/pull/309) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🎉 Merged PR [#310](https://github.com/e-alfred/flowupload/pull/310) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🎉 Merged PR [#86](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/86) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+4. 🎉 Merged PR [#87](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/87) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+5. 🎉 Merged PR [#106](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/106) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
