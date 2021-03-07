@@ -48,12 +48,12 @@
 	</tr><tr>
 		<th>Vue</th>
 		<th>101</th>
-		<th>7085</th>
+		<th>7087</th>
 		<th>478</th>
 		<th>6</th>
-		<th>6601</th>
+		<th>6603</th>
 		<th>209</th>
-		<th>175217</th>
+		<th>175269</th>
 	</tr><tr>
 		<th>Markdown</th>
 		<th>72</th>
@@ -157,12 +157,12 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>417</th>
-		<th>204146</th>
+		<th>204148</th>
 		<th>5462</th>
 		<th>6037</th>
-		<th>192647</th>
+		<th>192649</th>
 		<th>3830</th>
-    	<th>8265633</th>
+    	<th>8265685</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
