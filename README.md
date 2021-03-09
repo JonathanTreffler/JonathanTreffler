@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/110) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-2. 🎉 Merged PR [#90](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/90) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-3. 🎉 Merged PR [#111](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/111) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-4. 🎉 Merged PR [#88](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/88) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-5. 🎉 Merged PR [#108](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/108) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+1. ❗️ Opened issue [#130](https://github.com/fractava/notes-core/issues/130) in [fractava/notes-core](https://github.com/fractava/notes-core)
+2. 🎉 Merged PR [#110](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/110) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+3. 🎉 Merged PR [#90](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/90) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+4. 🎉 Merged PR [#111](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/111) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+5. 🎉 Merged PR [#88](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/88) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
