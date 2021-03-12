@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/97) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-2. 💪 Opened PR [#67](https://github.com/ExperienceLovelace/ha-floorplan/pull/67) in [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan)
-3. ❗️ Opened issue [#76](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/76) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. ❗️ Opened issue [#130](https://github.com/fractava/notes-core/issues/130) in [fractava/notes-core](https://github.com/fractava/notes-core)
+1. 🎉 Merged PR [#81](https://github.com/chickomat/chickomat.github.io/pull/81) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+2. 🎉 Merged PR [#97](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/97) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+3. 💪 Opened PR [#67](https://github.com/ExperienceLovelace/ha-floorplan/pull/67) in [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan)
+4. ❗️ Opened issue [#76](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/76) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
