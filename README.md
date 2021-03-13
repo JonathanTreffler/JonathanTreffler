@@ -169,11 +169,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#109](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/109) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-2. 🎉 Merged PR [#74](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/74) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🎉 Merged PR [#112](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/112) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-4. 🎉 Merged PR [#75](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/75) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#92](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/92) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+1. 🎉 Merged PR [#77](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/77) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 💪 Opened PR [#77](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/77) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#109](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/109) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+4. 🎉 Merged PR [#74](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/74) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#112](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/112) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
