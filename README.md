@@ -57,21 +57,21 @@
 	</tr><tr>
 		<th>Markdown</th>
 		<th>72</th>
-		<th>1488</th>
-		<th>317</th>
+		<th>1490</th>
+		<th>318</th>
 		<th>0</th>
-		<th>1171</th>
+		<th>1172</th>
 		<th>0</th>
-		<th>63387</th>
+		<th>63430</th>
 	</tr><tr>
 		<th>JSON</th>
 		<th>57</th>
-		<th>165401</th>
+		<th>165405</th>
 		<th>1</th>
 		<th>0</th>
-		<th>165400</th>
+		<th>165404</th>
 		<th>0</th>
-		<th>6656108</th>
+		<th>6655545</th>
 	</tr><tr>
 		<th>Processing</th>
 		<th>29</th>
@@ -98,7 +98,7 @@
 		<th>14</th>
 		<th>337</th>
 		<th>0</th>
-		<th>21708</th>
+		<th>21706</th>
 	</tr><tr>
 		<th>Python</th>
 		<th>8</th>
@@ -157,12 +157,12 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>417</th>
-		<th>205403</th>
-		<th>5462</th>
+		<th>205409</th>
+		<th>5463</th>
 		<th>6037</th>
-		<th>193904</th>
+		<th>193909</th>
 		<th>3830</th>
-    	<th>8322525</th>
+    	<th>8322003</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
