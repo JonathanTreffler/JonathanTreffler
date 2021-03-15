@@ -8,7 +8,7 @@ JSON                        57    165405        1         0   165404          0
 YAML                        55      2271      290       300     1681          0
 Plain Text                  47       884        1         0      883          0
 License                     31     20228     3630         0    16598          0
-SVG                         30      6529      201         0     6328          0
+SVG                         30      6533      202         0     6331          0
 Processing                  29      2305      288       102     1915        253
 gitignore                   23       611      162       180      269          0
 CSS                         12       939       58        22      859          0
@@ -25,12 +25,12 @@ C++                          1        39        4         6       29          1
 Makefile                     1       157       12        51       94          1
 Sass                         1        13        2         0       11          0
 ───────────────────────────────────────────────────────────────────────────────
-Total                      612    236224     9792      6589   219843       3836
+Total                      612    236228     9793      6589   219846       3836
 ───────────────────────────────────────────────────────────────────────────────
-Estimated Cost to Develop (organic) $7,777,026
-Estimated Schedule Effort (organic) 29.986324 months
-Estimated People Required (organic) 23.041264
+Estimated Cost to Develop (organic) $7,777,138
+Estimated Schedule Effort (organic) 29.986487 months
+Estimated People Required (organic) 23.041468
 ───────────────────────────────────────────────────────────────────────────────
-Processed 11860691 bytes, 11.861 megabytes (SI)
+Processed 11860906 bytes, 11.861 megabytes (SI)
 ───────────────────────────────────────────────────────────────────────────────
 
