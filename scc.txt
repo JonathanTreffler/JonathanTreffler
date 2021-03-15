@@ -27,10 +27,8 @@ Sass                         1        13        2         0       11          0
 ───────────────────────────────────────────────────────────────────────────────
 Total                      612    236228     9793      6589   219846       3836
 ───────────────────────────────────────────────────────────────────────────────
-Estimated Cost to Develop (organic) $7,777,138
-Estimated Schedule Effort (organic) 29.986487 months
-Estimated People Required (organic) 23.041468
-───────────────────────────────────────────────────────────────────────────────
-Processed 11860889 bytes, 11.861 megabytes (SI)
+Estimated Cost to Develop $7,777,138
+Estimated Schedule Effort 33.450477 months
+Estimated People Required 27.540522
 ───────────────────────────────────────────────────────────────────────────────
 
