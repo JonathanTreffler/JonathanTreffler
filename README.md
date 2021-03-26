@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/81) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. 🗣 Commented on [#81](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/81) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🎉 Merged PR [#135](https://github.com/fractava/notes-core/pull/135) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. 🎉 Merged PR [#133](https://github.com/fractava/notes-core/pull/133) in [fractava/notes-core](https://github.com/fractava/notes-core)
-5. 🎉 Merged PR [#82](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/82) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🎉 Merged PR [#78](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/78) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#79](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/79) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#117](https://github.com/JonathanTreffler/nuxt-gallery/pull/117) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+4. 🎉 Merged PR [#118](https://github.com/JonathanTreffler/nuxt-gallery/pull/118) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+5. 🎉 Merged PR [#119](https://github.com/JonathanTreffler/nuxt-gallery/pull/119) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
