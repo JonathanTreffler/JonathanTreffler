@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/78) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. 🎉 Merged PR [#79](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/79) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🎉 Merged PR [#117](https://github.com/JonathanTreffler/nuxt-gallery/pull/117) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-4. 🎉 Merged PR [#118](https://github.com/JonathanTreffler/nuxt-gallery/pull/118) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-5. 🎉 Merged PR [#119](https://github.com/JonathanTreffler/nuxt-gallery/pull/119) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. ❗️ Opened issue [#84](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/84) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#78](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/78) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#79](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/79) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🎉 Merged PR [#117](https://github.com/JonathanTreffler/nuxt-gallery/pull/117) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+5. 🎉 Merged PR [#118](https://github.com/JonathanTreffler/nuxt-gallery/pull/118) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
