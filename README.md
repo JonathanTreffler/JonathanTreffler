@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/84) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. ❗️ Opened issue [#84](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/84) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🎉 Merged PR [#78](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/78) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#79](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/79) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#117](https://github.com/JonathanTreffler/nuxt-gallery/pull/117) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. 🎉 Merged PR [#127](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/127) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+2. 🗣 Commented on [#84](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/84) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. ❗️ Opened issue [#84](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/84) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🎉 Merged PR [#78](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/78) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#79](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/79) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
