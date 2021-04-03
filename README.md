@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#127](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/127) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-2. 🗣 Commented on [#84](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/84) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. ❗️ Opened issue [#84](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/84) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#78](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/78) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#79](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/79) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🎉 Merged PR [#83](https://github.com/chickomat/chickomat.github.io/pull/83) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+2. 🎉 Merged PR [#85](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/85) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#86](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/86) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🎉 Merged PR [#84](https://github.com/chickomat/chickomat.github.io/pull/84) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+5. 🎉 Merged PR [#85](https://github.com/chickomat/chickomat.github.io/pull/85) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
