@@ -54,18 +54,18 @@
 	</tr><tr>
 		<th>Markdown</th>
 		<th>72</th>
-		<th>1490</th>
-		<th>318</th>
+		<th>1492</th>
+		<th>319</th>
 		<th>0</th>
-		<th>1172</th>
+		<th>1173</th>
 		<th>0</th>
 	</tr><tr>
 		<th>JSON</th>
 		<th>57</th>
-		<th>148228</th>
+		<th>149822</th>
 		<th>1</th>
 		<th>0</th>
-		<th>148227</th>
+		<th>149821</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Processing</th>
@@ -143,10 +143,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>417</th>
-		<th>188232</th>
-		<th>5463</th>
+		<th>189828</th>
+		<th>5464</th>
 		<th>6037</th>
-		<th>176732</th>
+		<th>178327</th>
 		<th>3830</th>
 	</tr></tfoot>
 	</table>
