@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#136](https://github.com/fractava/notes-core/pull/136) in [fractava/notes-core](https://github.com/fractava/notes-core)
-2. ❗️ Closed issue [#444](https://github.com/daybrush/moveable/issues/444) in [daybrush/moveable](https://github.com/daybrush/moveable)
-3. 🗣 Commented on [#444](https://github.com/daybrush/moveable/issues/444) in [daybrush/moveable](https://github.com/daybrush/moveable)
-4. 🗣 Commented on [#444](https://github.com/daybrush/moveable/issues/444) in [daybrush/moveable](https://github.com/daybrush/moveable)
-5. 🎉 Merged PR [#110](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/110) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+1. 🎉 Merged PR [#137](https://github.com/fractava/notes-core/pull/137) in [fractava/notes-core](https://github.com/fractava/notes-core)
+2. 💪 Opened PR [#137](https://github.com/fractava/notes-core/pull/137) in [fractava/notes-core](https://github.com/fractava/notes-core)
+3. 💪 Opened PR [#136](https://github.com/fractava/notes-core/pull/136) in [fractava/notes-core](https://github.com/fractava/notes-core)
+4. ❗️ Closed issue [#444](https://github.com/daybrush/moveable/issues/444) in [daybrush/moveable](https://github.com/daybrush/moveable)
+5. 🗣 Commented on [#444](https://github.com/daybrush/moveable/issues/444) in [daybrush/moveable](https://github.com/daybrush/moveable)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
