@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#444](https://github.com/daybrush/moveable/issues/444) in [daybrush/moveable](https://github.com/daybrush/moveable)
-2. ❗️ Opened issue [#444](https://github.com/daybrush/moveable/issues/444) in [daybrush/moveable](https://github.com/daybrush/moveable)
-3. 🎉 Merged PR [#105](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/105) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-4. 🗣 Commented on [#105](https://github.com/JonathanTreffler/Quill-mathQuill-blot/issues/105) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-5. 🎉 Merged PR [#108](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/108) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+1. 🎉 Merged PR [#124](https://github.com/JonathanTreffler/nuxt-gallery/pull/124) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+2. 🎉 Merged PR [#125](https://github.com/JonathanTreffler/nuxt-gallery/pull/125) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+3. 🗣 Commented on [#444](https://github.com/daybrush/moveable/issues/444) in [daybrush/moveable](https://github.com/daybrush/moveable)
+4. ❗️ Opened issue [#444](https://github.com/daybrush/moveable/issues/444) in [daybrush/moveable](https://github.com/daybrush/moveable)
+5. 🎉 Merged PR [#105](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/105) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
