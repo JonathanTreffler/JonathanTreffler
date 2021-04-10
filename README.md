@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#124](https://github.com/JonathanTreffler/nuxt-gallery/pull/124) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-2. 🎉 Merged PR [#125](https://github.com/JonathanTreffler/nuxt-gallery/pull/125) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-3. 🗣 Commented on [#444](https://github.com/daybrush/moveable/issues/444) in [daybrush/moveable](https://github.com/daybrush/moveable)
-4. ❗️ Opened issue [#444](https://github.com/daybrush/moveable/issues/444) in [daybrush/moveable](https://github.com/daybrush/moveable)
-5. 🎉 Merged PR [#105](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/105) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+1. 🎉 Merged PR [#130](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/130) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+2. 🎉 Merged PR [#86](https://github.com/chickomat/chickomat.github.io/pull/86) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+3. 🎉 Merged PR [#102](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/102) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+4. 🎉 Merged PR [#123](https://github.com/JonathanTreffler/nuxt-gallery/pull/123) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+5. 🎉 Merged PR [#86](https://github.com/fractava/notes-desktop/pull/86) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
