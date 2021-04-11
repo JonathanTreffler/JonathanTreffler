@@ -38,10 +38,10 @@
 	<tbody><tr>
 		<th>JavaScript</th>
 		<th>105</th>
-		<th>26149</th>
+		<th>26152</th>
 		<th>4192</th>
 		<th>5851</th>
-		<th>16106</th>
+		<th>16109</th>
 		<th>3318</th>
 	</tr><tr>
 		<th>Vue</th>
@@ -100,14 +100,6 @@
 		<th>1245</th>
 		<th>45</th>
 	</tr><tr>
-		<th>Shell</th>
-		<th>8</th>
-		<th>76</th>
-		<th>19</th>
-		<th>7</th>
-		<th>50</th>
-		<th>2</th>
-	</tr><tr>
 		<th>XML</th>
 		<th>8</th>
 		<th>141</th>
@@ -115,6 +107,14 @@
 		<th>0</th>
 		<th>137</th>
 		<th>0</th>
+	</tr><tr>
+		<th>Shell</th>
+		<th>7</th>
+		<th>71</th>
+		<th>18</th>
+		<th>6</th>
+		<th>47</th>
+		<th>2</th>
 	</tr><tr>
 		<th>PHP</th>
 		<th>4</th>
@@ -142,10 +142,10 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>417</th>
-		<th>190332</th>
-		<th>5474</th>
-		<th>6037</th>
+		<th>416</th>
+		<th>190330</th>
+		<th>5473</th>
+		<th>6036</th>
 		<th>178821</th>
 		<th>3835</th>
 	</tr></tfoot>
