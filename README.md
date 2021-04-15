@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2644](https://github.com/nextcloud/calendar/issues/2644) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
-2. 🗣 Commented on [#2696](https://github.com/nextcloud/calendar/issues/2696) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
-3. 🗣 Commented on [#2644](https://github.com/nextcloud/calendar/issues/2644) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
-4. ❗️ Closed issue [#63](https://github.com/fractava/notes-core/issues/63) in [fractava/notes-core](https://github.com/fractava/notes-core)
-5. 🎉 Merged PR [#62](https://github.com/fractava/notes-core/pull/62) in [fractava/notes-core](https://github.com/fractava/notes-core)
+1. 🎉 Merged PR [#138](https://github.com/fractava/notes-core/pull/138) in [fractava/notes-core](https://github.com/fractava/notes-core)
+2. 🗣 Commented on [#2644](https://github.com/nextcloud/calendar/issues/2644) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
+3. 🗣 Commented on [#2696](https://github.com/nextcloud/calendar/issues/2696) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
+4. 🗣 Commented on [#2644](https://github.com/nextcloud/calendar/issues/2644) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
+5. ❗️ Closed issue [#63](https://github.com/fractava/notes-core/issues/63) in [fractava/notes-core](https://github.com/fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
