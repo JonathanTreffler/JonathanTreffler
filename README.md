@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/104) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-2. 🎉 Merged PR [#127](https://github.com/JonathanTreffler/nuxt-gallery/pull/127) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-3. 🎉 Merged PR [#138](https://github.com/fractava/notes-core/pull/138) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. 🗣 Commented on [#2644](https://github.com/nextcloud/calendar/issues/2644) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
-5. 🗣 Commented on [#2696](https://github.com/nextcloud/calendar/issues/2696) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
+1. 🎉 Merged PR [#138](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/138) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+2. 🎉 Merged PR [#88](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/88) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#87](https://github.com/chickomat/chickomat.github.io/pull/87) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+4. 🎉 Merged PR [#88](https://github.com/chickomat/chickomat.github.io/pull/88) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+5. 🎉 Merged PR [#104](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/104) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
