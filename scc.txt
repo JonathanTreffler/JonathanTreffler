@@ -4,11 +4,11 @@ Language                 Files     Lines   Blanks  Comments     Code Complexity
 JavaScript                 105     26152     4192      5851    16109       3318
 Vue                        101      7235      488         6     6741        214
 Markdown                    72      1492      319         0     1173          0
-JSON                        57    150161        1         0   150160          0
+JSON                        57    150143        1         0   150142          0
 YAML                        57      2332      298       304     1730          0
 Plain Text                  47       884        1         0      883          0
 License                     31     20228     3630         0    16598          0
-SVG                         31      7704      173         0     7531          0
+SVG                         31      7772      204         0     7568          0
 Processing                  29      2305      288       102     1915        253
 gitignore                   23       611      162       180      269          0
 CSS                         12       939       58        22      859          0
@@ -25,10 +25,10 @@ C++                          1        39        4         6       29          1
 Makefile                     1       157       12        51       94          1
 Sass                         1        13        2         0       11          0
 ───────────────────────────────────────────────────────────────────────────────
-Total                      614    222381     9782      6592   206007       3841
+Total                      614    222431     9813      6592   206026       3841
 ───────────────────────────────────────────────────────────────────────────────
-Estimated Cost to Develop $7,263,925
-Estimated Schedule Effort 32.593869 months
-Estimated People Required 26.399162
+Estimated Cost to Develop $7,264,629
+Estimated Schedule Effort 32.595068 months
+Estimated People Required 26.400747
 ───────────────────────────────────────────────────────────────────────────────
 
