@@ -54,10 +54,10 @@
 	</tr><tr>
 		<th>Markdown</th>
 		<th>72</th>
-		<th>1492</th>
-		<th>319</th>
+		<th>1496</th>
+		<th>320</th>
 		<th>0</th>
-		<th>1173</th>
+		<th>1176</th>
 		<th>0</th>
 	</tr><tr>
 		<th>JSON</th>
@@ -143,10 +143,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>416</th>
-		<th>190312</th>
-		<th>5473</th>
+		<th>190316</th>
+		<th>5474</th>
 		<th>6036</th>
-		<th>178803</th>
+		<th>178806</th>
 		<th>3835</th>
 	</tr></tfoot>
 	</table>
