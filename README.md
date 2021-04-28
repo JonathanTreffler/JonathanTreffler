@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/DecaTec/sharerenamer/issues/29) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
-2. 🎉 Merged PR [#103](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/103) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-3. 🎉 Merged PR [#116](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/116) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-4. 🎉 Merged PR [#138](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/138) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-5. 🎉 Merged PR [#88](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/88) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🗣 Commented on [#28](https://github.com/dkanada/jellyfin-plugin-intros/issues/28) in [dkanada/jellyfin-plugin-intros](https://github.com/dkanada/jellyfin-plugin-intros)
+2. 🗣 Commented on [#29](https://github.com/DecaTec/sharerenamer/issues/29) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
+3. 🎉 Merged PR [#103](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/103) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
+4. 🎉 Merged PR [#116](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/116) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+5. 🎉 Merged PR [#138](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/138) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
