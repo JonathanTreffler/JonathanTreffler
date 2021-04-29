@@ -17,3 +17,21 @@ jobs:
 
       - name: Add Project
         run: sh add_project.sh ${{ github.event.inputs.git_url }}
+        
+      - name: Commit changes
+        continue-on-error: true
+        run: |
+          git pull
+          git add -A
+          
+          user=$(echo ${{ github.event.inputs.git_url }} | cut -d'/' -f 4)
+          repository=$(echo ${{ github.event.inputs.git_url }} | cut -d'/' -f 5)
+          
+          git commit -m "Added Project $user/$repository" -a
+          
+          git log
+      
+      #- name: Push changes
+      #  uses: ad-m/github-push-action@master
+      #  with:
+      #    github_token: ${{ secrets.GITHUB_TOKEN }}
