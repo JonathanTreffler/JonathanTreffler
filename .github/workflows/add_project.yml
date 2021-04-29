@@ -1,0 +1,19 @@
+name: 'Add Project'
+
+on:
+  workflow_dispatch:
+    inputs:
+      git_url:
+        description: "URL of repository to add"
+        required: true
+        default: ''
+
+jobs:
+  add_project:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Add Project
+        run: sh add_project.sh ${{ github.event.inputs.git_url }}
