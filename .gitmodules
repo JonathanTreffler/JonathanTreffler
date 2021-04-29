@@ -115,3 +115,6 @@
 [submodule "projects/algorithmik-kurs.github.io"]
 	path = projects/algorithmik-kurs.github.io
 	url = https://github.com/algorithmik-kurs/algorithmik-kurs.github.io
+[submodule "projects/covid-simulation-javascript-template"]
+	path = projects/covid-simulation-javascript-template
+	url = https://github.com/algorithmik-kurs/covid-simulation-javascript-template
