@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/dkanada/jellyfin-plugin-intros/issues/28) in [dkanada/jellyfin-plugin-intros](https://github.com/dkanada/jellyfin-plugin-intros)
-2. 🗣 Commented on [#29](https://github.com/DecaTec/sharerenamer/issues/29) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
-3. 🎉 Merged PR [#103](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/103) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-4. 🎉 Merged PR [#116](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/116) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-5. 🎉 Merged PR [#138](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/138) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+1. 🎉 Merged PR [#121](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/121) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+2. 🎉 Merged PR [#146](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/146) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+3. 🎉 Merged PR [#93](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/93) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🎉 Merged PR [#90](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/90) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#144](https://github.com/fractava/notes-core/pull/144) in [fractava/notes-core](https://github.com/fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
