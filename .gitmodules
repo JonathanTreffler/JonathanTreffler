@@ -121,3 +121,6 @@
 [submodule "projects/my-vue-stylelintrc"]
 	path = projects/my-vue-stylelintrc
 	url = https://github.com/JonathanTreffler/my-vue-stylelintrc
+[submodule "projects/home-assistant-christmas-theme"]
+	path = projects/home-assistant-christmas-theme
+	url = https://github.com/JonathanTreffler/home-assistant-christmas-theme
