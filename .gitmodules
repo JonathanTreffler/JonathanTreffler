@@ -112,3 +112,6 @@
 [submodule "projects/Rucksackproblem"]
 	path = projects/Rucksackproblem
 	url = https://github.com/JonathanTreffler/Rucksackproblem
+[submodule "projects/algorithmik-kurs.github.io"]
+	path = projects/algorithmik-kurs.github.io
+	url = https://github.com/algorithmik-kurs/algorithmik-kurs.github.io
