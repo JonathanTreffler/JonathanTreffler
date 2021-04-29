@@ -37,12 +37,12 @@
 	</tr></thead>
 	<tbody><tr>
 		<th>JavaScript</th>
-		<th>107</th>
-		<th>26283</th>
-		<th>4212</th>
-		<th>5867</th>
-		<th>16204</th>
-		<th>3323</th>
+		<th>108</th>
+		<th>26374</th>
+		<th>4228</th>
+		<th>5869</th>
+		<th>16277</th>
+		<th>3334</th>
 	</tr><tr>
 		<th>Vue</th>
 		<th>101</th>
@@ -53,19 +53,19 @@
 		<th>214</th>
 	</tr><tr>
 		<th>Markdown</th>
-		<th>73</th>
-		<th>1504</th>
-		<th>322</th>
+		<th>74</th>
+		<th>1521</th>
+		<th>326</th>
 		<th>0</th>
-		<th>1182</th>
+		<th>1195</th>
 		<th>0</th>
 	</tr><tr>
 		<th>JSON</th>
-		<th>59</th>
-		<th>150324</th>
+		<th>60</th>
+		<th>150485</th>
 		<th>1</th>
 		<th>0</th>
-		<th>150323</th>
+		<th>150484</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Processing</th>
@@ -77,11 +77,11 @@
 		<th>275</th>
 	</tr><tr>
 		<th>HTML</th>
-		<th>18</th>
-		<th>646</th>
+		<th>19</th>
+		<th>656</th>
 		<th>30</th>
 		<th>25</th>
-		<th>591</th>
+		<th>601</th>
 		<th>0</th>
 	</tr><tr>
 		<th>CSS</th>
@@ -142,12 +142,12 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>436</th>
-		<th>195014</th>
-		<th>5740</th>
-		<th>6355</th>
-		<th>182919</th>
-		<th>3862</th>
+		<th>440</th>
+		<th>195293</th>
+		<th>5760</th>
+		<th>6357</th>
+		<th>183176</th>
+		<th>3873</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
