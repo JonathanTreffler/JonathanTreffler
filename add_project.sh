@@ -4,7 +4,6 @@ git_url=$1
 if [ "$git_url" != "" ]; then
 
     cd projects
-    echo $git_url
     git submodule add $git_url
 
     echo "Sucessfully added repository $git_url"
