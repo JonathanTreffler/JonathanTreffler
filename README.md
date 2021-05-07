@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/fractava/notes-desktop/pull/95) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
-2. 🎉 Merged PR [#345](https://github.com/e-alfred/flowupload/pull/345) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🎉 Merged PR [#94](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/94) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#141](https://github.com/fractava/notes-core/pull/141) in [fractava/notes-core](https://github.com/fractava/notes-core)
-5. 🎉 Merged PR [#92](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/92) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🗣 Commented on [#2451](https://github.com/jellyfin/jellyfin/issues/2451) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+2. 🎉 Merged PR [#95](https://github.com/fractava/notes-desktop/pull/95) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+3. 🎉 Merged PR [#345](https://github.com/e-alfred/flowupload/pull/345) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🎉 Merged PR [#94](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/94) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#141](https://github.com/fractava/notes-core/pull/141) in [fractava/notes-core](https://github.com/fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
