@@ -62,10 +62,10 @@
 	</tr><tr>
 		<th>JSON</th>
 		<th>63</th>
-		<th>152496</th>
+		<th>152427</th>
 		<th>1</th>
 		<th>0</th>
-		<th>152495</th>
+		<th>152426</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Processing</th>
@@ -143,10 +143,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>446</th>
-		<th>197344</th>
+		<th>197275</th>
 		<th>5763</th>
 		<th>6357</th>
-		<th>185224</th>
+		<th>185155</th>
 		<th>3873</th>
 	</tr></tfoot>
 	</table>
