@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2451](https://github.com/jellyfin/jellyfin/issues/2451) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-2. 🎉 Merged PR [#95](https://github.com/fractava/notes-desktop/pull/95) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
-3. 🎉 Merged PR [#345](https://github.com/e-alfred/flowupload/pull/345) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🎉 Merged PR [#94](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/94) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#141](https://github.com/fractava/notes-core/pull/141) in [fractava/notes-core](https://github.com/fractava/notes-core)
+1. ❌ Closed PR [#92](https://github.com/chickomat/chickomat.github.io/pull/92) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+2. 🎉 Merged PR [#90](https://github.com/chickomat/chickomat.github.io/pull/90) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+3. 🎉 Merged PR [#91](https://github.com/chickomat/chickomat.github.io/pull/91) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+4. 🗣 Commented on [#2451](https://github.com/jellyfin/jellyfin/issues/2451) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+5. 🎉 Merged PR [#95](https://github.com/fractava/notes-desktop/pull/95) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
