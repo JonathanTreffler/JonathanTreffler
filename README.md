@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12065](https://github.com/vuejs/vue/issues/12065) in [vuejs/vue](https://github.com/vuejs/vue)
-2. ❌ Closed PR [#92](https://github.com/chickomat/chickomat.github.io/pull/92) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-3. 🎉 Merged PR [#90](https://github.com/chickomat/chickomat.github.io/pull/90) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-4. 🎉 Merged PR [#91](https://github.com/chickomat/chickomat.github.io/pull/91) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-5. 🗣 Commented on [#2451](https://github.com/jellyfin/jellyfin/issues/2451) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+1. 🎉 Merged PR [#95](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/95) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🗣 Commented on [#12065](https://github.com/vuejs/vue/issues/12065) in [vuejs/vue](https://github.com/vuejs/vue)
+3. ❌ Closed PR [#92](https://github.com/chickomat/chickomat.github.io/pull/92) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+4. 🎉 Merged PR [#90](https://github.com/chickomat/chickomat.github.io/pull/90) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+5. 🎉 Merged PR [#91](https://github.com/chickomat/chickomat.github.io/pull/91) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
