@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
-2. 🎉 Merged PR [#95](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/95) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🗣 Commented on [#12065](https://github.com/vuejs/vue/issues/12065) in [vuejs/vue](https://github.com/vuejs/vue)
-4. ❌ Closed PR [#92](https://github.com/chickomat/chickomat.github.io/pull/92) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-5. 🎉 Merged PR [#90](https://github.com/chickomat/chickomat.github.io/pull/90) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+1. 🎉 Merged PR [#101](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/101) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#99](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/99) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#103](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/103) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🎉 Merged PR [#104](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/104) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
