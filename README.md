@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/JonathanTreffler/Test/pull/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
-2. ❌ Reopened PR [#1](https://github.com/JonathanTreffler/Test/pull/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
+1. ❗️ Closed issue [#84](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/84) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#105](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/105) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 3. ❌ Closed PR [#1](https://github.com/JonathanTreffler/Test/pull/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
-4. 💪 Opened PR [#1](https://github.com/JonathanTreffler/Test/pull/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
-5. ❗️ Closed issue [#1](https://github.com/JonathanTreffler/Test/issues/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
+4. ❌ Reopened PR [#1](https://github.com/JonathanTreffler/Test/pull/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
+5. ❌ Closed PR [#1](https://github.com/JonathanTreffler/Test/pull/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
