@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/JonathanTreffler/Test/issues/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
-2. 🗣 Commented on [#1](https://github.com/JonathanTreffler/Test/issues/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
-3. ❗️ Opened issue [#1](https://github.com/JonathanTreffler/Test/issues/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
-4. 🗣 Commented on [#105](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/105) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 💪 Opened PR [#105](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/105) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. ❌ Closed PR [#1](https://github.com/JonathanTreffler/Test/pull/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
+2. 💪 Opened PR [#1](https://github.com/JonathanTreffler/Test/pull/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
+3. ❗️ Closed issue [#1](https://github.com/JonathanTreffler/Test/issues/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
+4. 🗣 Commented on [#1](https://github.com/JonathanTreffler/Test/issues/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
+5. ❗️ Opened issue [#1](https://github.com/JonathanTreffler/Test/issues/1) in [JonathanTreffler/Test](https://github.com/JonathanTreffler/Test)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
