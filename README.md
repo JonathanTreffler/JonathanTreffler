@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#148](https://github.com/fractava/notes-core/pull/148) in [fractava/notes-core](https://github.com/fractava/notes-core)
-2. 🎉 Merged PR [#147](https://github.com/fractava/notes-core/pull/147) in [fractava/notes-core](https://github.com/fractava/notes-core)
-3. 🎉 Merged PR [#154](https://github.com/fractava/notes-core/pull/154) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. 🎉 Merged PR [#38](https://github.com/JonathanTreffler/vuejs-quill/pull/38) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-5. 🎉 Merged PR [#98](https://github.com/chickomat/chickomat.github.io/pull/98) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+1. 🎉 Merged PR [#148](https://github.com/JonathanTreffler/nuxt-gallery/pull/148) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+2. 🎉 Merged PR [#147](https://github.com/JonathanTreffler/nuxt-gallery/pull/147) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+3. 🎉 Merged PR [#33](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/33) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
+4. 🎉 Merged PR [#31](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/31) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
+5. 🎉 Merged PR [#34](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/34) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
