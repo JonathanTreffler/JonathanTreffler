@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#148](https://github.com/JonathanTreffler/nuxt-gallery/pull/148) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-2. 🎉 Merged PR [#147](https://github.com/JonathanTreffler/nuxt-gallery/pull/147) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-3. 🎉 Merged PR [#33](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/33) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
-4. 🎉 Merged PR [#31](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/31) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
-5. 🎉 Merged PR [#34](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/34) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
+1. 🗣 Commented on [#5236](https://github.com/jellyfin/jellyfin/issues/5236) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+2. 🎉 Merged PR [#148](https://github.com/JonathanTreffler/nuxt-gallery/pull/148) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+3. 🎉 Merged PR [#147](https://github.com/JonathanTreffler/nuxt-gallery/pull/147) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+4. 🎉 Merged PR [#33](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/33) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
+5. 🎉 Merged PR [#31](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/31) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
