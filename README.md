@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2644](https://github.com/nextcloud/calendar/issues/2644) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
+1. ❗️ Opened issue [#1624](https://github.com/nextcloud/text/issues/1624) in [nextcloud/text](https://github.com/nextcloud/text)
 2. 🗣 Commented on [#2644](https://github.com/nextcloud/calendar/issues/2644) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
-3. 🎉 Merged PR [#109](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/109) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#177](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/177) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-5. 🎉 Merged PR [#147](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/147) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+3. 🗣 Commented on [#2644](https://github.com/nextcloud/calendar/issues/2644) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
+4. 🎉 Merged PR [#109](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/109) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#177](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/177) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
