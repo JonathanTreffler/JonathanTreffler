@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/JonathanTreffler/status/issues/10) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🗣 Commented on [#10](https://github.com/JonathanTreffler/status/issues/10) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. ❗️ Opened issue [#10](https://github.com/JonathanTreffler/status/issues/10) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. ❗️ Opened issue [#1624](https://github.com/nextcloud/text/issues/1624) in [nextcloud/text](https://github.com/nextcloud/text)
-5. 🗣 Commented on [#2644](https://github.com/nextcloud/calendar/issues/2644) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
+1. 🗣 Commented on [#598](https://github.com/openaudible/openaudible/issues/598) in [openaudible/openaudible](https://github.com/openaudible/openaudible)
+2. ❗️ Closed issue [#10](https://github.com/JonathanTreffler/status/issues/10) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. 🗣 Commented on [#10](https://github.com/JonathanTreffler/status/issues/10) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. ❗️ Opened issue [#10](https://github.com/JonathanTreffler/status/issues/10) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. ❗️ Opened issue [#1624](https://github.com/nextcloud/text/issues/1624) in [nextcloud/text](https://github.com/nextcloud/text)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
