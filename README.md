@@ -156,9 +156,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1246](https://github.com/nextcloud/news/issues/1246) in [nextcloud/news](https://github.com/nextcloud/news)
 2. 🗣 Commented on [#1246](https://github.com/nextcloud/news/issues/1246) in [nextcloud/news](https://github.com/nextcloud/news)
-3. 🗣 Commented on [#598](https://github.com/openaudible/openaudible/issues/598) in [openaudible/openaudible](https://github.com/openaudible/openaudible)
+3. 🗣 Commented on [#1246](https://github.com/nextcloud/news/issues/1246) in [nextcloud/news](https://github.com/nextcloud/news)
 4. 🗣 Commented on [#598](https://github.com/openaudible/openaudible/issues/598) in [openaudible/openaudible](https://github.com/openaudible/openaudible)
-5. ❗️ Closed issue [#10](https://github.com/JonathanTreffler/status/issues/10) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. 🗣 Commented on [#598](https://github.com/openaudible/openaudible/issues/598) in [openaudible/openaudible](https://github.com/openaudible/openaudible)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
