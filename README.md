@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/JonathanTreffler/status/issues/11) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🗣 Commented on [#11](https://github.com/JonathanTreffler/status/issues/11) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. ❗️ Opened issue [#13](https://github.com/JonathanTreffler/status/issues/13) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. ❗️ Opened issue [#12](https://github.com/JonathanTreffler/status/issues/12) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. ❗️ Opened issue [#11](https://github.com/JonathanTreffler/status/issues/11) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+1. ❗️ Closed issue [#13](https://github.com/JonathanTreffler/status/issues/13) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+2. 🗣 Commented on [#13](https://github.com/JonathanTreffler/status/issues/13) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. ❗️ Closed issue [#12](https://github.com/JonathanTreffler/status/issues/12) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. 🗣 Commented on [#12](https://github.com/JonathanTreffler/status/issues/12) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. ❗️ Closed issue [#11](https://github.com/JonathanTreffler/status/issues/11) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
