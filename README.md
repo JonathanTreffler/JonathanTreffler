@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1246](https://github.com/nextcloud/news/issues/1246) in [nextcloud/news](https://github.com/nextcloud/news)
-2. 🗣 Commented on [#1246](https://github.com/nextcloud/news/issues/1246) in [nextcloud/news](https://github.com/nextcloud/news)
-3. 🗣 Commented on [#1246](https://github.com/nextcloud/news/issues/1246) in [nextcloud/news](https://github.com/nextcloud/news)
-4. 🗣 Commented on [#598](https://github.com/openaudible/openaudible/issues/598) in [openaudible/openaudible](https://github.com/openaudible/openaudible)
-5. 🗣 Commented on [#598](https://github.com/openaudible/openaudible/issues/598) in [openaudible/openaudible](https://github.com/openaudible/openaudible)
+1. ❗️ Opened issue [#13](https://github.com/JonathanTreffler/status/issues/13) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+2. ❗️ Opened issue [#12](https://github.com/JonathanTreffler/status/issues/12) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. ❗️ Opened issue [#11](https://github.com/JonathanTreffler/status/issues/11) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. 🗣 Commented on [#1246](https://github.com/nextcloud/news/issues/1246) in [nextcloud/news](https://github.com/nextcloud/news)
+5. 🗣 Commented on [#1246](https://github.com/nextcloud/news/issues/1246) in [nextcloud/news](https://github.com/nextcloud/news)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
