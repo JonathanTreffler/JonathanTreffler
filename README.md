@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/fractava/biblio/issues/3) in [fractava/biblio](https://github.com/fractava/biblio)
-2. ❗️ Opened issue [#3](https://github.com/fractava/biblio/issues/3) in [fractava/biblio](https://github.com/fractava/biblio)
-3. 🗣 Commented on [#2](https://github.com/fractava/biblio/issues/2) in [fractava/biblio](https://github.com/fractava/biblio)
-4. ❗️ Opened issue [#2](https://github.com/fractava/biblio/issues/2) in [fractava/biblio](https://github.com/fractava/biblio)
-5. ❗️ Closed issue [#1](https://github.com/fractava/biblio/issues/1) in [fractava/biblio](https://github.com/fractava/biblio)
+1. ❗️ Opened issue [#11](https://github.com/fractava/biblio/issues/11) in [fractava/biblio](https://github.com/fractava/biblio)
+2. ❗️ Opened issue [#10](https://github.com/fractava/biblio/issues/10) in [fractava/biblio](https://github.com/fractava/biblio)
+3. ❗️ Opened issue [#9](https://github.com/fractava/biblio/issues/9) in [fractava/biblio](https://github.com/fractava/biblio)
+4. ❗️ Opened issue [#8](https://github.com/fractava/biblio/issues/8) in [fractava/biblio](https://github.com/fractava/biblio)
+5. 🗣 Commented on [#7](https://github.com/fractava/biblio/issues/7) in [fractava/biblio](https://github.com/fractava/biblio)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
