@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/JonathanTreffler/biblio/pull/1) in [JonathanTreffler/biblio](https://github.com/JonathanTreffler/biblio)
-2. 💪 Opened PR [#1](https://github.com/JonathanTreffler/biblio/pull/1) in [JonathanTreffler/biblio](https://github.com/JonathanTreffler/biblio)
-3. ❗️ Opened issue [#11](https://github.com/fractava/biblio/issues/11) in [fractava/biblio](https://github.com/fractava/biblio)
-4. ❗️ Opened issue [#10](https://github.com/fractava/biblio/issues/10) in [fractava/biblio](https://github.com/fractava/biblio)
-5. ❗️ Opened issue [#9](https://github.com/fractava/biblio/issues/9) in [fractava/biblio](https://github.com/fractava/biblio)
+1. ❌ Closed PR [#12](https://github.com/fractava/biblio/pull/12) in [fractava/biblio](https://github.com/fractava/biblio)
+2. ❌ Closed PR [#13](https://github.com/fractava/biblio/pull/13) in [fractava/biblio](https://github.com/fractava/biblio)
+3. ❌ Closed PR [#14](https://github.com/fractava/biblio/pull/14) in [fractava/biblio](https://github.com/fractava/biblio)
+4. ❌ Closed PR [#15](https://github.com/fractava/biblio/pull/15) in [fractava/biblio](https://github.com/fractava/biblio)
+5. ❌ Closed PR [#16](https://github.com/fractava/biblio/pull/16) in [fractava/biblio](https://github.com/fractava/biblio)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
