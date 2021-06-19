@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#338](https://github.com/e-alfred/flowupload/pull/338) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🎉 Merged PR [#370](https://github.com/e-alfred/flowupload/pull/370) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🎉 Merged PR [#165](https://github.com/fractava/notes-core/pull/165) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. 🎉 Merged PR [#42](https://github.com/JonathanTreffler/vuejs-quill/pull/42) in [JonathanTreffler/vuejs-quill](https://github.com/JonathanTreffler/vuejs-quill)
-5. 🎉 Merged PR [#153](https://github.com/JonathanTreffler/nuxt-gallery/pull/153) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. 🎉 Merged PR [#155](https://github.com/JonathanTreffler/nuxt-gallery/pull/155) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+2. 🎉 Merged PR [#349](https://github.com/e-alfred/flowupload/pull/349) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🎉 Merged PR [#338](https://github.com/e-alfred/flowupload/pull/338) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🎉 Merged PR [#370](https://github.com/e-alfred/flowupload/pull/370) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🎉 Merged PR [#165](https://github.com/fractava/notes-core/pull/165) in [fractava/notes-core](https://github.com/fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
