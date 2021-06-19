@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#118](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/118) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-2. 🎉 Merged PR [#107](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io/pull/107) in [Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io](https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io)
-3. ❌ Closed PR [#146](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/146) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-4. ❌ Closed PR [#161](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/161) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
-5. 🎉 Merged PR [#125](https://github.com/JonathanTreffler/Quill-mathQuill-blot/pull/125) in [JonathanTreffler/Quill-mathQuill-blot](https://github.com/JonathanTreffler/Quill-mathQuill-blot)
+1. 🗣 Commented on [#3](https://github.com/fractava/biblio/issues/3) in [fractava/biblio](https://github.com/fractava/biblio)
+2. ❗️ Opened issue [#3](https://github.com/fractava/biblio/issues/3) in [fractava/biblio](https://github.com/fractava/biblio)
+3. 🗣 Commented on [#2](https://github.com/fractava/biblio/issues/2) in [fractava/biblio](https://github.com/fractava/biblio)
+4. ❗️ Opened issue [#2](https://github.com/fractava/biblio/issues/2) in [fractava/biblio](https://github.com/fractava/biblio)
+5. ❗️ Closed issue [#1](https://github.com/fractava/biblio/issues/1) in [fractava/biblio](https://github.com/fractava/biblio)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
