@@ -154,11 +154,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#155](https://github.com/JonathanTreffler/nuxt-gallery/pull/155) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-2. 🎉 Merged PR [#349](https://github.com/e-alfred/flowupload/pull/349) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🎉 Merged PR [#338](https://github.com/e-alfred/flowupload/pull/338) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🎉 Merged PR [#370](https://github.com/e-alfred/flowupload/pull/370) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🎉 Merged PR [#165](https://github.com/fractava/notes-core/pull/165) in [fractava/notes-core](https://github.com/fractava/notes-core)
+1. 🎉 Merged PR [#116](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/116) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#38](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/38) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
+3. 🎉 Merged PR [#104](https://github.com/chickomat/chickomat.github.io/pull/104) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+4. 🎉 Merged PR [#119](https://github.com/fractava/notes-desktop/pull/119) in [fractava/notes-desktop](https://github.com/fractava/notes-desktop)
+5. 🎉 Merged PR [#367](https://github.com/e-alfred/flowupload/pull/367) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
