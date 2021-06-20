@@ -117,11 +117,11 @@
 		<th>45</th>
 	</tr><tr>
 		<th>Shell</th>
-		<th>7</th>
-		<th>71</th>
+		<th>8</th>
+		<th>75</th>
 		<th>18</th>
-		<th>6</th>
-		<th>47</th>
+		<th>8</th>
+		<th>49</th>
 		<th>2</th>
 	</tr><tr>
 		<th>C++</th>
@@ -134,11 +134,11 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>450</th>
-		<th>212225</th>
+		<th>451</th>
+		<th>212229</th>
 		<th>5895</th>
-		<th>6461</th>
-		<th>199869</th>
+		<th>6463</th>
+		<th>199871</th>
 		<th>3918</th>
 	</tr></tfoot>
 	</table>
