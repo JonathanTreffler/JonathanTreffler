@@ -118,9 +118,9 @@
 	</tr><tr>
 		<th>Shell</th>
 		<th>8</th>
-		<th>75</th>
-		<th>18</th>
-		<th>8</th>
+		<th>78</th>
+		<th>20</th>
+		<th>9</th>
 		<th>49</th>
 		<th>2</th>
 	</tr><tr>
@@ -135,9 +135,9 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>451</th>
-		<th>212229</th>
-		<th>5895</th>
-		<th>6463</th>
+		<th>212232</th>
+		<th>5897</th>
+		<th>6464</th>
 		<th>199871</th>
 		<th>3918</th>
 	</tr></tfoot>

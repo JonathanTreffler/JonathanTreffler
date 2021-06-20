@@ -3,7 +3,7 @@ Language                 Files     Lines   Blanks  Comments     Code Complexity
 ───────────────────────────────────────────────────────────────────────────────
 JavaScript                 109     26333     4226      5889    16218       3332
 Vue                         96      7596      525         6     7065        258
-YAML                        80      3224      402       314     2508          0
+YAML                        80      3225      402       314     2509          0
 Markdown                    77      1675      325         0     1350          0
 JSON                        60    166489        1         0   166488          0
 Plain Text                  48       900        1         0      899          0
@@ -16,19 +16,19 @@ HTML                        19       656       30        25      601          0
 CSS                         16      4889      246       304     4339          0
 XML                         11       178        4         0      174          0
 Sass                         9      1115      142       172      801          0
-Shell                        9       102       22        18       62          2
+Shell                        9       105       24        19       62          2
 Python                       8      1317       58        14     1245         45
-Dockerfile                   4        66       18        15       33          5
+Dockerfile                   4        63       21         8       34          5
 Docker ignore                2        11        0         0       11          0
 Makefile                     2       225       28        61      136          1
 C Header                     1        31        9         5       17          0
 C++                          1        39        4         6       29          1
 Gemfile                      1        10        2         0        8          0
 ───────────────────────────────────────────────────────────────────────────────
-Total                      709    254139    11202      7191   235746       3924
+Total                      709    254140    11207      7185   235748       3924
 ───────────────────────────────────────────────────────────────────────────────
-Estimated Cost to Develop $8,368,774
-Estimated Schedule Effort 34.395552 months
-Estimated People Required 28.821345
+Estimated Cost to Develop $8,368,849
+Estimated Schedule Effort 34.395669 months
+Estimated People Required 28.821504
 ───────────────────────────────────────────────────────────────────────────────
 
