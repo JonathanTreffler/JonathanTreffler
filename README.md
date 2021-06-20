@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/125) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. 💪 Opened PR [#125](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/125) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. ❌ Closed PR [#12](https://github.com/fractava/biblio/pull/12) in [fractava/biblio](https://github.com/fractava/biblio)
-4. ❌ Closed PR [#13](https://github.com/fractava/biblio/pull/13) in [fractava/biblio](https://github.com/fractava/biblio)
-5. ❌ Closed PR [#14](https://github.com/fractava/biblio/pull/14) in [fractava/biblio](https://github.com/fractava/biblio)
+1. 🎉 Merged PR [#21](https://github.com/fractava/biblio/pull/21) in [fractava/biblio](https://github.com/fractava/biblio)
+2. 🎉 Merged PR [#20](https://github.com/fractava/biblio/pull/20) in [fractava/biblio](https://github.com/fractava/biblio)
+3. 🎉 Merged PR [#125](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/125) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 💪 Opened PR [#125](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/125) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. ❌ Closed PR [#12](https://github.com/fractava/biblio/pull/12) in [fractava/biblio](https://github.com/fractava/biblio)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
