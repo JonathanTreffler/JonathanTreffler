@@ -48,24 +48,24 @@
 		<th>96</th>
 		<th>7596</th>
 		<th>525</th>
-		<th>6</th>
-		<th>7065</th>
+		<th>26</th>
+		<th>7045</th>
 		<th>258</th>
 	</tr><tr>
 		<th>Markdown</th>
 		<th>68</th>
-		<th>1491</th>
-		<th>315</th>
+		<th>1496</th>
+		<th>317</th>
 		<th>0</th>
-		<th>1176</th>
+		<th>1179</th>
 		<th>0</th>
 	</tr><tr>
 		<th>JSON</th>
 		<th>60</th>
-		<th>166489</th>
+		<th>153530</th>
 		<th>1</th>
 		<th>0</th>
-		<th>166488</th>
+		<th>153529</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Processing</th>
@@ -78,10 +78,10 @@
 	</tr><tr>
 		<th>PHP</th>
 		<th>22</th>
-		<th>708</th>
+		<th>707</th>
 		<th>137</th>
 		<th>99</th>
-		<th>472</th>
+		<th>471</th>
 		<th>5</th>
 	</tr><tr>
 		<th>HTML</th>
@@ -135,10 +135,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>451</th>
-		<th>212232</th>
-		<th>5897</th>
-		<th>6464</th>
-		<th>199871</th>
+		<th>199277</th>
+		<th>5899</th>
+		<th>6484</th>
+		<th>186894</th>
 		<th>3918</th>
 	</tr></tfoot>
 	</table>
