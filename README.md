@@ -45,17 +45,17 @@
 		<th>3332</th>
 	</tr><tr>
 		<th>Vue</th>
-		<th>96</th>
-		<th>7555</th>
-		<th>525</th>
+		<th>98</th>
+		<th>7688</th>
+		<th>535</th>
 		<th>6</th>
-		<th>7024</th>
-		<th>258</th>
+		<th>7147</th>
+		<th>260</th>
 	</tr><tr>
 		<th>Markdown</th>
 		<th>68</th>
-		<th>1506</th>
-		<th>320</th>
+		<th>1508</th>
+		<th>322</th>
 		<th>0</th>
 		<th>1186</th>
 		<th>0</th>
@@ -78,10 +78,10 @@
 	</tr><tr>
 		<th>PHP</th>
 		<th>22</th>
-		<th>707</th>
-		<th>137</th>
+		<th>711</th>
+		<th>138</th>
 		<th>99</th>
-		<th>471</th>
+		<th>474</th>
 		<th>5</th>
 	</tr><tr>
 		<th>HTML</th>
@@ -93,11 +93,11 @@
 		<th>0</th>
 	</tr><tr>
 		<th>CSS</th>
-		<th>16</th>
-		<th>4889</th>
+		<th>15</th>
+		<th>4886</th>
 		<th>246</th>
 		<th>304</th>
-		<th>4339</th>
+		<th>4336</th>
 		<th>0</th>
 	</tr><tr>
 		<th>XML</th>
@@ -134,12 +134,12 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>451</th>
-		<th>199246</th>
-		<th>5902</th>
+		<th>452</th>
+		<th>199382</th>
+		<th>5915</th>
 		<th>6464</th>
-		<th>186880</th>
-		<th>3918</th>
+		<th>187003</th>
+		<th>3920</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
