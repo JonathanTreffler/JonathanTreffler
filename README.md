@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#297](https://github.com/nextcloud/docker-ci/issues/297) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
-2. 💪 Opened PR [#297](https://github.com/nextcloud/docker-ci/pull/297) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
-3. 🎉 Merged PR [#25](https://github.com/fractava/biblio/pull/25) in [fractava/biblio](https://github.com/fractava/biblio)
-4. 🎉 Merged PR [#19](https://github.com/fractava/biblio/pull/19) in [fractava/biblio](https://github.com/fractava/biblio)
-5. 🎉 Merged PR [#21](https://github.com/fractava/biblio/pull/21) in [fractava/biblio](https://github.com/fractava/biblio)
+1. 🎉 Merged PR [#297](https://github.com/nextcloud/docker-ci/pull/297) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
+2. 🗣 Commented on [#297](https://github.com/nextcloud/docker-ci/issues/297) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
+3. 💪 Opened PR [#297](https://github.com/nextcloud/docker-ci/pull/297) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
+4. 🎉 Merged PR [#25](https://github.com/fractava/biblio/pull/25) in [fractava/biblio](https://github.com/fractava/biblio)
+5. 🎉 Merged PR [#19](https://github.com/fractava/biblio/pull/19) in [fractava/biblio](https://github.com/fractava/biblio)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
