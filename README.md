@@ -46,18 +46,18 @@
 	</tr><tr>
 		<th>Vue</th>
 		<th>96</th>
-		<th>7596</th>
+		<th>7555</th>
 		<th>525</th>
-		<th>26</th>
-		<th>7045</th>
+		<th>6</th>
+		<th>7024</th>
 		<th>258</th>
 	</tr><tr>
 		<th>Markdown</th>
 		<th>68</th>
-		<th>1496</th>
-		<th>317</th>
+		<th>1506</th>
+		<th>320</th>
 		<th>0</th>
-		<th>1179</th>
+		<th>1186</th>
 		<th>0</th>
 	</tr><tr>
 		<th>JSON</th>
@@ -135,10 +135,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>451</th>
-		<th>199277</th>
-		<th>5899</th>
-		<th>6484</th>
-		<th>186894</th>
+		<th>199246</th>
+		<th>5902</th>
+		<th>6464</th>
+		<th>186880</th>
 		<th>3918</th>
 	</tr></tfoot>
 	</table>
