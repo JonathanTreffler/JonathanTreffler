@@ -70,10 +70,10 @@
 	</tr><tr>
 		<th>Processing</th>
 		<th>33</th>
-		<th>2458</th>
-		<th>331</th>
-		<th>112</th>
-		<th>2015</th>
+		<th>2481</th>
+		<th>334</th>
+		<th>113</th>
+		<th>2034</th>
 		<th>275</th>
 	</tr><tr>
 		<th>PHP</th>
@@ -135,10 +135,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>460</th>
-		<th>199620</th>
-		<th>5940</th>
-		<th>6485</th>
-		<th>187195</th>
+		<th>199643</th>
+		<th>5943</th>
+		<th>6486</th>
+		<th>187214</th>
 		<th>3927</th>
 	</tr></tfoot>
 	</table>
