@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/JonathanTreffler/status/issues/14) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🗣 Commented on [#14](https://github.com/JonathanTreffler/status/issues/14) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. ❗️ Opened issue [#14](https://github.com/JonathanTreffler/status/issues/14) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. ❗️ Closed issue [#27](https://github.com/fractava/biblio/issues/27) in [fractava/biblio](https://github.com/fractava/biblio)
-5. ❗️ Opened issue [#299](https://github.com/nextcloud/docker-ci/issues/299) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
+1. 🗣 Commented on [#21](https://github.com/DecaTec/sharerenamer/issues/21) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
+2. 🗣 Commented on [#21](https://github.com/DecaTec/sharerenamer/issues/21) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
+3. ❗️ Closed issue [#14](https://github.com/JonathanTreffler/status/issues/14) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. 🗣 Commented on [#14](https://github.com/JonathanTreffler/status/issues/14) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. ❗️ Opened issue [#14](https://github.com/JonathanTreffler/status/issues/14) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
