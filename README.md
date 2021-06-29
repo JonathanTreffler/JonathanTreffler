@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/JonathanTreffler/status/issues/14) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. ❗️ Closed issue [#27](https://github.com/fractava/biblio/issues/27) in [fractava/biblio](https://github.com/fractava/biblio)
-3. ❗️ Opened issue [#299](https://github.com/nextcloud/docker-ci/issues/299) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
-4. ❗️ Opened issue [#27](https://github.com/fractava/biblio/issues/27) in [fractava/biblio](https://github.com/fractava/biblio)
-5. 🗣 Commented on [#348](https://github.com/e-alfred/flowupload/issues/348) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. ❗️ Closed issue [#14](https://github.com/JonathanTreffler/status/issues/14) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+2. 🗣 Commented on [#14](https://github.com/JonathanTreffler/status/issues/14) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. ❗️ Opened issue [#14](https://github.com/JonathanTreffler/status/issues/14) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. ❗️ Closed issue [#27](https://github.com/fractava/biblio/issues/27) in [fractava/biblio](https://github.com/fractava/biblio)
+5. ❗️ Opened issue [#299](https://github.com/nextcloud/docker-ci/issues/299) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
