@@ -146,10 +146,10 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/DecaTec/sharerenamer/issues/31) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
-2. 🗣 Commented on [#21](https://github.com/DecaTec/sharerenamer/issues/21) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
-3. 🎉 Merged PR [#383](https://github.com/e-alfred/flowupload/pull/383) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🗣 Commented on [#21](https://github.com/DecaTec/sharerenamer/issues/21) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
+1. 🗣 Commented on [#29](https://github.com/JonathanTreffler/sharerenamer/issues/29) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+2. ❗️ Closed issue [#29](https://github.com/JonathanTreffler/sharerenamer/issues/29) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+3. 🗣 Commented on [#29](https://github.com/JonathanTreffler/sharerenamer/issues/29) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. 🗣 Commented on [#31](https://github.com/DecaTec/sharerenamer/issues/31) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
 5. 🗣 Commented on [#21](https://github.com/DecaTec/sharerenamer/issues/21) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
 <!--END_SECTION:activity-->
 
