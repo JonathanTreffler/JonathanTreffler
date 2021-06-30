@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/DecaTec/sharerenamer/issues/21) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
-2. 🎉 Merged PR [#383](https://github.com/e-alfred/flowupload/pull/383) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🗣 Commented on [#21](https://github.com/DecaTec/sharerenamer/issues/21) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
+1. 🗣 Commented on [#31](https://github.com/DecaTec/sharerenamer/issues/31) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
+2. 🗣 Commented on [#21](https://github.com/DecaTec/sharerenamer/issues/21) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
+3. 🎉 Merged PR [#383](https://github.com/e-alfred/flowupload/pull/383) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 4. 🗣 Commented on [#21](https://github.com/DecaTec/sharerenamer/issues/21) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
-5. ❗️ Closed issue [#14](https://github.com/JonathanTreffler/status/issues/14) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. 🗣 Commented on [#21](https://github.com/DecaTec/sharerenamer/issues/21) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
