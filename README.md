@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/JonathanTreffler/sharerenamer/issues/29) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-2. ❗️ Closed issue [#29](https://github.com/JonathanTreffler/sharerenamer/issues/29) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-3. 🗣 Commented on [#29](https://github.com/JonathanTreffler/sharerenamer/issues/29) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-4. 🗣 Commented on [#31](https://github.com/DecaTec/sharerenamer/issues/31) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
-5. 🗣 Commented on [#21](https://github.com/DecaTec/sharerenamer/issues/21) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
+1. 🗣 Commented on [#1421](https://github.com/nextcloud/news/issues/1421) in [nextcloud/news](https://github.com/nextcloud/news)
+2. 🗣 Commented on [#29](https://github.com/JonathanTreffler/sharerenamer/issues/29) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+3. ❗️ Closed issue [#29](https://github.com/JonathanTreffler/sharerenamer/issues/29) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. 🗣 Commented on [#29](https://github.com/JonathanTreffler/sharerenamer/issues/29) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+5. 🗣 Commented on [#31](https://github.com/DecaTec/sharerenamer/issues/31) in [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
