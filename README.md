@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#355](https://github.com/nextcloud/user_saml/pull/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
-2. 🗣 Commented on [#355](https://github.com/nextcloud/user_saml/issues/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
-3. 💪 Opened PR [#536](https://github.com/nextcloud/user_saml/pull/536) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
-4. 🎉 Merged PR [#385](https://github.com/e-alfred/flowupload/pull/385) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🗣 Commented on [#1421](https://github.com/nextcloud/news/issues/1421) in [nextcloud/news](https://github.com/nextcloud/news)
+1. 🗣 Commented on [#536](https://github.com/nextcloud/user_saml/issues/536) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+2. ❌ Closed PR [#355](https://github.com/nextcloud/user_saml/pull/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+3. 🗣 Commented on [#355](https://github.com/nextcloud/user_saml/issues/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+4. 💪 Opened PR [#536](https://github.com/nextcloud/user_saml/pull/536) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+5. 🎉 Merged PR [#385](https://github.com/e-alfred/flowupload/pull/385) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
