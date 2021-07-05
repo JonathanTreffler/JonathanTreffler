@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#385](https://github.com/e-alfred/flowupload/pull/385) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🗣 Commented on [#1421](https://github.com/nextcloud/news/issues/1421) in [nextcloud/news](https://github.com/nextcloud/news)
-3. 🗣 Commented on [#29](https://github.com/JonathanTreffler/sharerenamer/issues/29) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-4. ❗️ Closed issue [#29](https://github.com/JonathanTreffler/sharerenamer/issues/29) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-5. 🗣 Commented on [#29](https://github.com/JonathanTreffler/sharerenamer/issues/29) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+1. ❌ Closed PR [#355](https://github.com/nextcloud/user_saml/pull/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+2. 🗣 Commented on [#355](https://github.com/nextcloud/user_saml/issues/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+3. 💪 Opened PR [#536](https://github.com/nextcloud/user_saml/pull/536) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+4. 🎉 Merged PR [#385](https://github.com/e-alfred/flowupload/pull/385) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🗣 Commented on [#1421](https://github.com/nextcloud/news/issues/1421) in [nextcloud/news](https://github.com/nextcloud/news)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
