@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-2. 🗣 Commented on [#355](https://github.com/nextcloud/user_saml/issues/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
-3. 🗣 Commented on [#536](https://github.com/nextcloud/user_saml/issues/536) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
-4. ❌ Closed PR [#355](https://github.com/nextcloud/user_saml/pull/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
-5. 🗣 Commented on [#355](https://github.com/nextcloud/user_saml/issues/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+1. 💪 Opened PR [#301](https://github.com/nextcloud/docker-ci/pull/301) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
+2. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+3. 🗣 Commented on [#355](https://github.com/nextcloud/user_saml/issues/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+4. 🗣 Commented on [#536](https://github.com/nextcloud/user_saml/issues/536) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+5. ❌ Closed PR [#355](https://github.com/nextcloud/user_saml/pull/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
