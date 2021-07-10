@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/fractava/biblio/pull/41) in [fractava/biblio](https://github.com/fractava/biblio)
-2. 💪 Opened PR [#301](https://github.com/nextcloud/docker-ci/pull/301) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
-3. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-4. 🗣 Commented on [#355](https://github.com/nextcloud/user_saml/issues/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
-5. 🗣 Commented on [#536](https://github.com/nextcloud/user_saml/issues/536) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+1. 🎉 Merged PR [#374](https://github.com/e-alfred/flowupload/pull/374) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 💪 Opened PR [#41](https://github.com/fractava/biblio/pull/41) in [fractava/biblio](https://github.com/fractava/biblio)
+3. 💪 Opened PR [#301](https://github.com/nextcloud/docker-ci/pull/301) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
+4. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+5. 🗣 Commented on [#355](https://github.com/nextcloud/user_saml/issues/355) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
