@@ -37,11 +37,11 @@
 	</tr></thead>
 	<tbody><tr>
 		<th>JavaScript</th>
-		<th>126</th>
-		<th>26708</th>
+		<th>127</th>
+		<th>26732</th>
 		<th>4241</th>
 		<th>5910</th>
-		<th>16557</th>
+		<th>16581</th>
 		<th>3333</th>
 	</tr><tr>
 		<th>Vue</th>
@@ -53,11 +53,11 @@
 		<th>264</th>
 	</tr><tr>
 		<th>JSON</th>
-		<th>74</th>
-		<th>153737</th>
+		<th>75</th>
+		<th>153759</th>
 		<th>1</th>
 		<th>0</th>
-		<th>153736</th>
+		<th>153758</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Markdown</th>
@@ -134,11 +134,11 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>488</th>
-		<th>200061</th>
+		<th>490</th>
+		<th>200107</th>
 		<th>5943</th>
 		<th>6486</th>
-		<th>187632</th>
+		<th>187678</th>
 		<th>3927</th>
 	</tr></tfoot>
 	</table>
