@@ -146,9 +146,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#348](https://github.com/e-alfred/flowupload/issues/348) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🗣 Commented on [#348](https://github.com/e-alfred/flowupload/issues/348) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🗣 Commented on [#306](https://github.com/e-alfred/flowupload/issues/306) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. ❗️ Closed issue [#348](https://github.com/e-alfred/flowupload/issues/348) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🗣 Commented on [#348](https://github.com/e-alfred/flowupload/issues/348) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 4. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 5. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
