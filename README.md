@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#386](https://github.com/e-alfred/flowupload/pull/386) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🎉 Merged PR [#374](https://github.com/e-alfred/flowupload/pull/374) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 💪 Opened PR [#41](https://github.com/fractava/biblio/pull/41) in [fractava/biblio](https://github.com/fractava/biblio)
-4. 💪 Opened PR [#301](https://github.com/nextcloud/docker-ci/pull/301) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
-5. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+1. 🎉 Merged PR [#384](https://github.com/e-alfred/flowupload/pull/384) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🎉 Merged PR [#373](https://github.com/e-alfred/flowupload/pull/373) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🎉 Merged PR [#381](https://github.com/e-alfred/flowupload/pull/381) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🎉 Merged PR [#372](https://github.com/e-alfred/flowupload/pull/372) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🎉 Merged PR [#371](https://github.com/e-alfred/flowupload/pull/371) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
