@@ -146,8 +146,8 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+1. ❗️ Opened issue [#538](https://github.com/nextcloud/user_saml/issues/538) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+2. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 3. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 4. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 5. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
