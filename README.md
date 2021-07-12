@@ -148,9 +148,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 2. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-3. 🎉 Merged PR [#42](https://github.com/fractava/biblio/pull/42) in [fractava/biblio](https://github.com/fractava/biblio)
-4. 🎉 Merged PR [#41](https://github.com/fractava/biblio/pull/41) in [fractava/biblio](https://github.com/fractava/biblio)
-5. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+3. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. 🎉 Merged PR [#42](https://github.com/fractava/biblio/pull/42) in [fractava/biblio](https://github.com/fractava/biblio)
+5. 🎉 Merged PR [#41](https://github.com/fractava/biblio/pull/41) in [fractava/biblio](https://github.com/fractava/biblio)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
