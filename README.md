@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/Unicon/simplesamlphp-dockerized/issues/10) in [Unicon/simplesamlphp-dockerized](https://github.com/Unicon/simplesamlphp-dockerized)
-2. 💪 Opened PR [#539](https://github.com/nextcloud/user_saml/pull/539) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
-3. 🎉 Merged PR [#201](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/201) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-4. 🎉 Merged PR [#203](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/203) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-5. 🎉 Merged PR [#205](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/205) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+1. 🗣 Commented on [#12](https://github.com/cyberjunky/home-assistant-google_fit/issues/12) in [cyberjunky/home-assistant-google_fit](https://github.com/cyberjunky/home-assistant-google_fit)
+2. ❗️ Opened issue [#10](https://github.com/Unicon/simplesamlphp-dockerized/issues/10) in [Unicon/simplesamlphp-dockerized](https://github.com/Unicon/simplesamlphp-dockerized)
+3. 💪 Opened PR [#539](https://github.com/nextcloud/user_saml/pull/539) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+4. 🎉 Merged PR [#201](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/201) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+5. 🎉 Merged PR [#203](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/203) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
