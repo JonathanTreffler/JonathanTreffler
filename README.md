@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](https://github.com/fractava/biblio/pull/69) in [fractava/biblio](https://github.com/fractava/biblio)
-2. 🗣 Commented on [#2](https://github.com/JonathanTreffler/kdenlive-vnc-docker/issues/2) in [JonathanTreffler/kdenlive-vnc-docker](https://github.com/JonathanTreffler/kdenlive-vnc-docker)
+1. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 💪 Opened PR [#69](https://github.com/fractava/biblio/pull/69) in [fractava/biblio](https://github.com/fractava/biblio)
 3. 🗣 Commented on [#2](https://github.com/JonathanTreffler/kdenlive-vnc-docker/issues/2) in [JonathanTreffler/kdenlive-vnc-docker](https://github.com/JonathanTreffler/kdenlive-vnc-docker)
-4. 🗣 Commented on [#1](https://github.com/JonathanTreffler/kdenlive-vnc-docker/issues/1) in [JonathanTreffler/kdenlive-vnc-docker](https://github.com/JonathanTreffler/kdenlive-vnc-docker)
-5. 🗣 Commented on [#12](https://github.com/cyberjunky/home-assistant-google_fit/issues/12) in [cyberjunky/home-assistant-google_fit](https://github.com/cyberjunky/home-assistant-google_fit)
+4. 🗣 Commented on [#2](https://github.com/JonathanTreffler/kdenlive-vnc-docker/issues/2) in [JonathanTreffler/kdenlive-vnc-docker](https://github.com/JonathanTreffler/kdenlive-vnc-docker)
+5. 🗣 Commented on [#1](https://github.com/JonathanTreffler/kdenlive-vnc-docker/issues/1) in [JonathanTreffler/kdenlive-vnc-docker](https://github.com/JonathanTreffler/kdenlive-vnc-docker)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
