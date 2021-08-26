@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#402](https://github.com/e-alfred/flowupload/issues/402) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🗣 Commented on [#413](https://github.com/e-alfred/flowupload/issues/413) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
-4. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 💪 Opened PR [#69](https://github.com/fractava/biblio/pull/69) in [fractava/biblio](https://github.com/fractava/biblio)
+1. 🗣 Commented on [#246](https://github.com/home-assistant/architecture/issues/246) in [home-assistant/architecture](https://github.com/home-assistant/architecture)
+2. 🗣 Commented on [#402](https://github.com/e-alfred/flowupload/issues/402) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🗣 Commented on [#413](https://github.com/e-alfred/flowupload/issues/413) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
+5. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
