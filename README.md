@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/202) in [geerlingguy/raspberry-pi-pcie-devices](https://github.com/geerlingguy/raspberry-pi-pcie-devices)
-2. 🗣 Commented on [#246](https://github.com/home-assistant/architecture/issues/246) in [home-assistant/architecture](https://github.com/home-assistant/architecture)
-3. 🗣 Commented on [#402](https://github.com/e-alfred/flowupload/issues/402) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🗣 Commented on [#413](https://github.com/e-alfred/flowupload/issues/413) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
+1. 🗣 Commented on [#536](https://github.com/nextcloud/user_saml/issues/536) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+2. ❌ Closed PR [#536](https://github.com/nextcloud/user_saml/pull/536) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+3. 💪 Opened PR [#545](https://github.com/nextcloud/user_saml/pull/545) in [nextcloud/user_saml](https://github.com/nextcloud/user_saml)
+4. 🗣 Commented on [#202](https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/202) in [geerlingguy/raspberry-pi-pcie-devices](https://github.com/geerlingguy/raspberry-pi-pcie-devices)
+5. 🗣 Commented on [#246](https://github.com/home-assistant/architecture/issues/246) in [home-assistant/architecture](https://github.com/home-assistant/architecture)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
