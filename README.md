@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/e-alfred/flowupload/issues/160) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 2. 🗣 Commented on [#160](https://github.com/e-alfred/flowupload/issues/160) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🗣 Commented on [#17](https://github.com/datenangebot/health/issues/17) in [datenangebot/health](https://github.com/datenangebot/health)
-4. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🎉 Merged PR [#427](https://github.com/e-alfred/flowupload/pull/427) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🗣 Commented on [#160](https://github.com/e-alfred/flowupload/issues/160) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 🗣 Commented on [#17](https://github.com/datenangebot/health/issues/17) in [datenangebot/health](https://github.com/datenangebot/health)
+5. 🗣 Commented on [#305](https://github.com/e-alfred/flowupload/issues/305) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
