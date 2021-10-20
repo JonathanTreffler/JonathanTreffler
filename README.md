@@ -146,7 +146,7 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/JonathanTreffler/status/issues/15) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+1. 💪 Opened PR [#3566](https://github.com/nextcloud/calendar/pull/3566) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
 2. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 3. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 4. 🗣 Commented on [#31](https://github.com/JonathanTreffler/sharerenamer/issues/31) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
