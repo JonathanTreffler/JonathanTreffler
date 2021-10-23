@@ -37,20 +37,20 @@
 	</tr></thead>
 	<tbody><tr>
 		<th>JavaScript</th>
-		<th>141</th>
-		<th>27656</th>
-		<th>4279</th>
+		<th>139</th>
+		<th>27604</th>
+		<th>4264</th>
 		<th>6027</th>
-		<th>17350</th>
-		<th>3336</th>
+		<th>17313</th>
+		<th>3319</th>
 	</tr><tr>
 		<th>Vue</th>
-		<th>109</th>
-		<th>8911</th>
-		<th>665</th>
-		<th>118</th>
-		<th>8128</th>
-		<th>289</th>
+		<th>108</th>
+		<th>7936</th>
+		<th>538</th>
+		<th>117</th>
+		<th>7281</th>
+		<th>172</th>
 	</tr><tr>
 		<th>JSON</th>
 		<th>86</th>
@@ -134,12 +134,12 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>521</th>
-		<th>200840</th>
-		<th>6103</th>
-		<th>6715</th>
-		<th>188022</th>
-		<th>3955</th>
+		<th>518</th>
+		<th>199813</th>
+		<th>5961</th>
+		<th>6714</th>
+		<th>187138</th>
+		<th>3821</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
