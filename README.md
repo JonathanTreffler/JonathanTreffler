@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#209](https://github.com/fractava/notes-core/pull/209) in [fractava/notes-core](https://github.com/fractava/notes-core)
-2. 🗣 Commented on [#402](https://github.com/e-alfred/flowupload/issues/402) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🗣 Commented on [#257](https://github.com/jc21/nginx-proxy-manager/issues/257) in [jc21/nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager)
-4. 🗣 Commented on [#257](https://github.com/jc21/nginx-proxy-manager/issues/257) in [jc21/nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager)
-5. 💪 Opened PR [#3566](https://github.com/nextcloud/calendar/pull/3566) in [nextcloud/calendar](https://github.com/nextcloud/calendar)
+1. 🎉 Merged PR [#440](https://github.com/e-alfred/flowupload/pull/440) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+2. 🎉 Merged PR [#391](https://github.com/e-alfred/flowupload/pull/391) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🎉 Merged PR [#442](https://github.com/e-alfred/flowupload/pull/442) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+4. 💪 Opened PR [#209](https://github.com/fractava/notes-core/pull/209) in [fractava/notes-core](https://github.com/fractava/notes-core)
+5. 🗣 Commented on [#402](https://github.com/e-alfred/flowupload/issues/402) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
