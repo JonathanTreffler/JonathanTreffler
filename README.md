@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/probil/vue-moveable/issues/54) in [probil/vue-moveable](https://github.com/probil/vue-moveable)
-2. 🗣 Commented on [#43](https://github.com/fractava/notes-core/issues/43) in [fractava/notes-core](https://github.com/fractava/notes-core)
-3. 🗣 Commented on [#210](https://github.com/fractava/notes-core/issues/210) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. ❗️ Opened issue [#210](https://github.com/fractava/notes-core/issues/210) in [fractava/notes-core](https://github.com/fractava/notes-core)
-5. 🗣 Commented on [#402](https://github.com/e-alfred/flowupload/issues/402) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. ❗️ Opened issue [#59](https://github.com/daybrush/selecto/issues/59) in [daybrush/selecto](https://github.com/daybrush/selecto)
+2. 🗣 Commented on [#54](https://github.com/probil/vue-moveable/issues/54) in [probil/vue-moveable](https://github.com/probil/vue-moveable)
+3. 🗣 Commented on [#43](https://github.com/fractava/notes-core/issues/43) in [fractava/notes-core](https://github.com/fractava/notes-core)
+4. 🗣 Commented on [#210](https://github.com/fractava/notes-core/issues/210) in [fractava/notes-core](https://github.com/fractava/notes-core)
+5. ❗️ Opened issue [#210](https://github.com/fractava/notes-core/issues/210) in [fractava/notes-core](https://github.com/fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
