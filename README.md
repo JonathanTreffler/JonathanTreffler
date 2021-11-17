@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#218](https://github.com/fractava/notes-core/pull/218) in [fractava/notes-core](https://github.com/fractava/notes-core)
-2. 💪 Opened PR [#218](https://github.com/fractava/notes-core/pull/218) in [fractava/notes-core](https://github.com/fractava/notes-core)
-3. ❗️ Opened issue [#217](https://github.com/fractava/notes-core/issues/217) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. 💪 Opened PR [#332](https://github.com/probil/vue-moveable/pull/332) in [probil/vue-moveable](https://github.com/probil/vue-moveable)
-5. ❗️ Opened issue [#59](https://github.com/daybrush/selecto/issues/59) in [daybrush/selecto](https://github.com/daybrush/selecto)
+1. ❗️ Opened issue [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
+2. 🎉 Merged PR [#218](https://github.com/fractava/notes-core/pull/218) in [fractava/notes-core](https://github.com/fractava/notes-core)
+3. 💪 Opened PR [#218](https://github.com/fractava/notes-core/pull/218) in [fractava/notes-core](https://github.com/fractava/notes-core)
+4. ❗️ Opened issue [#217](https://github.com/fractava/notes-core/issues/217) in [fractava/notes-core](https://github.com/fractava/notes-core)
+5. 💪 Opened PR [#332](https://github.com/probil/vue-moveable/pull/332) in [probil/vue-moveable](https://github.com/probil/vue-moveable)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
