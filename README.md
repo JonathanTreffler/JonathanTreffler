@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+1. 🗣 Commented on [#3](https://github.com/Foundry376/Mailspring-Sync/issues/3) in [Foundry376/Mailspring-Sync](https://github.com/Foundry376/Mailspring-Sync)
 2. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-3. ❗️ Opened issue [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
-4. 🎉 Merged PR [#218](https://github.com/fractava/notes-core/pull/218) in [fractava/notes-core](https://github.com/fractava/notes-core)
-5. 💪 Opened PR [#218](https://github.com/fractava/notes-core/pull/218) in [fractava/notes-core](https://github.com/fractava/notes-core)
+3. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. ❗️ Opened issue [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
+5. 🎉 Merged PR [#218](https://github.com/fractava/notes-core/pull/218) in [fractava/notes-core](https://github.com/fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
