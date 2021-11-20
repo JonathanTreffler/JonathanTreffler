@@ -146,11 +146,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/Fmstrat/winapps/issues/156) in [Fmstrat/winapps](https://github.com/Fmstrat/winapps)
-2. 🗣 Commented on [#3](https://github.com/Foundry376/Mailspring-Sync/issues/3) in [Foundry376/Mailspring-Sync](https://github.com/Foundry376/Mailspring-Sync)
-3. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+1. 🗣 Commented on [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
+2. 🗣 Commented on [#156](https://github.com/Fmstrat/winapps/issues/156) in [Fmstrat/winapps](https://github.com/Fmstrat/winapps)
+3. 🗣 Commented on [#3](https://github.com/Foundry376/Mailspring-Sync/issues/3) in [Foundry376/Mailspring-Sync](https://github.com/Foundry376/Mailspring-Sync)
 4. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-5. ❗️ Opened issue [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
+5. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
