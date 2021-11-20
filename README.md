@@ -12,6 +12,8 @@
 ## Connect with me:
 
 [<img align="left" alt="jonathan-treffler.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jonathan-treffler.de)
+[<img align="left" alt="Jonathan Treffler | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />](https://gruene.social/web/accounts/107263839890823203)
+[<img align="left" alt="Jonathan Treffler | Pixelfed" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/pixelfed.svg" />](https://pixelfed.netzbegruenung.de/JonathanTreffler)
 [<img align="left" alt="Jonathan Treffler | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/treffler_j)
 [<img align="left" alt="Jonathan Treffler | NPM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />](https://www.npmjs.com/~jonathan_treffler)
 [<img align="left" alt="Jonathan Treffler | DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />](https://dev.to/jonathantreffler)
