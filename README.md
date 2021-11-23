@@ -148,11 +148,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
+1. ❗️ Closed issue [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
 2. 🗣 Commented on [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
-3. 🗣 Commented on [#156](https://github.com/Fmstrat/winapps/issues/156) in [Fmstrat/winapps](https://github.com/Fmstrat/winapps)
-4. 🗣 Commented on [#3](https://github.com/Foundry376/Mailspring-Sync/issues/3) in [Foundry376/Mailspring-Sync](https://github.com/Foundry376/Mailspring-Sync)
-5. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+3. 🗣 Commented on [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
+4. 🗣 Commented on [#156](https://github.com/Fmstrat/winapps/issues/156) in [Fmstrat/winapps](https://github.com/Fmstrat/winapps)
+5. 🗣 Commented on [#3](https://github.com/Foundry376/Mailspring-Sync/issues/3) in [Foundry376/Mailspring-Sync](https://github.com/Foundry376/Mailspring-Sync)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
