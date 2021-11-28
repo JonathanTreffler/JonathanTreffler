@@ -148,10 +148,10 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/JonathanTreffler/status/issues/15) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🗣 Commented on [#15](https://github.com/JonathanTreffler/status/issues/15) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. ❗️ Closed issue [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
-4. 🗣 Commented on [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
+1. ❗️ Opened issue [#16](https://github.com/JonathanTreffler/status/issues/16) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+2. ❗️ Closed issue [#15](https://github.com/JonathanTreffler/status/issues/15) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. 🗣 Commented on [#15](https://github.com/JonathanTreffler/status/issues/15) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. ❗️ Closed issue [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
 5. 🗣 Commented on [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
 <!--END_SECTION:activity-->
 
