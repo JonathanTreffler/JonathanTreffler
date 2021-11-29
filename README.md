@@ -148,11 +148,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/stuyam/pressure/issues/102) in [stuyam/pressure](https://github.com/stuyam/pressure)
-2. ❗️ Opened issue [#16](https://github.com/JonathanTreffler/status/issues/16) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. ❗️ Closed issue [#15](https://github.com/JonathanTreffler/status/issues/15) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. 🗣 Commented on [#15](https://github.com/JonathanTreffler/status/issues/15) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. ❗️ Closed issue [#60](https://github.com/daybrush/selecto/issues/60) in [daybrush/selecto](https://github.com/daybrush/selecto)
+1. ❗️ Closed issue [#16](https://github.com/JonathanTreffler/status/issues/16) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+2. 🗣 Commented on [#16](https://github.com/JonathanTreffler/status/issues/16) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. 🗣 Commented on [#102](https://github.com/stuyam/pressure/issues/102) in [stuyam/pressure](https://github.com/stuyam/pressure)
+4. ❗️ Opened issue [#16](https://github.com/JonathanTreffler/status/issues/16) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. ❗️ Closed issue [#15](https://github.com/JonathanTreffler/status/issues/15) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
