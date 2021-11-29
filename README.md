@@ -148,11 +148,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com/JonathanTreffler/status/issues/16) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🗣 Commented on [#16](https://github.com/JonathanTreffler/status/issues/16) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. 🗣 Commented on [#102](https://github.com/stuyam/pressure/issues/102) in [stuyam/pressure](https://github.com/stuyam/pressure)
-4. ❗️ Opened issue [#16](https://github.com/JonathanTreffler/status/issues/16) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. ❗️ Closed issue [#15](https://github.com/JonathanTreffler/status/issues/15) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+1. 🎉 Merged PR [#123](https://github.com/chickomat/chickomat.github.io/pull/123) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+2. 🎉 Merged PR [#110](https://github.com/chickomat/chickomat.github.io/pull/110) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+3. ❗️ Closed issue [#16](https://github.com/JonathanTreffler/status/issues/16) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. 🗣 Commented on [#16](https://github.com/JonathanTreffler/status/issues/16) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. 🗣 Commented on [#102](https://github.com/stuyam/pressure/issues/102) in [stuyam/pressure](https://github.com/stuyam/pressure)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
