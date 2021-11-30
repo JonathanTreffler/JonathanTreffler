@@ -148,11 +148,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/9) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-2. 🗣 Commented on [#144](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/144) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🎉 Merged PR [#8](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/8) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-4. 🗣 Commented on [#144](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/144) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🗣 Commented on [#8](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/8) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+1. 🗣 Commented on [#11](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/11) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+2. 🎉 Merged PR [#9](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/9) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+3. 🗣 Commented on [#144](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/144) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🎉 Merged PR [#8](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/8) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+5. 🗣 Commented on [#144](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/144) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
