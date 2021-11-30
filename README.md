@@ -148,11 +148,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/8) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-2. ❗️ Closed issue [#17](https://github.com/JonathanTreffler/status/issues/17) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. 🗣 Commented on [#17](https://github.com/JonathanTreffler/status/issues/17) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. ❗️ Opened issue [#17](https://github.com/JonathanTreffler/status/issues/17) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. 🎉 Merged PR [#119](https://github.com/chickomat/chickomat.github.io/pull/119) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+1. 🗣 Commented on [#144](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/144) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🗣 Commented on [#8](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/8) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+3. ❗️ Closed issue [#17](https://github.com/JonathanTreffler/status/issues/17) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. 🗣 Commented on [#17](https://github.com/JonathanTreffler/status/issues/17) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. ❗️ Opened issue [#17](https://github.com/JonathanTreffler/status/issues/17) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
