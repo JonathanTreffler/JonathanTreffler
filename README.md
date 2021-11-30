@@ -148,11 +148,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/chickomat/chickomat.github.io/pull/123) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-2. 🎉 Merged PR [#110](https://github.com/chickomat/chickomat.github.io/pull/110) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-3. ❗️ Closed issue [#16](https://github.com/JonathanTreffler/status/issues/16) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. 🗣 Commented on [#16](https://github.com/JonathanTreffler/status/issues/16) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. 🗣 Commented on [#102](https://github.com/stuyam/pressure/issues/102) in [stuyam/pressure](https://github.com/stuyam/pressure)
+1. 🗣 Commented on [#120](https://github.com/chickomat/chickomat.github.io/issues/120) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+2. 🎉 Merged PR [#112](https://github.com/chickomat/chickomat.github.io/pull/112) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+3. 🗣 Commented on [#112](https://github.com/chickomat/chickomat.github.io/issues/112) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+4. 🎉 Merged PR [#122](https://github.com/chickomat/chickomat.github.io/pull/122) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+5. 🎉 Merged PR [#121](https://github.com/chickomat/chickomat.github.io/pull/121) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
