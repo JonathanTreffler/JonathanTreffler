@@ -148,11 +148,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1290](https://github.com/nextcloud/social/issues/1290) in [nextcloud/social](https://github.com/nextcloud/social)
-2. 🗣 Commented on [#1290](https://github.com/nextcloud/social/issues/1290) in [nextcloud/social](https://github.com/nextcloud/social)
-3. 🎉 Merged PR [#11](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/11) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-4. 🗣 Commented on [#11](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/issues/11) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
-5. 🎉 Merged PR [#9](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/9) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
+1. 🎉 Merged PR [#124](https://github.com/chickomat/chickomat.github.io/pull/124) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+2. 💪 Opened PR [#124](https://github.com/chickomat/chickomat.github.io/pull/124) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+3. 🗣 Commented on [#1290](https://github.com/nextcloud/social/issues/1290) in [nextcloud/social](https://github.com/nextcloud/social)
+4. 🗣 Commented on [#1290](https://github.com/nextcloud/social/issues/1290) in [nextcloud/social](https://github.com/nextcloud/social)
+5. 🎉 Merged PR [#11](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io/pull/11) in [algorithmik-kurs/algorithmik-kurs.github.io](https://github.com/algorithmik-kurs/algorithmik-kurs.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
