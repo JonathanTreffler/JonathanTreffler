@@ -148,11 +148,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/JonathanTreffler/status/issues/18) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🗣 Commented on [#18](https://github.com/JonathanTreffler/status/issues/18) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. ❗️ Opened issue [#18](https://github.com/JonathanTreffler/status/issues/18) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. 🎉 Merged PR [#124](https://github.com/chickomat/chickomat.github.io/pull/124) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
-5. 💪 Opened PR [#124](https://github.com/chickomat/chickomat.github.io/pull/124) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
+1. 🗣 Commented on [#80](https://github.com/gitpod-io/gitpod/issues/80) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. ❗️ Closed issue [#18](https://github.com/JonathanTreffler/status/issues/18) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. 🗣 Commented on [#18](https://github.com/JonathanTreffler/status/issues/18) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. ❗️ Opened issue [#18](https://github.com/JonathanTreffler/status/issues/18) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. 🎉 Merged PR [#124](https://github.com/chickomat/chickomat.github.io/pull/124) in [chickomat/chickomat.github.io](https://github.com/chickomat/chickomat.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
