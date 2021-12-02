@@ -148,11 +148,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#19](https://github.com/JonathanTreffler/status/issues/19) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🗣 Commented on [#19](https://github.com/JonathanTreffler/status/issues/19) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. ❗️ Opened issue [#19](https://github.com/JonathanTreffler/status/issues/19) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. 🗣 Commented on [#80](https://github.com/gitpod-io/gitpod/issues/80) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. ❗️ Closed issue [#18](https://github.com/JonathanTreffler/status/issues/18) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+1. ❗️ Opened issue [#20](https://github.com/JonathanTreffler/status/issues/20) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+2. ❗️ Closed issue [#19](https://github.com/JonathanTreffler/status/issues/19) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. 🗣 Commented on [#19](https://github.com/JonathanTreffler/status/issues/19) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. ❗️ Opened issue [#19](https://github.com/JonathanTreffler/status/issues/19) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. 🗣 Commented on [#80](https://github.com/gitpod-io/gitpod/issues/80) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
