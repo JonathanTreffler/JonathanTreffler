@@ -148,11 +148,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/JonathanTreffler/status/issues/20) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. ❗️ Closed issue [#19](https://github.com/JonathanTreffler/status/issues/19) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. 🗣 Commented on [#19](https://github.com/JonathanTreffler/status/issues/19) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. ❗️ Opened issue [#19](https://github.com/JonathanTreffler/status/issues/19) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. 🗣 Commented on [#80](https://github.com/gitpod-io/gitpod/issues/80) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+1. ❗️ Closed issue [#4](https://github.com/JonathanTreffler/Wann-tritt-Scheuer-zurueck/issues/4) in [JonathanTreffler/Wann-tritt-Scheuer-zurueck](https://github.com/JonathanTreffler/Wann-tritt-Scheuer-zurueck)
+2. 🗣 Commented on [#4](https://github.com/JonathanTreffler/Wann-tritt-Scheuer-zurueck/issues/4) in [JonathanTreffler/Wann-tritt-Scheuer-zurueck](https://github.com/JonathanTreffler/Wann-tritt-Scheuer-zurueck)
+3. ❗️ Closed issue [#3](https://github.com/JonathanTreffler/Wann-tritt-Scheuer-zurueck/issues/3) in [JonathanTreffler/Wann-tritt-Scheuer-zurueck](https://github.com/JonathanTreffler/Wann-tritt-Scheuer-zurueck)
+4. 🗣 Commented on [#3](https://github.com/JonathanTreffler/Wann-tritt-Scheuer-zurueck/issues/3) in [JonathanTreffler/Wann-tritt-Scheuer-zurueck](https://github.com/JonathanTreffler/Wann-tritt-Scheuer-zurueck)
+5. 🎉 Merged PR [#5](https://github.com/JonathanTreffler/Wann-tritt-Scheuer-zurueck/pull/5) in [JonathanTreffler/Wann-tritt-Scheuer-zurueck](https://github.com/JonathanTreffler/Wann-tritt-Scheuer-zurueck)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
