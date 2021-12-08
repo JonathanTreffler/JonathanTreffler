@@ -34,7 +34,7 @@ jobs:
         run: go get -u github.com/boyter/scc/
       
       - name: SCC
-        run: scc ./projects/ --not-match .*\package-lock.json$ > scc.txt
+        run: scc ./projects/ --include-ext vue,js,py,pde,css,sh,html,php,ts,cpp,json,xml,md,h,java,bat,yml,yaml --not-match .*\package-lock.json$ > scc.txt
       
       - name: SCC html
         run: scc ./projects/ --include-ext vue,js,py,pde,css,sh,html,php,ts,cpp,json,xml,md,h,java,bat,yml,yaml -f html-table --not-match .*\package-lock.json$ > scc.html
