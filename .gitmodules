@@ -142,3 +142,6 @@
 [submodule "projects/Template"]
 	path = projects/Template
 	url = https://github.com/Programmierung-Nils-Jonathan/Template
+[submodule "projects/nextcloud-app-gitpod"]
+	path = projects/nextcloud-app-gitpod
+	url = https://github.com/JonathanTreffler/nextcloud-app-gitpod
