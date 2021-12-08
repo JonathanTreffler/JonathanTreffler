@@ -3,14 +3,14 @@ Language                 Files     Lines   Blanks  Comments     Code Complexity
 ───────────────────────────────────────────────────────────────────────────────
 JavaScript                 140     27642     4256      6054    17332       3318
 Vue                        108      7936      538       117     7281        172
-YAML                        96      3736      474       399     2863          0
-Markdown                    84      1716      337         0     1379          0
+YAML                        99      3827      491       399     2937          0
+Markdown                    85      1748      346         0     1402          0
 JSON                        65      1859        1         0     1858          0
 Plain Text                  53       912        1         0      911          0
 SVG                         47      8460        0         0     8460          0
-License                     39     25607     4594         0    21013          0
+License                     40     26281     4715         0    21566          0
 Processing                  33      2481      334       113     2034        275
-gitignore                   30       538      136       151      251          0
+gitignore                   31       540      136       151      253          0
 PHP                         22       717      140        99      478          7
 Java                        21      2306      252       610     1444        217
 HTML                        19       657       30        26      601          0
@@ -18,18 +18,18 @@ CSS                         15      4886      246       304     4336          0
 Sass                        11      1128      144       172      812          0
 XML                         11       178        4         0      174          0
 Shell                        9       105       24        19       62          2
+Dockerfile                   8        79       27         8       44         14
 Python                       8      1317       58        14     1245         45
-Dockerfile                   7        74       25         8       41         12
+Makefile                     3       244       34        61      149          2
 Docker ignore                2        11        0         0       11          0
-Makefile                     2       225       28        61      136          1
 C Header                     1        31        9         5       17          0
 C++                          1        39        4         6       29          1
 Gemfile                      1        10        2         0        8          0
 ───────────────────────────────────────────────────────────────────────────────
-Total                      825     92571    11637      8158    72776       4050
+Total                      833     93394    11792      8158    73444       4053
 ───────────────────────────────────────────────────────────────────────────────
-Estimated Cost to Develop $2,436,031
-Estimated Schedule Effort 21.519406 months
-Estimated People Required 13.409336
+Estimated Cost to Develop $2,459,514
+Estimated Schedule Effort 21.598002 months
+Estimated People Required 13.489335
 ───────────────────────────────────────────────────────────────────────────────
 
