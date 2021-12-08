@@ -63,11 +63,11 @@
 		<th>0</th>
 	</tr><tr>
 		<th>Markdown</th>
-		<th>72</th>
-		<th>1528</th>
+		<th>74</th>
+		<th>1531</th>
 		<th>327</th>
 		<th>0</th>
-		<th>1201</th>
+		<th>1204</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Processing</th>
@@ -136,11 +136,11 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>524</th>
-		<th>199348</th>
+		<th>526</th>
+		<th>199351</th>
 		<th>5958</th>
 		<th>6742</th>
-		<th>186648</th>
+		<th>186651</th>
 		<th>3820</th>
 	</tr></tfoot>
 	</table>
