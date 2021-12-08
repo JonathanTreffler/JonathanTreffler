@@ -54,6 +54,14 @@
 		<th>7281</th>
 		<th>172</th>
 	</tr><tr>
+		<th>YAML</th>
+		<th>93</th>
+		<th>3659</th>
+		<th>459</th>
+		<th>399</th>
+		<th>2801</th>
+		<th>0</th>
+	</tr><tr>
 		<th>JSON</th>
 		<th>87</th>
 		<th>151889</th>
@@ -94,6 +102,14 @@
 		<th>601</th>
 		<th>0</th>
 	</tr><tr>
+		<th>Java</th>
+		<th>19</th>
+		<th>1853</th>
+		<th>226</th>
+		<th>438</th>
+		<th>1189</th>
+		<th>172</th>
+	</tr><tr>
 		<th>CSS</th>
 		<th>15</th>
 		<th>4886</th>
@@ -126,6 +142,14 @@
 		<th>49</th>
 		<th>2</th>
 	</tr><tr>
+		<th>C Header</th>
+		<th>1</th>
+		<th>31</th>
+		<th>9</th>
+		<th>5</th>
+		<th>17</th>
+		<th>0</th>
+	</tr><tr>
 		<th>C++</th>
 		<th>1</th>
 		<th>39</th>
@@ -136,12 +160,12 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>526</th>
-		<th>199351</th>
-		<th>5958</th>
-		<th>6742</th>
-		<th>186651</th>
-		<th>3820</th>
+		<th>639</th>
+		<th>204894</th>
+		<th>6652</th>
+		<th>7584</th>
+		<th>190658</th>
+		<th>3992</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
