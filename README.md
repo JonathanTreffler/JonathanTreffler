@@ -55,19 +55,19 @@
 		<th>172</th>
 	</tr><tr>
 		<th>YAML</th>
-		<th>99</th>
-		<th>3827</th>
-		<th>491</th>
-		<th>399</th>
-		<th>2937</th>
+		<th>101</th>
+		<th>3922</th>
+		<th>501</th>
+		<th>400</th>
+		<th>3021</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Markdown</th>
-		<th>76</th>
-		<th>1564</th>
-		<th>336</th>
+		<th>78</th>
+		<th>1619</th>
+		<th>355</th>
 		<th>0</th>
-		<th>1228</th>
+		<th>1264</th>
 		<th>0</th>
 	</tr><tr>
 		<th>JSON</th>
@@ -126,6 +126,14 @@
 		<th>174</th>
 		<th>0</th>
 	</tr><tr>
+		<th>Shell</th>
+		<th>9</th>
+		<th>85</th>
+		<th>22</th>
+		<th>12</th>
+		<th>51</th>
+		<th>2</th>
+	</tr><tr>
 		<th>Python</th>
 		<th>8</th>
 		<th>1317</th>
@@ -133,14 +141,6 @@
 		<th>14</th>
 		<th>1245</th>
 		<th>45</th>
-	</tr><tr>
-		<th>Shell</th>
-		<th>8</th>
-		<th>78</th>
-		<th>20</th>
-		<th>9</th>
-		<th>49</th>
-		<th>2</th>
 	</tr><tr>
 		<th>C Header</th>
 		<th>1</th>
@@ -160,11 +160,11 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>627</th>
-		<th>55518</th>
-		<th>6719</th>
-		<th>7756</th>
-		<th>41043</th>
+		<th>632</th>
+		<th>55675</th>
+		<th>6750</th>
+		<th>7760</th>
+		<th>41165</th>
 		<th>4037</th>
 	</tr></tfoot>
 	</table>
