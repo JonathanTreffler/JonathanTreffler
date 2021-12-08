@@ -62,20 +62,20 @@
 		<th>2863</th>
 		<th>0</th>
 	</tr><tr>
-		<th>JSON</th>
-		<th>87</th>
-		<th>151889</th>
-		<th>1</th>
-		<th>0</th>
-		<th>151888</th>
-		<th>0</th>
-	</tr><tr>
 		<th>Markdown</th>
 		<th>75</th>
 		<th>1532</th>
 		<th>327</th>
 		<th>0</th>
 		<th>1205</th>
+		<th>0</th>
+	</tr><tr>
+		<th>JSON</th>
+		<th>65</th>
+		<th>1859</th>
+		<th>1</th>
+		<th>0</th>
+		<th>1858</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Processing</th>
@@ -160,11 +160,11 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>645</th>
-		<th>205425</th>
+		<th>623</th>
+		<th>55395</th>
 		<th>6693</th>
 		<th>7756</th>
-		<th>190976</th>
+		<th>40946</th>
 		<th>4037</th>
 	</tr></tfoot>
 	</table>
