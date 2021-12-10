@@ -172,11 +172,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#171](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/171) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. 🗣 Commented on [#152](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/152) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🗣 Commented on [#171](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/171) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🗣 Commented on [#172](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/172) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#145](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/145) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🎉 Merged PR [#176](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/176) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🗣 Commented on [#171](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/171) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🗣 Commented on [#152](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/152) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🗣 Commented on [#171](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/171) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🗣 Commented on [#172](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/172) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
