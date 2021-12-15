@@ -4,7 +4,7 @@
 
 ### Hi there, i am using Github :)
 
-- 🔭 I’m currently working on [fractava/notes-core](https://github.com/fractava/notes-core), [DecaTec/sharerenamer](https://github.com/DecaTec/sharerenamer) and [nextcloud/news](https://github.com/nextcloud/news)
+- 🔭 I’m currently working on [fractava/notes-core](https://github.com/fractava/notes-core), [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer) and [nextcloud/news](https://github.com/nextcloud/news)
 - 📫 How to reach me: mail@jonathan-treffler.de
 - ⚡ Fun fact: This Dino Animation is made by @saadeghi :)
 - ⚡ Fun fact: This Profile gets updated by Github Actions
