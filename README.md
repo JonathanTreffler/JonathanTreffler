@@ -172,11 +172,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32150](https://github.com/electron/electron/issues/32150) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#844](https://github.com/overleaf/overleaf/issues/844) in [overleaf/overleaf](https://github.com/overleaf/overleaf)
-3. 🎉 Merged PR [#171](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/171) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🗣 Commented on [#175](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/175) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#178](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/178) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
+2. 🗣 Commented on [#32150](https://github.com/electron/electron/issues/32150) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#844](https://github.com/overleaf/overleaf/issues/844) in [overleaf/overleaf](https://github.com/overleaf/overleaf)
+4. 🎉 Merged PR [#171](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/171) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🗣 Commented on [#175](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/175) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
