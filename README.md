@@ -172,11 +172,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32150](https://github.com/electron/electron/issues/32150) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
-3. 🗣 Commented on [#32150](https://github.com/electron/electron/issues/32150) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#844](https://github.com/overleaf/overleaf/issues/844) in [overleaf/overleaf](https://github.com/overleaf/overleaf)
-5. 🎉 Merged PR [#171](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/171) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🗣 Commented on [#7315](https://github.com/gitpod-io/gitpod/issues/7315) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 🗣 Commented on [#32150](https://github.com/electron/electron/issues/32150) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
+4. 🗣 Commented on [#32150](https://github.com/electron/electron/issues/32150) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#844](https://github.com/overleaf/overleaf/issues/844) in [overleaf/overleaf](https://github.com/overleaf/overleaf)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
