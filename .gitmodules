@@ -148,3 +148,6 @@
 [submodule "projects/Programmierung_Uebungsblatt_7_Aufgabe_7"]
 	path = projects/Programmierung_Uebungsblatt_7_Aufgabe_7
 	url = https://github.com/Programmierung-Nils-Jonathan/Programmierung_Uebungsblatt_7_Aufgabe_7
+[submodule "projects/Programmierung_Uebungsblatt_8_Aufgabe_4"]
+	path = projects/Programmierung_Uebungsblatt_8_Aufgabe_4
+	url = https://github.com/Programmierung-Nils-Jonathan/Programmierung_Uebungsblatt_8_Aufgabe_4
