@@ -145,3 +145,6 @@
 [submodule "projects/nextcloud-app-gitpod"]
 	path = projects/nextcloud-app-gitpod
 	url = https://github.com/JonathanTreffler/nextcloud-app-gitpod
+[submodule "projects/Programmierung_Uebungsblatt_7_Aufgabe_7"]
+	path = projects/Programmierung_Uebungsblatt_7_Aufgabe_7
+	url = https://github.com/Programmierung-Nils-Jonathan/Programmierung_Uebungsblatt_7_Aufgabe_7
