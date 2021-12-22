@@ -55,19 +55,19 @@
 		<th>172</th>
 	</tr><tr>
 		<th>YAML</th>
-		<th>102</th>
-		<th>3943</th>
-		<th>505</th>
+		<th>105</th>
+		<th>4008</th>
+		<th>517</th>
 		<th>400</th>
-		<th>3038</th>
+		<th>3091</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Markdown</th>
-		<th>78</th>
-		<th>1619</th>
-		<th>355</th>
+		<th>79</th>
+		<th>1653</th>
+		<th>365</th>
 		<th>0</th>
-		<th>1264</th>
+		<th>1288</th>
 		<th>0</th>
 	</tr><tr>
 		<th>JSON</th>
@@ -86,6 +86,14 @@
 		<th>2034</th>
 		<th>275</th>
 	</tr><tr>
+		<th>Java</th>
+		<th>29</th>
+		<th>2568</th>
+		<th>296</th>
+		<th>648</th>
+		<th>1624</th>
+		<th>240</th>
+	</tr><tr>
 		<th>PHP</th>
 		<th>22</th>
 		<th>717</th>
@@ -93,14 +101,6 @@
 		<th>99</th>
 		<th>478</th>
 		<th>7</th>
-	</tr><tr>
-		<th>Java</th>
-		<th>21</th>
-		<th>2306</th>
-		<th>252</th>
-		<th>610</th>
-		<th>1444</th>
-		<th>217</th>
 	</tr><tr>
 		<th>HTML</th>
 		<th>19</th>
@@ -160,12 +160,12 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>633</th>
-		<th>55697</th>
-		<th>6754</th>
-		<th>7760</th>
-		<th>41183</th>
-		<th>4037</th>
+		<th>645</th>
+		<th>56058</th>
+		<th>6820</th>
+		<th>7798</th>
+		<th>41440</th>
+		<th>4060</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
