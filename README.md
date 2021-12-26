@@ -173,10 +173,10 @@
 ## Github Activity:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#471](https://github.com/e-alfred/flowupload/issues/471) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🗣 Commented on [#7315](https://github.com/gitpod-io/gitpod/issues/7315) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. 🗣 Commented on [#32150](https://github.com/electron/electron/issues/32150) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
-5. 🗣 Commented on [#32150](https://github.com/electron/electron/issues/32150) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#471](https://github.com/e-alfred/flowupload/issues/471) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🗣 Commented on [#7315](https://github.com/gitpod-io/gitpod/issues/7315) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. 🗣 Commented on [#32150](https://github.com/electron/electron/issues/32150) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#748](https://github.com/nextcloud/news/issues/748) in [nextcloud/news](https://github.com/nextcloud/news)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
