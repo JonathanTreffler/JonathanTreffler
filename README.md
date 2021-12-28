@@ -172,11 +172,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#21](https://github.com/JonathanTreffler/status/issues/21) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🗣 Commented on [#21](https://github.com/JonathanTreffler/status/issues/21) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. ❗️ Opened issue [#21](https://github.com/JonathanTreffler/status/issues/21) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. 🗣 Commented on [#471](https://github.com/e-alfred/flowupload/issues/471) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-5. 🗣 Commented on [#471](https://github.com/e-alfred/flowupload/issues/471) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+1. ❗️ Opened issue [#4](https://github.com/fractava/status/issues/4) in [fractava/status](https://github.com/fractava/status)
+2. ❗️ Opened issue [#2](https://github.com/fractava/status/issues/2) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Opened issue [#1](https://github.com/fractava/status/issues/1) in [fractava/status](https://github.com/fractava/status)
+4. ❗️ Closed issue [#21](https://github.com/JonathanTreffler/status/issues/21) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. 🗣 Commented on [#21](https://github.com/JonathanTreffler/status/issues/21) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
