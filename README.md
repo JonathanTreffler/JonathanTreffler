@@ -172,11 +172,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/fractava/status/issues/4) in [fractava/status](https://github.com/fractava/status)
-2. 🗣 Commented on [#4](https://github.com/fractava/status/issues/4) in [fractava/status](https://github.com/fractava/status)
-3. ❗️ Opened issue [#4](https://github.com/fractava/status/issues/4) in [fractava/status](https://github.com/fractava/status)
-4. ❗️ Opened issue [#2](https://github.com/fractava/status/issues/2) in [fractava/status](https://github.com/fractava/status)
-5. ❗️ Opened issue [#1](https://github.com/fractava/status/issues/1) in [fractava/status](https://github.com/fractava/status)
+1. 🗣 Commented on [#3](https://github.com/fractava/status/issues/3) in [fractava/status](https://github.com/fractava/status)
+2. ❗️ Closed issue [#4](https://github.com/fractava/status/issues/4) in [fractava/status](https://github.com/fractava/status)
+3. 🗣 Commented on [#4](https://github.com/fractava/status/issues/4) in [fractava/status](https://github.com/fractava/status)
+4. ❗️ Opened issue [#4](https://github.com/fractava/status/issues/4) in [fractava/status](https://github.com/fractava/status)
+5. ❗️ Opened issue [#2](https://github.com/fractava/status/issues/2) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
