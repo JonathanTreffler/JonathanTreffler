@@ -172,11 +172,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/fractava/status/issues/1) in [fractava/status](https://github.com/fractava/status)
-2. 🗣 Commented on [#1](https://github.com/fractava/status/issues/1) in [fractava/status](https://github.com/fractava/status)
-3. 🎉 Merged PR [#189](https://github.com/JonathanTreffler/nuxt-gallery/pull/189) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-4. 🎉 Merged PR [#165](https://github.com/JonathanTreffler/nuxt-gallery/pull/165) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-5. ❗️ Closed issue [#194](https://github.com/JonathanTreffler/nuxt-gallery/issues/194) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+1. ❗️ Opened issue [#14](https://github.com/fractava/status/issues/14) in [fractava/status](https://github.com/fractava/status)
+2. ❗️ Opened issue [#13](https://github.com/fractava/status/issues/13) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Opened issue [#12](https://github.com/fractava/status/issues/12) in [fractava/status](https://github.com/fractava/status)
+4. ❗️ Opened issue [#11](https://github.com/fractava/status/issues/11) in [fractava/status](https://github.com/fractava/status)
+5. ❗️ Opened issue [#10](https://github.com/fractava/status/issues/10) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
