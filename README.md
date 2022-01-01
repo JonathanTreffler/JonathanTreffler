@@ -172,11 +172,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#189](https://github.com/JonathanTreffler/nuxt-gallery/pull/189) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-2. 🎉 Merged PR [#165](https://github.com/JonathanTreffler/nuxt-gallery/pull/165) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-3. ❗️ Closed issue [#194](https://github.com/JonathanTreffler/nuxt-gallery/issues/194) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-4. 🗣 Commented on [#194](https://github.com/JonathanTreffler/nuxt-gallery/issues/194) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
-5. ❗️ Closed issue [#9](https://github.com/fractava/status/issues/9) in [fractava/status](https://github.com/fractava/status)
+1. ❗️ Closed issue [#1](https://github.com/fractava/status/issues/1) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#1](https://github.com/fractava/status/issues/1) in [fractava/status](https://github.com/fractava/status)
+3. 🎉 Merged PR [#189](https://github.com/JonathanTreffler/nuxt-gallery/pull/189) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+4. 🎉 Merged PR [#165](https://github.com/JonathanTreffler/nuxt-gallery/pull/165) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
+5. ❗️ Closed issue [#194](https://github.com/JonathanTreffler/nuxt-gallery/issues/194) in [JonathanTreffler/nuxt-gallery](https://github.com/JonathanTreffler/nuxt-gallery)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
