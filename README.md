@@ -181,10 +181,10 @@
 ## Github Activity:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-2. ❗️ Closed issue [#15](https://github.com/fractava/status/issues/15) in [fractava/status](https://github.com/fractava/status)
-3. 🗣 Commented on [#15](https://github.com/fractava/status/issues/15) in [fractava/status](https://github.com/fractava/status)
-4. ❗️ Opened issue [#15](https://github.com/fractava/status/issues/15) in [fractava/status](https://github.com/fractava/status)
-5. ❗️ Closed issue [#14](https://github.com/fractava/status/issues/14) in [fractava/status](https://github.com/fractava/status)
+2. 💪 Opened PR [#478](https://github.com/nextcloud/app-certificate-requests/pull/478) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+3. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. ❗️ Closed issue [#15](https://github.com/fractava/status/issues/15) in [fractava/status](https://github.com/fractava/status)
+5. 🗣 Commented on [#15](https://github.com/fractava/status/issues/15) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
