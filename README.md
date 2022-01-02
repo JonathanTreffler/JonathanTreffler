@@ -47,11 +47,11 @@
 		<th>3318</th>
 	</tr><tr>
 		<th>YAML</th>
-		<th>114</th>
-		<th>4223</th>
-		<th>558</th>
+		<th>115</th>
+		<th>4252</th>
+		<th>561</th>
 		<th>400</th>
-		<th>3265</th>
+		<th>3291</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Vue</th>
@@ -63,11 +63,11 @@
 		<th>172</th>
 	</tr><tr>
 		<th>Markdown</th>
-		<th>83</th>
-		<th>1753</th>
+		<th>84</th>
+		<th>1755</th>
 		<th>393</th>
 		<th>0</th>
-		<th>1360</th>
+		<th>1362</th>
 		<th>0</th>
 	</tr><tr>
 		<th>JSON</th>
@@ -168,11 +168,11 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>665</th>
-		<th>56944</th>
-		<th>6999</th>
+		<th>667</th>
+		<th>56975</th>
+		<th>7002</th>
 		<th>7813</th>
-		<th>42132</th>
+		<th>42160</th>
 		<th>4115</th>
 	</tr></tfoot>
 	</table>
