@@ -157,3 +157,6 @@
 [submodule "projects/Haskell-Template"]
 	path = projects/Haskell-Template
 	url = https://github.com/Programmierung-Nils-Jonathan/Haskell-Template
+[submodule "projects/Abgabe-Action"]
+	path = projects/Abgabe-Action
+	url = https://github.com/Programmierung-Nils-Jonathan/Abgabe-Action
