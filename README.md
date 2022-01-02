@@ -180,11 +180,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/JonathanTreffler/sharerenamer/pull/49) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-2. 🎉 Merged PR [#40](https://github.com/JonathanTreffler/sharerenamer/pull/40) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-3. 🎉 Merged PR [#47](https://github.com/JonathanTreffler/sharerenamer/pull/47) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-4. 🎉 Merged PR [#42](https://github.com/JonathanTreffler/sharerenamer/pull/42) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-5. 🎉 Merged PR [#35](https://github.com/JonathanTreffler/sharerenamer/pull/35) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+1. 🎉 Merged PR [#52](https://github.com/JonathanTreffler/sharerenamer/pull/52) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+2. 🎉 Merged PR [#39](https://github.com/JonathanTreffler/sharerenamer/pull/39) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+3. 🎉 Merged PR [#38](https://github.com/JonathanTreffler/sharerenamer/pull/38) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. 🎉 Merged PR [#37](https://github.com/JonathanTreffler/sharerenamer/pull/37) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+5. 🎉 Merged PR [#54](https://github.com/JonathanTreffler/sharerenamer/pull/54) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
