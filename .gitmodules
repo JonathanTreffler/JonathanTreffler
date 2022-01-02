@@ -154,3 +154,6 @@
 [submodule "projects/Programmierung_Uebungsblatt_9_Aufgabe_9"]
 	path = projects/Programmierung_Uebungsblatt_9_Aufgabe_9
 	url = https://github.com/Programmierung-Nils-Jonathan/Programmierung_Uebungsblatt_9_Aufgabe_9
+[submodule "projects/Haskell-Template"]
+	path = projects/Haskell-Template
+	url = https://github.com/Programmierung-Nils-Jonathan/Haskell-Template
