@@ -157,15 +157,23 @@
 		<th>6</th>
 		<th>29</th>
 		<th>1</th>
+	</tr><tr>
+		<th>Haskell</th>
+		<th>1</th>
+		<th>165</th>
+		<th>45</th>
+		<th>15</th>
+		<th>105</th>
+		<th>19</th>
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>660</th>
-		<th>56694</th>
-		<th>6934</th>
-		<th>7798</th>
-		<th>41962</th>
-		<th>4096</th>
+		<th>661</th>
+		<th>56859</th>
+		<th>6979</th>
+		<th>7813</th>
+		<th>42067</th>
+		<th>4115</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->

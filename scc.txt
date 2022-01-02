@@ -16,11 +16,12 @@ Shell                        9        85       22        12       51          2
 Python                       8      1317       58        14     1245         45
 C Header                     1        31        9         5       17          0
 C++                          1        39        4         6       29          1
+Haskell                      1       165       45        15      105         19
 ───────────────────────────────────────────────────────────────────────────────
-Total                      660     56694     6934      7798    41962       4096
+Total                      661     56859     6979      7813    42067       4115
 ───────────────────────────────────────────────────────────────────────────────
-Estimated Cost to Develop $1,366,451
-Estimated Schedule Effort 17.274943 months
-Estimated People Required 9.369844
+Estimated Cost to Develop $1,370,042
+Estimated Schedule Effort 17.292177 months
+Estimated People Required 9.385100
 ───────────────────────────────────────────────────────────────────────────────
 
