@@ -182,9 +182,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 2. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-3. 💪 Opened PR [#478](https://github.com/nextcloud/app-certificate-requests/pull/478) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
-4. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-5. ❗️ Closed issue [#15](https://github.com/fractava/status/issues/15) in [fractava/status](https://github.com/fractava/status)
+3. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. 💪 Opened PR [#478](https://github.com/nextcloud/app-certificate-requests/pull/478) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+5. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
