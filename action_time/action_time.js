@@ -1,5 +1,8 @@
 const { Octokit } = require("@octokit/core");
+const humanizeDuration = require("humanize-duration");
+
 fs = require('fs');
+const { updateSection } = require("../file-section-updater/file_updater.js");
 
 const octokit = new Octokit({ auth: process.env.BOT_GITHUB_TOKEN });
 
@@ -99,7 +102,20 @@ async function sumUpRepositories() {
     }
 
     console.log("Sum all repositories:", sum);
+    return sum;
 }
 
-run();
-sumUpRepositories();
+run().then(function() {
+    sumUpRepositories().then(function(sum) {
+        let startString = "<!-- /start_action_time/ -->";
+        let endString = "<!-- /end_action_time/ -->";
+
+        let duration = humanizeDuration(sum * 1000);
+
+        console.log(duration);
+
+        let suffix = " of Github Actions Runtime used in total \nI really hope public actions stay free 😂 \n";
+
+        updateSection("../README.md", startString, endString, duration + suffix);
+    });
+});

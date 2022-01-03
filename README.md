@@ -180,7 +180,8 @@
 
 ## Github Action Statistict:
 <!-- /start_action_time/ -->
-
+3 months, 4 days, 3 hours, 52 minutes, 41 seconds of Github Actions Runtime used in total 
+I really hope public actions stay free 😂 
 <!-- /end_action_time/ -->
 
 ## Github Activity:
