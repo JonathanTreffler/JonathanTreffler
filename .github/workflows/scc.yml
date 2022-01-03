@@ -41,6 +41,7 @@ jobs:
       
       - name: README update
         run: node scc.js
+        working-directory: scc
       
       - name: Delete temporary files
         run: rm scc.html
