@@ -178,7 +178,7 @@
 	</table>
 <!-- /end_scc/ -->
 
-## Github Action Statistict:
+## Github Action Statistics:
 <!-- /start_action_time/ -->
 3 months, 4 days, 15 hours, 13 minutes, 3 seconds of Github Actions Runtime used in total. 
 
