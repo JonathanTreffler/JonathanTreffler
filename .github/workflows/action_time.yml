@@ -1,0 +1,44 @@
+name: Github Actions Duration Calculation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 */6 * * *'
+  push:
+
+jobs:
+  calculate_loc:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up git
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "Github Actions"
+          git config pull.rebase false
+          git pull
+      
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '14'
+      
+      - name: README update
+        run: node action_time.js
+        working-directory: action_time
+        env:
+          BOT_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+
+      - name: Commit files
+        continue-on-error: true
+        run: |
+          git pull
+          git add -A
+          git commit -m "Updated Readme action time" -a
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
