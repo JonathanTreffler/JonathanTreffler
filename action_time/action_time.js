@@ -114,7 +114,7 @@ run().then(function() {
 
         console.log(duration);
 
-        let suffix = " of Github Actions Runtime used in total. \nI really hope public actions stay free 😂 \n";
+        let suffix = " of Github Actions Runtime used in total. \n\nI really hope public actions stay free 😂 \n";
 
         updateSection("../README.md", startString, endString, duration + suffix);
     });
