@@ -1,4 +1,4 @@
-name: SCC
+name: README Update
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ on:
   push:
 
 jobs:
-  calculate_loc:
+  readme_update:
     runs-on: ubuntu-latest
 
     steps:
@@ -39,9 +39,19 @@ jobs:
       - name: SCC html
         run: scc ./projects/ --include-ext vue,js,py,pde,css,sh,html,php,ts,cpp,json,xml,md,h,java,bat,yml,yaml,hs -f html-table --not-match .*\package-lock.json$ > scc.html
       
-      - name: README update
+      - name: README scc update
         run: node scc.js
         working-directory: scc
+        
+      - name: Install action_time dependencies
+        run: npm ci
+        working-directory: action_time
+
+      - name: README action_time update
+        run: node action_time.js
+        working-directory: action_time
+        env:
+          BOT_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
       
       - name: Delete temporary files
         run: rm scc.html
@@ -51,7 +61,7 @@ jobs:
         run: |
           git pull
           git add -A
-          git commit -m "Updated Readme scc" -a
+          git commit -m "Updated Readme" -a
 
       - name: Push changes
         uses: ad-m/github-push-action@master
