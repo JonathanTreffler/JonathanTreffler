@@ -180,11 +180,11 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/fractava/status/issues/16) in [fractava/status](https://github.com/fractava/status)
-2. 🎉 Merged PR [#60](https://github.com/JonathanTreffler/sharerenamer/pull/60) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-3. 🗣 Commented on [#60](https://github.com/JonathanTreffler/sharerenamer/issues/60) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-4. 🎉 Merged PR [#56](https://github.com/JonathanTreffler/sharerenamer/pull/56) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-5. 🎉 Merged PR [#53](https://github.com/JonathanTreffler/sharerenamer/pull/53) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+1. ❗️ Closed issue [#16](https://github.com/fractava/status/issues/16) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#16](https://github.com/fractava/status/issues/16) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Closed issue [#21](https://github.com/fractava/status/issues/21) in [fractava/status](https://github.com/fractava/status)
+4. 🗣 Commented on [#21](https://github.com/fractava/status/issues/21) in [fractava/status](https://github.com/fractava/status)
+5. ❗️ Closed issue [#20](https://github.com/fractava/status/issues/20) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
