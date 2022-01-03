@@ -7,7 +7,7 @@ on:
   push:
 
 jobs:
-  calculate_loc:
+  calculate_action_time:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,6 +24,10 @@ jobs:
         with:
           node-version: '14'
       
+      - name: Install dependencies
+        run: npm ci
+        working-directory: action_time
+
       - name: README update
         run: node action_time.js
         working-directory: action_time
