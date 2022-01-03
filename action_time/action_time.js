@@ -91,9 +91,9 @@ async function sumUpRepositories() {
 
     let sum = 0;
 
-    for(repository of repositories) {
-        let user = repository[0];
-        let repository = repository[1];
+    for(let item of repositories) {
+        let user = item[0];
+        let repository = item[1];
 
         sum += parseInt(fs.readFileSync("./stats/"+user+"_"+repository+".txt"));
     }
