@@ -1,7 +1,7 @@
 const { Octokit } = require("@octokit/core");
 fs = require('fs');
 
-const octokit = new Octokit({ auth: "" });
+const octokit = new Octokit({ auth: process.env.BOT_GITHUB_TOKEN });
 
 async function getRepoTime(user, repository) {
     console.log("===== " + user + "/" + repository + " =====");
