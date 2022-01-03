@@ -1,4 +1,5 @@
 name: Update README
+concurrency: readme
 
 on:
   schedule:

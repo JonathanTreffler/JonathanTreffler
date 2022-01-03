@@ -1,4 +1,6 @@
 name: Latest YouTube Videos
+concurrency: readme
+
 on:
   schedule:
     # Runs every hour
