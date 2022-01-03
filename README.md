@@ -178,6 +178,12 @@
 	</table>
 <!-- /end_scc/ -->
 
+## Github Action Statistict:
+<!-- /start_action_time/ -->
+3 months, 4 days, 3 hours, 52 minutes, 41 seconds of Github Actions Runtime used in total 
+I really hope public actions stay free 😂 
+<!-- /end_action_time/ -->
+
 ## Github Activity:
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#23](https://github.com/fractava/status/issues/23) in [fractava/status](https://github.com/fractava/status)
