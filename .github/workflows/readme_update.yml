@@ -5,6 +5,13 @@ on:
   schedule:
     - cron:  '0 */6 * * *'
   push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/readme_update.yml'
+      - 'action_time/**'
+      - 'scc/**'
+      - 'projects/**'
 
 jobs:
   readme_update:

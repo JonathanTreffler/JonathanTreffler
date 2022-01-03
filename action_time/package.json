@@ -1,5 +1,6 @@
 {
   "name": "action_time",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "action_time.js",
@@ -11,6 +12,7 @@
   "dependencies": {
     "@octokit/core": "^3.5.1",
     "@octokit/graphql": "^4.8.0",
-    "humanize-duration": "^3.27.1"
+    "humanize-duration": "^3.27.1",
+    "p-limit": "^4.0.0"
   }
 }

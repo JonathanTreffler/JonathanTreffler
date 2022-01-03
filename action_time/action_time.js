@@ -1,8 +1,9 @@
-const { Octokit } = require("@octokit/core");
-const humanizeDuration = require("humanize-duration");
+import { Octokit } from "@octokit/core";
+import humanizeDuration from "humanize-duration";
+import pLimit from 'p-limit';
 
-fs = require('fs');
-const { updateSection } = require("../file-section-updater/file_updater.js");
+import fs from 'fs';
+import { updateSection } from "../file-section-updater/file_updater.js";
 
 const octokit = new Octokit({ auth: process.env.BOT_GITHUB_TOKEN });
 
@@ -21,28 +22,40 @@ async function getRepoActionCount(user, repository) {
 }
 
 async function getRepoTime(user, repository, total_count) {
-    let summedRunTime = 0;
+
+    let pageRequests = [];
+
+    const limit = pLimit(2);
 
     for(let i = 1; i < (total_count / 100) + 1; i++) {
-        console.log("Request #" + i);
-        const {headers, data} = await octokit.request('GET /repos/{owner}/{repo}/actions/runs', {
-            owner: user,
-            repo: repository,
-            per_page: 100,
-            page: i
-        })
+        console.log("Request #" + i, "sheduled");
+        pageRequests.push(
+            limit(function () {
+                console.log("Request #" + i, "started");
+                return octokit.request('GET /repos/{owner}/{repo}/actions/runs', {
+                    owner: user,
+                    repo: repository,
+                    per_page: 100,
+                    page: i
+                })
+            })
+        );
+    }
 
-        let workflow_runs = data.workflow_runs;
-    
+    let summedRunTime = 0;
+
+    let pages = await Promise.all(pageRequests);
+
+    console.log("all requests done");
+
+    for(let page of pages) {
+        let workflow_runs = page.data.workflow_runs;
+
         for(run of workflow_runs) {
             let runTime = (new Date(run.updated_at) - new Date(run.run_started_at)) / 1000;
 
-            //console.log(runTime, " s")
-
             summedRunTime += runTime;
         }
-
-        console.log("sum so far:", summedRunTime);
     }
 
     console.log(Math.floor(summedRunTime / 60 / 60) + " hours");
