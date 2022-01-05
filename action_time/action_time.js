@@ -52,9 +52,8 @@ async function getRepoTime(user, repository, total_count) {
     for(let page of pages) {
         let workflow_runs = page.data.workflow_runs;
 
-        for(run of workflow_runs) {
+        for (run of workflow_runs.filter((r) => (r.run_started_at && r.updated_at))) {
             let runTime = (new Date(run.updated_at) - new Date(run.run_started_at)) / 1000;
-
             summedRunTime += runTime;
         }
     }
