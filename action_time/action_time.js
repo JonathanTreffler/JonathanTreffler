@@ -1,9 +1,10 @@
 import { Octokit } from "@octokit/core";
 import humanizeDuration from "humanize-duration";
 import pLimit from 'p-limit';
-
+import dotenv from "dotenv";
 import fs from 'fs';
 import { updateSection } from "../file-section-updater/file_updater.js";
+dotenv.config();
 
 const octokit = new Octokit({ auth: process.env.BOT_GITHUB_TOKEN });
 
