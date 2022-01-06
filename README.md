@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/JonathanTreffler/JonathanTreffler/pull/4) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
-2. 🗣 Commented on [#4](https://github.com/JonathanTreffler/JonathanTreffler/issues/4) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
-3. ❗️ Closed issue [#68](https://github.com/fractava/status/issues/68) in [fractava/status](https://github.com/fractava/status)
-4. 🗣 Commented on [#68](https://github.com/fractava/status/issues/68) in [fractava/status](https://github.com/fractava/status)
-5. ❗️ Closed issue [#67](https://github.com/fractava/status/issues/67) in [fractava/status](https://github.com/fractava/status)
+1. ❗️ Closed issue [#75](https://github.com/fractava/status/issues/75) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#75](https://github.com/fractava/status/issues/75) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Closed issue [#74](https://github.com/fractava/status/issues/74) in [fractava/status](https://github.com/fractava/status)
+4. 🗣 Commented on [#74](https://github.com/fractava/status/issues/74) in [fractava/status](https://github.com/fractava/status)
+5. ❗️ Closed issue [#73](https://github.com/fractava/status/issues/73) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
