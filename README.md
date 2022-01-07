@@ -187,10 +187,10 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#68](https://github.com/JonathanTreffler/sharerenamer/pull/68) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-2. 🗣 Commented on [#68](https://github.com/JonathanTreffler/sharerenamer/issues/68) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-3. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-4. 🗣 Commented on [#478](https://github.com/nextcloud/app-certificate-requests/issues/478) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+1. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+2. 🎉 Merged PR [#69](https://github.com/JonathanTreffler/sharerenamer/pull/69) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+3. ❌ Closed PR [#68](https://github.com/JonathanTreffler/sharerenamer/pull/68) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. 🗣 Commented on [#68](https://github.com/JonathanTreffler/sharerenamer/issues/68) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 5. 🗣 Commented on [#21](https://github.com/JonathanTreffler/sharerenamer/issues/21) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 <!--END_SECTION:activity-->
 
