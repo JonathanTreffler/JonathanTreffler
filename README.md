@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#157](https://github.com/fractava/status/issues/157) in [fractava/status](https://github.com/fractava/status)
-2. 🗣 Commented on [#157](https://github.com/fractava/status/issues/157) in [fractava/status](https://github.com/fractava/status)
-3. 🗣 Commented on [#156](https://github.com/fractava/status/issues/156) in [fractava/status](https://github.com/fractava/status)
-4. ❗️ Closed issue [#156](https://github.com/fractava/status/issues/156) in [fractava/status](https://github.com/fractava/status)
-5. ❗️ Closed issue [#153](https://github.com/fractava/status/issues/153) in [fractava/status](https://github.com/fractava/status)
+1. 🗣 Commented on [#2](https://github.com/JonathanTreffler/kdenlive-vnc-docker/issues/2) in [JonathanTreffler/kdenlive-vnc-docker](https://github.com/JonathanTreffler/kdenlive-vnc-docker)
+2. ❗️ Closed issue [#157](https://github.com/fractava/status/issues/157) in [fractava/status](https://github.com/fractava/status)
+3. 🗣 Commented on [#157](https://github.com/fractava/status/issues/157) in [fractava/status](https://github.com/fractava/status)
+4. 🗣 Commented on [#156](https://github.com/fractava/status/issues/156) in [fractava/status](https://github.com/fractava/status)
+5. ❗️ Closed issue [#156](https://github.com/fractava/status/issues/156) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
