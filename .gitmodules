@@ -160,3 +160,6 @@
 [submodule "projects/Abgabe-Action"]
 	path = projects/Abgabe-Action
 	url = https://github.com/Programmierung-Nils-Jonathan/Abgabe-Action
+[submodule "projects/Programmierung_Uebungsblatt_10_Aufgabe_4"]
+	path = projects/Programmierung_Uebungsblatt_10_Aufgabe_4
+	url = https://github.com/Programmierung-Nils-Jonathan/Programmierung_Uebungsblatt_10_Aufgabe_4
