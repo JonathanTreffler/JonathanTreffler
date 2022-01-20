@@ -47,11 +47,11 @@
 		<th>3318</th>
 	</tr><tr>
 		<th>YAML</th>
-		<th>116</th>
-		<th>4253</th>
-		<th>561</th>
+		<th>121</th>
+		<th>4391</th>
+		<th>587</th>
 		<th>400</th>
-		<th>3292</th>
+		<th>3404</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Vue</th>
@@ -63,19 +63,19 @@
 		<th>172</th>
 	</tr><tr>
 		<th>Markdown</th>
-		<th>84</th>
-		<th>1755</th>
-		<th>393</th>
+		<th>85</th>
+		<th>1778</th>
+		<th>401</th>
 		<th>0</th>
-		<th>1362</th>
+		<th>1377</th>
 		<th>0</th>
 	</tr><tr>
 		<th>JSON</th>
-		<th>67</th>
-		<th>1892</th>
-		<th>1</th>
+		<th>68</th>
+		<th>1942</th>
+		<th>3</th>
 		<th>0</th>
-		<th>1891</th>
+		<th>1939</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Java</th>
@@ -142,6 +142,14 @@
 		<th>1245</th>
 		<th>45</th>
 	</tr><tr>
+		<th>Haskell</th>
+		<th>2</th>
+		<th>210</th>
+		<th>60</th>
+		<th>17</th>
+		<th>133</th>
+		<th>19</th>
+	</tr><tr>
 		<th>C Header</th>
 		<th>1</th>
 		<th>31</th>
@@ -157,22 +165,14 @@
 		<th>6</th>
 		<th>29</th>
 		<th>1</th>
-	</tr><tr>
-		<th>Haskell</th>
-		<th>1</th>
-		<th>165</th>
-		<th>45</th>
-		<th>15</th>
-		<th>105</th>
-		<th>19</th>
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>672</th>
-		<th>57042</th>
-		<th>7002</th>
-		<th>7813</th>
-		<th>42227</th>
+		<th>680</th>
+		<th>57298</th>
+		<th>7053</th>
+		<th>7815</th>
+		<th>42430</th>
 		<th>4115</th>
 	</tr></tfoot>
 	</table>
@@ -180,7 +180,7 @@
 
 ## Github Action Statistics:
 <!-- /start_action_time/ -->
-3 months, 2 weeks, 3 days, 4 hours, 58 minutes, 39 seconds of Github Actions Runtime used in total. 
+3 months, 2 weeks, 3 days, 10 hours, 38 minutes, 26 seconds of Github Actions Runtime used in total. 
 
 I really hope public actions stay free 😂 
 <!-- /end_action_time/ -->
