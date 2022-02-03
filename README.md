@@ -12,7 +12,7 @@
 ## Connect with me:
 
 [<img align="left" alt="jonathan-treffler.de" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/globe.svg" />](https://jonathan-treffler.de)
-[<img align="left" alt="Jonathan Treffler | Mastodon" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/mastodon.svg" />](https://gruene.social/web/accounts/107263839890823203)
+<a rel="me" href="https://gruene.social/@JonathanTreffler"><img align="left" alt="Jonathan Treffler | Mastodon" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/mastodon.svg"></a>
 [<img align="left" alt="Jonathan Treffler | Pixelfed" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/pixelfed.svg" />](https://pixel.gruene.social/JonathanTreffler)
 [<img align="left" alt="Jonathan Treffler | Twitter" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/twitter.svg" />](https://twitter.com/treffler_j)
 [<img align="left" alt="Jonathan Treffler | NPM" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/npm.svg" />](https://www.npmjs.com/~jonathan_treffler)
