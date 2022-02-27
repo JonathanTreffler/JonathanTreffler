@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#222](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/222) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🎉 Merged PR [#222](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/222) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 2. 🗣 Commented on [#222](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/222) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🎉 Merged PR [#210](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/210) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#214](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/214) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#220](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/220) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🗣 Commented on [#222](https://github.com/JonathanTreffler/JonathanTreffler.github.io/issues/222) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🎉 Merged PR [#210](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/210) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#214](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/214) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
