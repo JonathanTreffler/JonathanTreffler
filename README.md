@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/JonathanTreffler/JonathanTreffler/pull/9) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
-2. 🎉 Merged PR [#11](https://github.com/JonathanTreffler/JonathanTreffler/pull/11) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
-3. ❗️ Closed issue [#572](https://github.com/fractava/status/issues/572) in [fractava/status](https://github.com/fractava/status)
-4. 🗣 Commented on [#572](https://github.com/fractava/status/issues/572) in [fractava/status](https://github.com/fractava/status)
-5. ❗️ Closed issue [#571](https://github.com/fractava/status/issues/571) in [fractava/status](https://github.com/fractava/status)
+1. 🎉 Merged PR [#8](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/8) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🗣 Commented on [#8](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/8) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🎉 Merged PR [#9](https://github.com/JonathanTreffler/JonathanTreffler/pull/9) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
+4. 🎉 Merged PR [#11](https://github.com/JonathanTreffler/JonathanTreffler/pull/11) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
+5. ❗️ Closed issue [#572](https://github.com/fractava/status/issues/572) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
