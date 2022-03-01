@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#580](https://github.com/fractava/status/issues/580) in [fractava/status](https://github.com/fractava/status)
-2. ❗️ Closed issue [#580](https://github.com/fractava/status/issues/580) in [fractava/status](https://github.com/fractava/status)
-3. ❗️ Closed issue [#579](https://github.com/fractava/status/issues/579) in [fractava/status](https://github.com/fractava/status)
-4. 🗣 Commented on [#579](https://github.com/fractava/status/issues/579) in [fractava/status](https://github.com/fractava/status)
-5. ❗️ Closed issue [#570](https://github.com/fractava/status/issues/570) in [fractava/status](https://github.com/fractava/status)
+1. 🗣 Commented on [#114](https://github.com/custom-components/remote_homeassistant/issues/114) in [custom-components/remote_homeassistant](https://github.com/custom-components/remote_homeassistant)
+2. 🗣 Commented on [#580](https://github.com/fractava/status/issues/580) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Closed issue [#580](https://github.com/fractava/status/issues/580) in [fractava/status](https://github.com/fractava/status)
+4. ❗️ Closed issue [#579](https://github.com/fractava/status/issues/579) in [fractava/status](https://github.com/fractava/status)
+5. 🗣 Commented on [#579](https://github.com/fractava/status/issues/579) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
