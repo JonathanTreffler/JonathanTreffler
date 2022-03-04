@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#277](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/277) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
-2. 🗣 Commented on [#581](https://github.com/fractava/status/issues/581) in [fractava/status](https://github.com/fractava/status)
-3. ❗️ Closed issue [#581](https://github.com/fractava/status/issues/581) in [fractava/status](https://github.com/fractava/status)
-4. ❗️ Opened issue [#581](https://github.com/fractava/status/issues/581) in [fractava/status](https://github.com/fractava/status)
-5. 🗣 Commented on [#114](https://github.com/custom-components/remote_homeassistant/issues/114) in [custom-components/remote_homeassistant](https://github.com/custom-components/remote_homeassistant)
+1. ❗️ Closed issue [#582](https://github.com/fractava/status/issues/582) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#582](https://github.com/fractava/status/issues/582) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Opened issue [#582](https://github.com/fractava/status/issues/582) in [fractava/status](https://github.com/fractava/status)
+4. 🎉 Merged PR [#277](https://github.com/JonathanTreffler/Quill-mathLive-blot/pull/277) in [JonathanTreffler/Quill-mathLive-blot](https://github.com/JonathanTreffler/Quill-mathLive-blot)
+5. 🗣 Commented on [#581](https://github.com/fractava/status/issues/581) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
