@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#488](https://github.com/e-alfred/flowupload/issues/488) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. ❗️ Closed issue [#600](https://github.com/fractava/status/issues/600) in [fractava/status](https://github.com/fractava/status)
-3. 🗣 Commented on [#600](https://github.com/fractava/status/issues/600) in [fractava/status](https://github.com/fractava/status)
-4. ❗️ Opened issue [#600](https://github.com/fractava/status/issues/600) in [fractava/status](https://github.com/fractava/status)
-5. ❗️ Closed issue [#599](https://github.com/fractava/status/issues/599) in [fractava/status](https://github.com/fractava/status)
+1. ❗️ Closed issue [#601](https://github.com/fractava/status/issues/601) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#601](https://github.com/fractava/status/issues/601) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Opened issue [#601](https://github.com/fractava/status/issues/601) in [fractava/status](https://github.com/fractava/status)
+4. ❗️ Opened issue [#488](https://github.com/e-alfred/flowupload/issues/488) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. ❗️ Closed issue [#600](https://github.com/fractava/status/issues/600) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
