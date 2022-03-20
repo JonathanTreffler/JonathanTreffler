@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/JonathanTreffler/hassio-osync/pull/31) in [JonathanTreffler/hassio-osync](https://github.com/JonathanTreffler/hassio-osync)
-2. 🎉 Merged PR [#28](https://github.com/JonathanTreffler/hassio-osync/pull/28) in [JonathanTreffler/hassio-osync](https://github.com/JonathanTreffler/hassio-osync)
-3. 🎉 Merged PR [#27](https://github.com/JonathanTreffler/hassio-osync/pull/27) in [JonathanTreffler/hassio-osync](https://github.com/JonathanTreffler/hassio-osync)
-4. 🎉 Merged PR [#29](https://github.com/JonathanTreffler/hassio-osync/pull/29) in [JonathanTreffler/hassio-osync](https://github.com/JonathanTreffler/hassio-osync)
-5. 🎉 Merged PR [#30](https://github.com/JonathanTreffler/hassio-osync/pull/30) in [JonathanTreffler/hassio-osync](https://github.com/JonathanTreffler/hassio-osync)
+1. ❗️ Closed issue [#627](https://github.com/fractava/status/issues/627) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#627](https://github.com/fractava/status/issues/627) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Opened issue [#627](https://github.com/fractava/status/issues/627) in [fractava/status](https://github.com/fractava/status)
+4. ❗️ Closed issue [#626](https://github.com/fractava/status/issues/626) in [fractava/status](https://github.com/fractava/status)
+5. 🗣 Commented on [#626](https://github.com/fractava/status/issues/626) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
