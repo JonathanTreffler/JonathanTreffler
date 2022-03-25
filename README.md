@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#633](https://github.com/fractava/status/issues/633) in [fractava/status](https://github.com/fractava/status)
-2. 🗣 Commented on [#633](https://github.com/fractava/status/issues/633) in [fractava/status](https://github.com/fractava/status)
-3. ❗️ Opened issue [#633](https://github.com/fractava/status/issues/633) in [fractava/status](https://github.com/fractava/status)
-4. ❗️ Opened issue [#1684](https://github.com/esphome/feature-requests/issues/1684) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
-5. ❗️ Opened issue [#56](https://github.com/andrey18106/mediadc/issues/56) in [andrey18106/mediadc](https://github.com/andrey18106/mediadc)
+1. ❗️ Opened issue [#98](https://github.com/gcormier/megadesk/issues/98) in [gcormier/megadesk](https://github.com/gcormier/megadesk)
+2. ❗️ Closed issue [#633](https://github.com/fractava/status/issues/633) in [fractava/status](https://github.com/fractava/status)
+3. 🗣 Commented on [#633](https://github.com/fractava/status/issues/633) in [fractava/status](https://github.com/fractava/status)
+4. ❗️ Opened issue [#633](https://github.com/fractava/status/issues/633) in [fractava/status](https://github.com/fractava/status)
+5. ❗️ Opened issue [#1684](https://github.com/esphome/feature-requests/issues/1684) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
