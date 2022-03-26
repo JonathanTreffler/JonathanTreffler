@@ -189,9 +189,9 @@ I really hope public actions stay free 😂
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#98](https://github.com/gcormier/megadesk/issues/98) in [gcormier/megadesk](https://github.com/gcormier/megadesk)
 2. 🗣 Commented on [#98](https://github.com/gcormier/megadesk/issues/98) in [gcormier/megadesk](https://github.com/gcormier/megadesk)
-3. ❗️ Opened issue [#98](https://github.com/gcormier/megadesk/issues/98) in [gcormier/megadesk](https://github.com/gcormier/megadesk)
-4. ❗️ Closed issue [#633](https://github.com/fractava/status/issues/633) in [fractava/status](https://github.com/fractava/status)
-5. 🗣 Commented on [#633](https://github.com/fractava/status/issues/633) in [fractava/status](https://github.com/fractava/status)
+3. 🗣 Commented on [#98](https://github.com/gcormier/megadesk/issues/98) in [gcormier/megadesk](https://github.com/gcormier/megadesk)
+4. ❗️ Opened issue [#98](https://github.com/gcormier/megadesk/issues/98) in [gcormier/megadesk](https://github.com/gcormier/megadesk)
+5. ❗️ Closed issue [#633](https://github.com/fractava/status/issues/633) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
