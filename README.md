@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#224](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/224) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. 🎉 Merged PR [#237](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/237) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🎉 Merged PR [#233](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/233) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#212](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/212) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#238](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/238) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. ❗️ Opened issue [#634](https://github.com/fractava/status/issues/634) in [fractava/status](https://github.com/fractava/status)
+2. 🎉 Merged PR [#224](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/224) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#237](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/237) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🎉 Merged PR [#233](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/233) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#212](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/212) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
