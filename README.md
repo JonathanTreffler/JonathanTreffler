@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#648](https://github.com/fractava/status/issues/648) in [fractava/status](https://github.com/fractava/status)
-2. ❗️ Closed issue [#648](https://github.com/fractava/status/issues/648) in [fractava/status](https://github.com/fractava/status)
-3. ❗️ Closed issue [#647](https://github.com/fractava/status/issues/647) in [fractava/status](https://github.com/fractava/status)
-4. 🗣 Commented on [#647](https://github.com/fractava/status/issues/647) in [fractava/status](https://github.com/fractava/status)
-5. ❗️ Opened issue [#650](https://github.com/fractava/status/issues/650) in [fractava/status](https://github.com/fractava/status)
+1. ❗️ Closed issue [#651](https://github.com/fractava/status/issues/651) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#651](https://github.com/fractava/status/issues/651) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Opened issue [#651](https://github.com/fractava/status/issues/651) in [fractava/status](https://github.com/fractava/status)
+4. 🗣 Commented on [#648](https://github.com/fractava/status/issues/648) in [fractava/status](https://github.com/fractava/status)
+5. ❗️ Closed issue [#648](https://github.com/fractava/status/issues/648) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
