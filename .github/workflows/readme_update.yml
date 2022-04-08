@@ -39,7 +39,7 @@ jobs:
           node-version: '14'
             
       - name: SCC install
-        run: go get -u github.com/boyter/scc/
+        run: go install github.com/boyter/scc@latest
       
       - name: SCC
         run: scc ./projects/ --include-ext vue,js,py,pde,css,sh,html,php,ts,cpp,json,xml,md,h,java,bat,yml,yaml,hs --not-match .*\package-lock.json$ > scc.txt
