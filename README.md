@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/13) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#455](https://github.com/xaviml/controllerx/issues/455) in [xaviml/controllerx](https://github.com/xaviml/controllerx)
-3. ❗️ Opened issue [#658](https://github.com/fractava/status/issues/658) in [fractava/status](https://github.com/fractava/status)
-4. ❗️ Closed issue [#635](https://github.com/fractava/status/issues/635) in [fractava/status](https://github.com/fractava/status)
-5. 🗣 Commented on [#635](https://github.com/fractava/status/issues/635) in [fractava/status](https://github.com/fractava/status)
+1. 🎉 Merged PR [#12](https://github.com/JonathanTreffler/JonathanTreffler/pull/12) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
+2. 🎉 Merged PR [#13](https://github.com/JonathanTreffler/JonathanTreffler/pull/13) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
+3. 🗣 Commented on [#13](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/13) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🗣 Commented on [#455](https://github.com/xaviml/controllerx/issues/455) in [xaviml/controllerx](https://github.com/xaviml/controllerx)
+5. ❗️ Opened issue [#658](https://github.com/fractava/status/issues/658) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
