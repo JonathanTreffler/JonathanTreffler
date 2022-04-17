@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/JonathanTreffler/sharerenamer/issues/118) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-2. ❗️ Closed issue [#668](https://github.com/fractava/status/issues/668) in [fractava/status](https://github.com/fractava/status)
-3. 🗣 Commented on [#668](https://github.com/fractava/status/issues/668) in [fractava/status](https://github.com/fractava/status)
-4. ❗️ Opened issue [#668](https://github.com/fractava/status/issues/668) in [fractava/status](https://github.com/fractava/status)
-5. 🎉 Merged PR [#10](https://github.com/JonathanTreffler/hassio-repository-edge/pull/10) in [JonathanTreffler/hassio-repository-edge](https://github.com/JonathanTreffler/hassio-repository-edge)
+1. ❗️ Closed issue [#118](https://github.com/JonathanTreffler/sharerenamer/issues/118) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+2. 🗣 Commented on [#488](https://github.com/e-alfred/flowupload/issues/488) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+3. 🗣 Commented on [#118](https://github.com/JonathanTreffler/sharerenamer/issues/118) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. ❗️ Closed issue [#668](https://github.com/fractava/status/issues/668) in [fractava/status](https://github.com/fractava/status)
+5. 🗣 Commented on [#668](https://github.com/fractava/status/issues/668) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
