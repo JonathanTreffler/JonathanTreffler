@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#245](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/245) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. ❗️ Closed issue [#118](https://github.com/JonathanTreffler/sharerenamer/issues/118) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-3. 🗣 Commented on [#488](https://github.com/e-alfred/flowupload/issues/488) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-4. 🗣 Commented on [#118](https://github.com/JonathanTreffler/sharerenamer/issues/118) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-5. ❗️ Closed issue [#668](https://github.com/fractava/status/issues/668) in [fractava/status](https://github.com/fractava/status)
+1. 🎉 Merged PR [#230](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/230) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#225](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/225) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#223](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/223) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🎉 Merged PR [#239](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/239) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#245](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/245) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
