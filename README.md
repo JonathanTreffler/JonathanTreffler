@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/6) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#6](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/6) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🎉 Merged PR [#230](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/230) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#225](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/225) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#223](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/223) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. ❗️ Closed issue [#669](https://github.com/fractava/status/issues/669) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#669](https://github.com/fractava/status/issues/669) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Opened issue [#669](https://github.com/fractava/status/issues/669) in [fractava/status](https://github.com/fractava/status)
+4. 🗣 Commented on [#6](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/6) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. 🗣 Commented on [#6](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/6) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
