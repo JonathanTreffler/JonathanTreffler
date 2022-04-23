@@ -200,3 +200,7 @@ I really hope public actions stay free 😂
 - [DWAVE Quantum Computer Animation](https://www.youtube.com/watch?v=AcO8yO35ci8)
 - [ISC 2019: The Quantum Boys](https://www.youtube.com/watch?v=aM_pAA9FdYY)
 <!-- YOUTUBE:END -->
+
+## Sponsors (One-Time) :)
+- [@cliss](https://github.com/cliss)
+- [@traktuner](https://github.com/traktuner)
