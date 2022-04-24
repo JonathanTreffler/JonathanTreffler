@@ -39,12 +39,20 @@
 	</tr></thead>
 	<tbody><tr>
 		<th>JavaScript</th>
-		<th>143</th>
-		<th>27744</th>
+		<th>203</th>
+		<th>28358</th>
 		<th>4256</th>
 		<th>6054</th>
-		<th>17434</th>
+		<th>18048</th>
 		<th>3318</th>
+	</tr><tr>
+		<th>JSON</th>
+		<th>129</th>
+		<th>2500</th>
+		<th>3</th>
+		<th>0</th>
+		<th>2497</th>
+		<th>0</th>
 	</tr><tr>
 		<th>YAML</th>
 		<th>121</th>
@@ -68,14 +76,6 @@
 		<th>401</th>
 		<th>0</th>
 		<th>1377</th>
-		<th>0</th>
-	</tr><tr>
-		<th>JSON</th>
-		<th>69</th>
-		<th>2006</th>
-		<th>3</th>
-		<th>0</th>
-		<th>2003</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Java</th>
@@ -168,11 +168,11 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>683</th>
-		<th>57464</th>
+		<th>803</th>
+		<th>58572</th>
 		<th>7053</th>
 		<th>7815</th>
-		<th>42596</th>
+		<th>43704</th>
 		<th>4115</th>
 	</tr></tfoot>
 	</table>
@@ -180,7 +180,7 @@
 
 ## Github Action Statistics:
 <!-- /start_action_time/ -->
-5 months, 2 weeks, 6 days, 9 hours, 8 minutes, 37 seconds of Github Actions Runtime used in total. 
+5 months, 3 weeks, 7 hours, 53 minutes, 2 seconds of Github Actions Runtime used in total. 
 
 I really hope public actions stay free 😂 
 <!-- /end_action_time/ -->
