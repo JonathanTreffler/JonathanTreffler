@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#696](https://github.com/fractava/status/issues/696) in [fractava/status](https://github.com/fractava/status)
-2. 🗣 Commented on [#696](https://github.com/fractava/status/issues/696) in [fractava/status](https://github.com/fractava/status)
-3. ❗️ Opened issue [#696](https://github.com/fractava/status/issues/696) in [fractava/status](https://github.com/fractava/status)
-4. 🗣 Commented on [#357](https://github.com/linuxserver/docker-mods/issues/357) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)
-5. ❗️ Closed issue [#120](https://github.com/JonathanTreffler/sharerenamer/issues/120) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+1. 🎉 Merged PR [#69](https://github.com/fractava/biblio/pull/69) in [fractava/biblio](https://github.com/fractava/biblio)
+2. ❗️ Closed issue [#696](https://github.com/fractava/status/issues/696) in [fractava/status](https://github.com/fractava/status)
+3. 🗣 Commented on [#696](https://github.com/fractava/status/issues/696) in [fractava/status](https://github.com/fractava/status)
+4. ❗️ Opened issue [#696](https://github.com/fractava/status/issues/696) in [fractava/status](https://github.com/fractava/status)
+5. 🗣 Commented on [#357](https://github.com/linuxserver/docker-mods/issues/357) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
