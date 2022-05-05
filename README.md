@@ -40,11 +40,11 @@
 	<tbody><tr>
 		<th>JavaScript</th>
 		<th>203</th>
-		<th>28358</th>
-		<th>4256</th>
-		<th>6054</th>
-		<th>18048</th>
-		<th>3318</th>
+		<th>28448</th>
+		<th>4262</th>
+		<th>6053</th>
+		<th>18133</th>
+		<th>3321</th>
 	</tr><tr>
 		<th>JSON</th>
 		<th>129</th>
@@ -56,26 +56,26 @@
 	</tr><tr>
 		<th>YAML</th>
 		<th>121</th>
-		<th>4391</th>
+		<th>4392</th>
 		<th>587</th>
 		<th>400</th>
-		<th>3404</th>
+		<th>3405</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Vue</th>
 		<th>108</th>
-		<th>7936</th>
-		<th>538</th>
+		<th>7938</th>
+		<th>539</th>
 		<th>117</th>
-		<th>7281</th>
-		<th>172</th>
+		<th>7282</th>
+		<th>169</th>
 	</tr><tr>
 		<th>Markdown</th>
 		<th>85</th>
-		<th>1778</th>
-		<th>401</th>
+		<th>1780</th>
+		<th>402</th>
 		<th>0</th>
-		<th>1377</th>
+		<th>1378</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Java</th>
@@ -95,12 +95,12 @@
 		<th>275</th>
 	</tr><tr>
 		<th>PHP</th>
-		<th>22</th>
-		<th>717</th>
-		<th>140</th>
-		<th>99</th>
-		<th>478</th>
-		<th>7</th>
+		<th>26</th>
+		<th>963</th>
+		<th>178</th>
+		<th>128</th>
+		<th>657</th>
+		<th>13</th>
 	</tr><tr>
 		<th>HTML</th>
 		<th>19</th>
@@ -127,12 +127,12 @@
 		<th>0</th>
 	</tr><tr>
 		<th>Shell</th>
-		<th>9</th>
-		<th>85</th>
-		<th>22</th>
-		<th>12</th>
-		<th>51</th>
-		<th>2</th>
+		<th>11</th>
+		<th>111</th>
+		<th>30</th>
+		<th>14</th>
+		<th>67</th>
+		<th>3</th>
 	</tr><tr>
 		<th>Python</th>
 		<th>8</th>
@@ -168,12 +168,12 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>803</th>
-		<th>58572</th>
-		<th>7053</th>
-		<th>7815</th>
-		<th>43704</th>
-		<th>4115</th>
+		<th>809</th>
+		<th>58939</th>
+		<th>7107</th>
+		<th>7845</th>
+		<th>43987</th>
+		<th>4122</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
