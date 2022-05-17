@@ -55,11 +55,11 @@
 		<th>0</th>
 	</tr><tr>
 		<th>YAML</th>
-		<th>121</th>
-		<th>4392</th>
+		<th>122</th>
+		<th>4400</th>
 		<th>587</th>
 		<th>400</th>
-		<th>3405</th>
+		<th>3413</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Vue</th>
@@ -168,11 +168,11 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>809</th>
-		<th>58995</th>
+		<th>810</th>
+		<th>59003</th>
 		<th>7107</th>
 		<th>7845</th>
-		<th>44043</th>
+		<th>44051</th>
 		<th>4122</th>
 	</tr></tfoot>
 	</table>
