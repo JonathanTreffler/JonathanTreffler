@@ -40,18 +40,18 @@
 	<tbody><tr>
 		<th>JavaScript</th>
 		<th>203</th>
-		<th>28475</th>
+		<th>28476</th>
 		<th>4262</th>
 		<th>6053</th>
-		<th>18160</th>
+		<th>18161</th>
 		<th>3321</th>
 	</tr><tr>
 		<th>JSON</th>
 		<th>129</th>
-		<th>2527</th>
+		<th>2528</th>
 		<th>3</th>
 		<th>0</th>
-		<th>2524</th>
+		<th>2525</th>
 		<th>0</th>
 	</tr><tr>
 		<th>YAML</th>
@@ -169,10 +169,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>809</th>
-		<th>58993</th>
+		<th>58995</th>
 		<th>7107</th>
 		<th>7845</th>
-		<th>44041</th>
+		<th>44043</th>
 		<th>4122</th>
 	</tr></tfoot>
 	</table>
