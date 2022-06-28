@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#807](https://github.com/fractava/status/issues/807) in [fractava/status](https://github.com/fractava/status)
-2. 🗣 Commented on [#807](https://github.com/fractava/status/issues/807) in [fractava/status](https://github.com/fractava/status)
-3. ❗️ Opened issue [#807](https://github.com/fractava/status/issues/807) in [fractava/status](https://github.com/fractava/status)
-4. 🗣 Commented on [#806](https://github.com/fractava/status/issues/806) in [fractava/status](https://github.com/fractava/status)
-5. ❗️ Closed issue [#806](https://github.com/fractava/status/issues/806) in [fractava/status](https://github.com/fractava/status)
+1. 🗣 Commented on [#7](https://github.com/Grandfather-Paradox/paramount-dl/issues/7) in [Grandfather-Paradox/paramount-dl](https://github.com/Grandfather-Paradox/paramount-dl)
+2. 💪 Opened PR [#10](https://github.com/Grandfather-Paradox/paramount-dl/pull/10) in [Grandfather-Paradox/paramount-dl](https://github.com/Grandfather-Paradox/paramount-dl)
+3. ❗️ Closed issue [#807](https://github.com/fractava/status/issues/807) in [fractava/status](https://github.com/fractava/status)
+4. 🗣 Commented on [#807](https://github.com/fractava/status/issues/807) in [fractava/status](https://github.com/fractava/status)
+5. ❗️ Opened issue [#807](https://github.com/fractava/status/issues/807) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
