@@ -187,11 +187,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#495](https://github.com/e-alfred/flowupload/issues/495) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-2. 🗣 Commented on [#488](https://github.com/e-alfred/flowupload/issues/488) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
-3. 🗣 Commented on [#7](https://github.com/Grandfather-Paradox/paramount-dl/issues/7) in [Grandfather-Paradox/paramount-dl](https://github.com/Grandfather-Paradox/paramount-dl)
-4. 💪 Opened PR [#10](https://github.com/Grandfather-Paradox/paramount-dl/pull/10) in [Grandfather-Paradox/paramount-dl](https://github.com/Grandfather-Paradox/paramount-dl)
-5. ❗️ Closed issue [#807](https://github.com/fractava/status/issues/807) in [fractava/status](https://github.com/fractava/status)
+1. ❗️ Closed issue [#808](https://github.com/fractava/status/issues/808) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#808](https://github.com/fractava/status/issues/808) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Opened issue [#808](https://github.com/fractava/status/issues/808) in [fractava/status](https://github.com/fractava/status)
+4. 🗣 Commented on [#495](https://github.com/e-alfred/flowupload/issues/495) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
+5. 🗣 Commented on [#488](https://github.com/e-alfred/flowupload/issues/488) in [e-alfred/flowupload](https://github.com/e-alfred/flowupload)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
