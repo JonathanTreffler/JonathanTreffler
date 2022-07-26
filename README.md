@@ -1,10 +1,11 @@
 ![Internet not working gif](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
 
 ![](https://gpvc.arturio.dev/JonathanTreffler)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 ### Hi there, i am using Github :)
 
-- 🔭 I’m currently working on [fractava/notes-core](https://github.com/fractava/notes-core), [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer) and [nextcloud/news](https://github.com/nextcloud/news)
+- 🔭 I’m currently working on [fractava/notes-core](https://github.com/fractava/notes-core), [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 - 📫 How to reach me: mail@jonathan-treffler.de
 - ⚡ Fun fact: This Dino Animation is made by @saadeghi :)
 - ⚡ Fun fact: This Profile gets updated by Github Actions
