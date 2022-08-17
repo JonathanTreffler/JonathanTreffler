@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/6) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#17](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/17) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🗣 Commented on [#18](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/18) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. 🗣 Commented on [#20](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/20) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. ❗️ Closed issue [#1007](https://github.com/fractava/status/issues/1007) in [fractava/status](https://github.com/fractava/status)
+1. ❗️ Opened issue [#1008](https://github.com/fractava/status/issues/1008) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#6](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/6) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🗣 Commented on [#17](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/17) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🗣 Commented on [#18](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/18) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. 🗣 Commented on [#20](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/20) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
