@@ -4,7 +4,7 @@ Language                 Files     Lines   Blanks  Comments     Code Complexity
 JavaScript                 203     28504     4262      6053    18189       3321
 JSON                       129      2556        3         0     2553          0
 YAML                       122      4400      587       400     3413          0
-Vue                        108      7938      539       117     7282        169
+Vue                        108      7939      539       117     7283        169
 Markdown                    85      1782      402         0     1380          0
 Java                        35      2972      361       648     1963        276
 Processing                  33      2481      334       113     2034        275
@@ -18,10 +18,10 @@ Haskell                      2       210       60        17      133         19
 C Header                     1        31        9         5       17          0
 C++                          1        39        4         6       29          1
 ───────────────────────────────────────────────────────────────────────────────
-Total                      810     59061     7107      7845    44109       4122
+Total                      810     59062     7107      7845    44110       4122
 ───────────────────────────────────────────────────────────────────────────────
-Estimated Cost to Develop $1,439,954
-Estimated Schedule Effort 17.622331 months
-Estimated People Required 9.679216
+Estimated Cost to Develop $1,439,989
+Estimated Schedule Effort 17.622491 months
+Estimated People Required 9.679359
 ───────────────────────────────────────────────────────────────────────────────
 

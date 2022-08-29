@@ -65,10 +65,10 @@
 	</tr><tr>
 		<th>Vue</th>
 		<th>108</th>
-		<th>7938</th>
+		<th>7939</th>
 		<th>539</th>
 		<th>117</th>
-		<th>7282</th>
+		<th>7283</th>
 		<th>169</th>
 	</tr><tr>
 		<th>Markdown</th>
@@ -170,10 +170,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>810</th>
-		<th>59061</th>
+		<th>59062</th>
 		<th>7107</th>
 		<th>7845</th>
-		<th>44109</th>
+		<th>44110</th>
 		<th>4122</th>
 	</tr></tfoot>
 	</table>
