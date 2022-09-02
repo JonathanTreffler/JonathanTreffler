@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/17) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#17](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/17) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🗣 Commented on [#7](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/7) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. 🗣 Commented on [#22](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/22) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. 🗣 Commented on [#21](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/21) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. 🗣 Commented on [#22](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/22) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. ❗️ Closed issue [#17](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/17) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🗣 Commented on [#17](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/17) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🗣 Commented on [#7](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/7) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. 🗣 Commented on [#22](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/22) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
