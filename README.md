@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/46) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
-2. 🎉 Merged PR [#73](https://github.com/JonathanTreffler/my-vue-eslintrc/pull/73) in [JonathanTreffler/my-vue-eslintrc](https://github.com/JonathanTreffler/my-vue-eslintrc)
-3. ❗️ Closed issue [#1169](https://github.com/fractava/status/issues/1169) in [fractava/status](https://github.com/fractava/status)
-4. 🗣 Commented on [#1169](https://github.com/fractava/status/issues/1169) in [fractava/status](https://github.com/fractava/status)
-5. ❗️ Closed issue [#1276](https://github.com/fractava/status/issues/1276) in [fractava/status](https://github.com/fractava/status)
+1. 🎉 Merged PR [#293](https://github.com/fractava/notes-core/pull/293) in [fractava/notes-core](https://github.com/fractava/notes-core)
+2. 🎉 Merged PR [#292](https://github.com/fractava/notes-core/pull/292) in [fractava/notes-core](https://github.com/fractava/notes-core)
+3. 🎉 Merged PR [#197](https://github.com/fractava/notes-core/pull/197) in [fractava/notes-core](https://github.com/fractava/notes-core)
+4. ❗️ Closed issue [#9](https://github.com/fractava/notes-core/issues/9) in [fractava/notes-core](https://github.com/fractava/notes-core)
+5. 🎉 Merged PR [#209](https://github.com/fractava/notes-core/pull/209) in [fractava/notes-core](https://github.com/fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
