@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#254](https://github.com/fractava/notes-core/pull/254) in [fractava/notes-core](https://github.com/fractava/notes-core)
-2. 🎉 Merged PR [#301](https://github.com/fractava/notes-core/pull/301) in [fractava/notes-core](https://github.com/fractava/notes-core)
-3. 🗣 Commented on [#316](https://github.com/fractava/notes-core/issues/316) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. 🎉 Merged PR [#293](https://github.com/fractava/notes-core/pull/293) in [fractava/notes-core](https://github.com/fractava/notes-core)
-5. 🎉 Merged PR [#292](https://github.com/fractava/notes-core/pull/292) in [fractava/notes-core](https://github.com/fractava/notes-core)
+1. 🎉 Merged PR [#312](https://github.com/fractava/notes-core/pull/312) in [fractava/notes-core](https://github.com/fractava/notes-core)
+2. 🎉 Merged PR [#241](https://github.com/fractava/notes-core/pull/241) in [fractava/notes-core](https://github.com/fractava/notes-core)
+3. 🎉 Merged PR [#318](https://github.com/fractava/notes-core/pull/318) in [fractava/notes-core](https://github.com/fractava/notes-core)
+4. 🎉 Merged PR [#289](https://github.com/fractava/notes-core/pull/289) in [fractava/notes-core](https://github.com/fractava/notes-core)
+5. 🎉 Merged PR [#267](https://github.com/fractava/notes-core/pull/267) in [fractava/notes-core](https://github.com/fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
