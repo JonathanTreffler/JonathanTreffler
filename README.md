@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/JonathanTreffler/canvas2image-2/issues/8) in [JonathanTreffler/canvas2image-2](https://github.com/JonathanTreffler/canvas2image-2)
-2. 🗣 Commented on [#8](https://github.com/JonathanTreffler/canvas2image-2/issues/8) in [JonathanTreffler/canvas2image-2](https://github.com/JonathanTreffler/canvas2image-2)
-3. ❗️ Closed issue [#1364](https://github.com/fractava/status/issues/1364) in [fractava/status](https://github.com/fractava/status)
-4. 🗣 Commented on [#1364](https://github.com/fractava/status/issues/1364) in [fractava/status](https://github.com/fractava/status)
-5. ❗️ Closed issue [#1363](https://github.com/fractava/status/issues/1363) in [fractava/status](https://github.com/fractava/status)
+1. ❗️ Closed issue [#1365](https://github.com/fractava/status/issues/1365) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#1365](https://github.com/fractava/status/issues/1365) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Opened issue [#1365](https://github.com/fractava/status/issues/1365) in [fractava/status](https://github.com/fractava/status)
+4. ❗️ Closed issue [#8](https://github.com/JonathanTreffler/canvas2image-2/issues/8) in [JonathanTreffler/canvas2image-2](https://github.com/JonathanTreffler/canvas2image-2)
+5. 🗣 Commented on [#8](https://github.com/JonathanTreffler/canvas2image-2/issues/8) in [JonathanTreffler/canvas2image-2](https://github.com/JonathanTreffler/canvas2image-2)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
