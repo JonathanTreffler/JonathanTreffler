@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#34](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/34) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#36](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/36) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. ❗️ Closed issue [#36](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/36) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. ❗️ Closed issue [#1762](https://github.com/fractava/status/issues/1762) in [fractava/status](https://github.com/fractava/status)
-5. 🗣 Commented on [#1762](https://github.com/fractava/status/issues/1762) in [fractava/status](https://github.com/fractava/status)
+1. ❗️ Reopened issue [#34](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/34) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. ❗️ Closed issue [#34](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/34) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🗣 Commented on [#36](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/36) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. ❗️ Closed issue [#36](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/36) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. ❗️ Closed issue [#1762](https://github.com/fractava/status/issues/1762) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
