@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2119](https://github.com/fractava/status/issues/2119) in [fractava/status](https://github.com/fractava/status)
-2. 🗣 Commented on [#2119](https://github.com/fractava/status/issues/2119) in [fractava/status](https://github.com/fractava/status)
-3. ❗️ Opened issue [#2119](https://github.com/fractava/status/issues/2119) in [fractava/status](https://github.com/fractava/status)
-4. 🗣 Commented on [#38](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/38) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. ❗️ Closed issue [#2118](https://github.com/fractava/status/issues/2118) in [fractava/status](https://github.com/fractava/status)
+1. ❗️ Closed issue [#2120](https://github.com/fractava/status/issues/2120) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#2120](https://github.com/fractava/status/issues/2120) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Opened issue [#2120](https://github.com/fractava/status/issues/2120) in [fractava/status](https://github.com/fractava/status)
+4. ❗️ Closed issue [#2119](https://github.com/fractava/status/issues/2119) in [fractava/status](https://github.com/fractava/status)
+5. 🗣 Commented on [#2119](https://github.com/fractava/status/issues/2119) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
