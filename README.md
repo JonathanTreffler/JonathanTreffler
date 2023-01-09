@@ -72,11 +72,11 @@
 		<th>162</th>
 	</tr><tr>
 		<th>Markdown</th>
-		<th>85</th>
-		<th>1773</th>
+		<th>86</th>
+		<th>1781</th>
 		<th>398</th>
 		<th>0</th>
-		<th>1375</th>
+		<th>1383</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Java</th>
@@ -88,12 +88,12 @@
 		<th>276</th>
 	</tr><tr>
 		<th>Processing</th>
-		<th>33</th>
-		<th>2481</th>
-		<th>334</th>
-		<th>113</th>
-		<th>2034</th>
-		<th>275</th>
+		<th>32</th>
+		<th>2434</th>
+		<th>330</th>
+		<th>107</th>
+		<th>1997</th>
+		<th>268</th>
 	</tr><tr>
 		<th>PHP</th>
 		<th>26</th>
@@ -170,11 +170,11 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>812</th>
-		<th>59069</th>
-		<th>7104</th>
-		<th>7857</th>
-		<th>44108</th>
-		<th>4109</th>
+		<th>59030</th>
+		<th>7100</th>
+		<th>7851</th>
+		<th>44079</th>
+		<th>4102</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
