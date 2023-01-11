@@ -73,10 +73,10 @@
 	</tr><tr>
 		<th>Markdown</th>
 		<th>86</th>
-		<th>1781</th>
-		<th>398</th>
+		<th>1783</th>
+		<th>399</th>
 		<th>0</th>
-		<th>1383</th>
+		<th>1384</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Java</th>
@@ -170,10 +170,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>812</th>
-		<th>59030</th>
-		<th>7100</th>
+		<th>59032</th>
+		<th>7101</th>
 		<th>7851</th>
-		<th>44079</th>
+		<th>44080</th>
 		<th>4102</th>
 	</tr></tfoot>
 	</table>
