@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#30](https://github.com/JonathanTreffler/status/issues/30) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🗣 Commented on [#30](https://github.com/JonathanTreffler/status/issues/30) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. ❗️ Closed issue [#29](https://github.com/JonathanTreffler/status/issues/29) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. 🗣 Commented on [#29](https://github.com/JonathanTreffler/status/issues/29) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. ❗️ Closed issue [#28](https://github.com/JonathanTreffler/status/issues/28) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+1. ❗️ Opened issue [#33](https://github.com/JonathanTreffler/status/issues/33) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+2. ❗️ Opened issue [#32](https://github.com/JonathanTreffler/status/issues/32) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. ❗️ Opened issue [#31](https://github.com/JonathanTreffler/status/issues/31) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. ❗️ Closed issue [#30](https://github.com/JonathanTreffler/status/issues/30) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. 🗣 Commented on [#30](https://github.com/JonathanTreffler/status/issues/30) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
