@@ -57,10 +57,10 @@
 	</tr><tr>
 		<th>YAML</th>
 		<th>122</th>
-		<th>4400</th>
+		<th>4396</th>
 		<th>587</th>
 		<th>400</th>
-		<th>3413</th>
+		<th>3409</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Vue</th>
@@ -170,10 +170,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>812</th>
-		<th>59048</th>
+		<th>59044</th>
 		<th>7101</th>
 		<th>7851</th>
-		<th>44096</th>
+		<th>44092</th>
 		<th>4102</th>
 	</tr></tfoot>
 	</table>
