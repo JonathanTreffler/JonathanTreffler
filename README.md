@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#192](https://github.com/fractava/notes-core/pull/192) in [fractava/notes-core](https://github.com/fractava/notes-core)
-2. 🎉 Merged PR [#369](https://github.com/fractava/notes-core/pull/369) in [fractava/notes-core](https://github.com/fractava/notes-core)
-3. 🎉 Merged PR [#368](https://github.com/fractava/notes-core/pull/368) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. 🎉 Merged PR [#338](https://github.com/fractava/notes-core/pull/338) in [fractava/notes-core](https://github.com/fractava/notes-core)
-5. 🎉 Merged PR [#364](https://github.com/fractava/notes-core/pull/364) in [fractava/notes-core](https://github.com/fractava/notes-core)
+1. 🗣 Commented on [#19](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/19) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🎉 Merged PR [#192](https://github.com/fractava/notes-core/pull/192) in [fractava/notes-core](https://github.com/fractava/notes-core)
+3. 🎉 Merged PR [#369](https://github.com/fractava/notes-core/pull/369) in [fractava/notes-core](https://github.com/fractava/notes-core)
+4. 🎉 Merged PR [#368](https://github.com/fractava/notes-core/pull/368) in [fractava/notes-core](https://github.com/fractava/notes-core)
+5. 🎉 Merged PR [#338](https://github.com/fractava/notes-core/pull/338) in [fractava/notes-core](https://github.com/fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
