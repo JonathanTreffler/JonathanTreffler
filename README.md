@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/JonathanTreffler/sharerenamer/issues/220) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-2. ❗️ Closed issue [#220](https://github.com/JonathanTreffler/sharerenamer/issues/220) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-3. 💪 Opened PR [#376](https://github.com/fractava/notes-core/pull/376) in [fractava/notes-core](https://github.com/fractava/notes-core)
-4. ❗️ Opened issue [#375](https://github.com/fractava/notes-core/issues/375) in [fractava/notes-core](https://github.com/fractava/notes-core)
-5. ❗️ Closed issue [#2668](https://github.com/fractava/status/issues/2668) in [fractava/status](https://github.com/fractava/status)
+1. ❗️ Opened issue [#2671](https://github.com/fractava/status/issues/2671) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#220](https://github.com/JonathanTreffler/sharerenamer/issues/220) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+3. ❗️ Closed issue [#220](https://github.com/JonathanTreffler/sharerenamer/issues/220) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. 💪 Opened PR [#376](https://github.com/fractava/notes-core/pull/376) in [fractava/notes-core](https://github.com/fractava/notes-core)
+5. ❗️ Opened issue [#375](https://github.com/fractava/notes-core/issues/375) in [fractava/notes-core](https://github.com/fractava/notes-core)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
