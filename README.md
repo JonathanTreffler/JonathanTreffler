@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2694](https://github.com/fractava/status/issues/2694) in [fractava/status](https://github.com/fractava/status)
-2. 🗣 Commented on [#2694](https://github.com/fractava/status/issues/2694) in [fractava/status](https://github.com/fractava/status)
-3. ❗️ Opened issue [#2694](https://github.com/fractava/status/issues/2694) in [fractava/status](https://github.com/fractava/status)
-4. 🎉 Merged PR [#203](https://github.com/JonathanTreffler/sharerenamer/pull/203) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-5. 🗣 Commented on [#219](https://github.com/JonathanTreffler/sharerenamer/issues/219) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+1. ❗️ Opened issue [#2695](https://github.com/fractava/status/issues/2695) in [fractava/status](https://github.com/fractava/status)
+2. ❗️ Closed issue [#2694](https://github.com/fractava/status/issues/2694) in [fractava/status](https://github.com/fractava/status)
+3. 🗣 Commented on [#2694](https://github.com/fractava/status/issues/2694) in [fractava/status](https://github.com/fractava/status)
+4. ❗️ Opened issue [#2694](https://github.com/fractava/status/issues/2694) in [fractava/status](https://github.com/fractava/status)
+5. 🎉 Merged PR [#203](https://github.com/JonathanTreffler/sharerenamer/pull/203) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
