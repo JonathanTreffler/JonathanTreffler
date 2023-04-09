@@ -57,10 +57,10 @@
 	</tr><tr>
 		<th>YAML</th>
 		<th>122</th>
-		<th>4396</th>
+		<th>4399</th>
 		<th>587</th>
-		<th>400</th>
-		<th>3409</th>
+		<th>402</th>
+		<th>3410</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Vue</th>
@@ -129,10 +129,10 @@
 	</tr><tr>
 		<th>Shell</th>
 		<th>11</th>
-		<th>111</th>
+		<th>112</th>
 		<th>30</th>
 		<th>14</th>
-		<th>67</th>
+		<th>68</th>
 		<th>3</th>
 	</tr><tr>
 		<th>Python</th>
@@ -170,10 +170,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>812</th>
-		<th>59133</th>
+		<th>59137</th>
 		<th>7101</th>
-		<th>7853</th>
-		<th>44179</th>
+		<th>7855</th>
+		<th>44181</th>
 		<th>4107</th>
 	</tr></tfoot>
 	</table>
