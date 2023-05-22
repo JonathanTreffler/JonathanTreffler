@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#357](https://github.com/linuxserver/docker-mods/issues/357) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)
-2. ❗️ Closed issue [#2875](https://github.com/fractava/status/issues/2875) in [fractava/status](https://github.com/fractava/status)
-3. 🗣 Commented on [#2875](https://github.com/fractava/status/issues/2875) in [fractava/status](https://github.com/fractava/status)
-4. ❗️ Opened issue [#2875](https://github.com/fractava/status/issues/2875) in [fractava/status](https://github.com/fractava/status)
-5. ❗️ Closed issue [#2874](https://github.com/fractava/status/issues/2874) in [fractava/status](https://github.com/fractava/status)
+1. 🗣 Commented on [#2876](https://github.com/fractava/status/issues/2876) in [fractava/status](https://github.com/fractava/status)
+2. ❗️ Closed issue [#2876](https://github.com/fractava/status/issues/2876) in [fractava/status](https://github.com/fractava/status)
+3. ❗️ Opened issue [#2876](https://github.com/fractava/status/issues/2876) in [fractava/status](https://github.com/fractava/status)
+4. 🗣 Commented on [#357](https://github.com/linuxserver/docker-mods/issues/357) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)
+5. ❗️ Closed issue [#2875](https://github.com/fractava/status/issues/2875) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
