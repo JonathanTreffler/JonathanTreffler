@@ -197,6 +197,7 @@ I really hope public actions stay free 😂
 
 ## Youtube Activity:
 <!-- YOUTUBE:START -->
+- [Countdown: Wann tritt Scheuer zurück ?](https://www.youtube.com/watch?v=hw3X9rR3I1c)
 - [Countdown: Wann tritt Scheuer zurück ?](https://www.youtube.com/watch?v=OvEQBAlHRs4)
 - [DWAVE Quantum Computer Animation](https://www.youtube.com/watch?v=AcO8yO35ci8)
 - [ISC 2019: The Quantum Boys](https://www.youtube.com/watch?v=aM_pAA9FdYY)
