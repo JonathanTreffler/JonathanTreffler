@@ -189,10 +189,10 @@ I really hope public actions stay free 😂
 ## Github Activity:
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#3190](https://github.com/fractava/status/issues/3190) in [fractava/status](https://github.com/fractava/status)
-2. 🗣 Commented on [#3190](https://github.com/fractava/status/issues/3190) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#3190](https://github.com/fractava/status/issues/3190#issuecomment-1633911095) in [fractava/status](https://github.com/fractava/status)
 3. ❗ Opened issue [#3190](https://github.com/fractava/status/issues/3190) in [fractava/status](https://github.com/fractava/status)
 4. 🔒 Closed issue [#3189](https://github.com/fractava/status/issues/3189) in [fractava/status](https://github.com/fractava/status)
-5. 🗣 Commented on [#3189](https://github.com/fractava/status/issues/3189) in [fractava/status](https://github.com/fractava/status)
+5. 🗣 Commented on [#3189](https://github.com/fractava/status/issues/3189#issuecomment-1632126391) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
