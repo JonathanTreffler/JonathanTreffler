@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#323](https://github.com/fractava/biblio/pull/323#issuecomment-1648443491) in [fractava/biblio](https://github.com/fractava/biblio)
-2. 🗣 Commented on [#290](https://github.com/fractava/biblio/pull/290#issuecomment-1648436813) in [fractava/biblio](https://github.com/fractava/biblio)
-3. 🔒 Closed issue [#3254](https://github.com/fractava/status/issues/3254) in [fractava/status](https://github.com/fractava/status)
-4. 🗣 Commented on [#3254](https://github.com/fractava/status/issues/3254#issuecomment-1647935111) in [fractava/status](https://github.com/fractava/status)
-5. ❗ Opened issue [#3254](https://github.com/fractava/status/issues/3254) in [fractava/status](https://github.com/fractava/status)
+1. 🗣 Commented on [#305](https://github.com/fractava/biblio/pull/305#issuecomment-1648456728) in [fractava/biblio](https://github.com/fractava/biblio)
+2. 🎉 Merged PR [#313](https://github.com/fractava/biblio/pull/313) in [fractava/biblio](https://github.com/fractava/biblio)
+3. 🗣 Commented on [#313](https://github.com/fractava/biblio/pull/313#issuecomment-1648453643) in [fractava/biblio](https://github.com/fractava/biblio)
+4. 🎉 Merged PR [#330](https://github.com/fractava/biblio/pull/330) in [fractava/biblio](https://github.com/fractava/biblio)
+5. 🎉 Merged PR [#329](https://github.com/fractava/biblio/pull/329) in [fractava/biblio](https://github.com/fractava/biblio)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
