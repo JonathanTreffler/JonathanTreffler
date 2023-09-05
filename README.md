@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3535](https://github.com/fractava/status/issues/3535) in [fractava/status](https://github.com/fractava/status)
-2. 🗣 Commented on [#3535](https://github.com/fractava/status/issues/3535#issuecomment-1707012192) in [fractava/status](https://github.com/fractava/status)
-3. ❗ Opened issue [#3543](https://github.com/fractava/status/issues/3543) in [fractava/status](https://github.com/fractava/status)
-4. ❗ Opened issue [#3542](https://github.com/fractava/status/issues/3542) in [fractava/status](https://github.com/fractava/status)
-5. ❗ Opened issue [#3541](https://github.com/fractava/status/issues/3541) in [fractava/status](https://github.com/fractava/status)
+1. 🗣 Commented on [#3541](https://github.com/fractava/status/issues/3541#issuecomment-1707042610) in [fractava/status](https://github.com/fractava/status)
+2. 🔒 Closed issue [#3541](https://github.com/fractava/status/issues/3541) in [fractava/status](https://github.com/fractava/status)
+3. 🔒 Closed issue [#3539](https://github.com/fractava/status/issues/3539) in [fractava/status](https://github.com/fractava/status)
+4. 🗣 Commented on [#3539](https://github.com/fractava/status/issues/3539#issuecomment-1707039124) in [fractava/status](https://github.com/fractava/status)
+5. 🔒 Closed issue [#3535](https://github.com/fractava/status/issues/3535) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
