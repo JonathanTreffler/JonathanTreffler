@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#282](https://github.com/fractava/biblio/issues/282) in [fractava/biblio](https://github.com/fractava/biblio)
-2. 🗣 Commented on [#282](https://github.com/fractava/biblio/issues/282#issuecomment-1732318523) in [fractava/biblio](https://github.com/fractava/biblio)
-3. 💪 Opened PR [#592](https://github.com/nextcloud/docker-ci/pull/592) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
-4. 🔒 Closed issue [#3704](https://github.com/fractava/status/issues/3704) in [fractava/status](https://github.com/fractava/status)
-5. 🗣 Commented on [#3704](https://github.com/fractava/status/issues/3704#issuecomment-1730584437) in [fractava/status](https://github.com/fractava/status)
+1. ❗ Opened issue [#3705](https://github.com/fractava/status/issues/3705) in [fractava/status](https://github.com/fractava/status)
+2. 🔒 Closed issue [#282](https://github.com/fractava/biblio/issues/282) in [fractava/biblio](https://github.com/fractava/biblio)
+3. 🗣 Commented on [#282](https://github.com/fractava/biblio/issues/282#issuecomment-1732318523) in [fractava/biblio](https://github.com/fractava/biblio)
+4. 💪 Opened PR [#592](https://github.com/nextcloud/docker-ci/pull/592) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
+5. 🔒 Closed issue [#3704](https://github.com/fractava/status/issues/3704) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
