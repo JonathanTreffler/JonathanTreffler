@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/18#issuecomment-1760490310) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🔒 Closed issue [#3815](https://github.com/fractava/status/issues/3815) in [fractava/status](https://github.com/fractava/status)
-3. 🗣 Commented on [#3815](https://github.com/fractava/status/issues/3815#issuecomment-1756100473) in [fractava/status](https://github.com/fractava/status)
-4. ❗ Opened issue [#3815](https://github.com/fractava/status/issues/3815) in [fractava/status](https://github.com/fractava/status)
-5. ❗ Opened issue [#386](https://github.com/fractava/biblio/issues/386) in [fractava/biblio](https://github.com/fractava/biblio)
+1. 🚀 Published release [v1.5](https://github.com/JonathanTreffler/backblaze-personal-wine-container/releases/tag/v1.5) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🗣 Commented on [#18](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/18#issuecomment-1760490310) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🔒 Closed issue [#3815](https://github.com/fractava/status/issues/3815) in [fractava/status](https://github.com/fractava/status)
+4. 🗣 Commented on [#3815](https://github.com/fractava/status/issues/3815#issuecomment-1756100473) in [fractava/status](https://github.com/fractava/status)
+5. ❗ Opened issue [#3815](https://github.com/fractava/status/issues/3815) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
