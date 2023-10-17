@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#18](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/18) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🚀 Published release [v1.5](https://github.com/JonathanTreffler/backblaze-personal-wine-container/releases/tag/v1.5) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🗣 Commented on [#18](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/18#issuecomment-1760490310) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. 🔒 Closed issue [#3815](https://github.com/fractava/status/issues/3815) in [fractava/status](https://github.com/fractava/status)
-5. 🗣 Commented on [#3815](https://github.com/fractava/status/issues/3815#issuecomment-1756100473) in [fractava/status](https://github.com/fractava/status)
+1. 🔒 Closed issue [#386](https://github.com/fractava/biblio/issues/386) in [fractava/biblio](https://github.com/fractava/biblio)
+2. 🗣 Commented on [#386](https://github.com/fractava/biblio/issues/386#issuecomment-1766096356) in [fractava/biblio](https://github.com/fractava/biblio)
+3. 🔒 Closed issue [#18](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/18) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🚀 Published release [v1.5](https://github.com/JonathanTreffler/backblaze-personal-wine-container/releases/tag/v1.5) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. 🗣 Commented on [#18](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/18#issuecomment-1760490310) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
