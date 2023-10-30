@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#408](https://github.com/fractava/biblio/pull/408) in [fractava/biblio](https://github.com/fractava/biblio)
-2. 🎉 Merged PR [#404](https://github.com/fractava/biblio/pull/404) in [fractava/biblio](https://github.com/fractava/biblio)
-3. 🗣 Commented on [#2814](https://github.com/TeamPiped/Piped/issues/2814#issuecomment-1784156947) in [TeamPiped/Piped](https://github.com/TeamPiped/Piped)
-4. 🔒 Closed issue [#3829](https://github.com/fractava/status/issues/3829) in [fractava/status](https://github.com/fractava/status)
-5. 🗣 Commented on [#3829](https://github.com/fractava/status/issues/3829#issuecomment-1783939774) in [fractava/status](https://github.com/fractava/status)
+1. 🎉 Merged PR [#407](https://github.com/fractava/biblio/pull/407) in [fractava/biblio](https://github.com/fractava/biblio)
+2. 🎉 Merged PR [#408](https://github.com/fractava/biblio/pull/408) in [fractava/biblio](https://github.com/fractava/biblio)
+3. 🎉 Merged PR [#404](https://github.com/fractava/biblio/pull/404) in [fractava/biblio](https://github.com/fractava/biblio)
+4. 🗣 Commented on [#2814](https://github.com/TeamPiped/Piped/issues/2814#issuecomment-1784156947) in [TeamPiped/Piped](https://github.com/TeamPiped/Piped)
+5. 🔒 Closed issue [#3829](https://github.com/fractava/status/issues/3829) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
