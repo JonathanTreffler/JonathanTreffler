@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4808](https://github.com/nextcloud-libraries/nextcloud-vue/pull/4808#issuecomment-1808583713) in [nextcloud-libraries/nextcloud-vue](https://github.com/nextcloud-libraries/nextcloud-vue)
-2. ❌ Closed PR [#4808](https://github.com/nextcloud-libraries/nextcloud-vue/pull/4808) in [nextcloud-libraries/nextcloud-vue](https://github.com/nextcloud-libraries/nextcloud-vue)
-3. 🗣 Commented on [#4808](https://github.com/nextcloud-libraries/nextcloud-vue/pull/4808#issuecomment-1808356190) in [nextcloud-libraries/nextcloud-vue](https://github.com/nextcloud-libraries/nextcloud-vue)
-4. 💪 Opened PR [#4808](https://github.com/nextcloud-libraries/nextcloud-vue/pull/4808) in [nextcloud-libraries/nextcloud-vue](https://github.com/nextcloud-libraries/nextcloud-vue)
-5. 🎉 Merged PR [#427](https://github.com/fractava/biblio/pull/427) in [fractava/biblio](https://github.com/fractava/biblio)
+1. 🔒 Closed issue [#3851](https://github.com/fractava/status/issues/3851) in [fractava/status](https://github.com/fractava/status)
+2. 🗣 Commented on [#3851](https://github.com/fractava/status/issues/3851#issuecomment-1808752880) in [fractava/status](https://github.com/fractava/status)
+3. ❗ Opened issue [#3851](https://github.com/fractava/status/issues/3851) in [fractava/status](https://github.com/fractava/status)
+4. 🗣 Commented on [#4808](https://github.com/nextcloud-libraries/nextcloud-vue/pull/4808#issuecomment-1808583713) in [nextcloud-libraries/nextcloud-vue](https://github.com/nextcloud-libraries/nextcloud-vue)
+5. ❌ Closed PR [#4808](https://github.com/nextcloud-libraries/nextcloud-vue/pull/4808) in [nextcloud-libraries/nextcloud-vue](https://github.com/nextcloud-libraries/nextcloud-vue)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
