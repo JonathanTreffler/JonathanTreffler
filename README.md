@@ -40,43 +40,51 @@
 	</tr></thead>
 	<tbody><tr>
 		<th>JavaScript</th>
-		<th>206</th>
-		<th>28605</th>
-		<th>4259</th>
-		<th>6069</th>
-		<th>18277</th>
-		<th>3320</th>
-	</tr><tr>
-		<th>JSON</th>
-		<th>129</th>
-		<th>2604</th>
-		<th>3</th>
-		<th>0</th>
-		<th>2601</th>
-		<th>0</th>
-	</tr><tr>
-		<th>YAML</th>
-		<th>122</th>
-		<th>4396</th>
-		<th>586</th>
-		<th>402</th>
-		<th>3408</th>
-		<th>0</th>
+		<th>205</th>
+		<th>33885</th>
+		<th>4455</th>
+		<th>6460</th>
+		<th>22970</th>
+		<th>3448</th>
 	</tr><tr>
 		<th>Vue</th>
-		<th>108</th>
-		<th>7919</th>
-		<th>543</th>
-		<th>134</th>
-		<th>7242</th>
-		<th>162</th>
+		<th>160</th>
+		<th>13038</th>
+		<th>939</th>
+		<th>94</th>
+		<th>12005</th>
+		<th>294</th>
+	</tr><tr>
+		<th>YAML</th>
+		<th>129</th>
+		<th>4759</th>
+		<th>659</th>
+		<th>414</th>
+		<th>3686</th>
+		<th>0</th>
+	</tr><tr>
+		<th>JSON</th>
+		<th>115</th>
+		<th>5554</th>
+		<th>3</th>
+		<th>0</th>
+		<th>5551</th>
+		<th>0</th>
+	</tr><tr>
+		<th>PHP</th>
+		<th>102</th>
+		<th>7275</th>
+		<th>1332</th>
+		<th>713</th>
+		<th>5230</th>
+		<th>280</th>
 	</tr><tr>
 		<th>Markdown</th>
-		<th>86</th>
-		<th>1783</th>
-		<th>399</th>
+		<th>85</th>
+		<th>1778</th>
+		<th>397</th>
 		<th>0</th>
-		<th>1384</th>
+		<th>1381</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Java</th>
@@ -94,14 +102,6 @@
 		<th>107</th>
 		<th>1997</th>
 		<th>268</th>
-	</tr><tr>
-		<th>PHP</th>
-		<th>28</th>
-		<th>1130</th>
-		<th>208</th>
-		<th>178</th>
-		<th>744</th>
-		<th>18</th>
 	</tr><tr>
 		<th>HTML</th>
 		<th>18</th>
@@ -121,10 +121,10 @@
 	</tr><tr>
 		<th>XML</th>
 		<th>12</th>
-		<th>214</th>
-		<th>4</th>
+		<th>238</th>
+		<th>5</th>
 		<th>0</th>
-		<th>210</th>
+		<th>233</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Shell</th>
@@ -169,12 +169,12 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>814</th>
-		<th>59315</th>
-		<th>7134</th>
-		<th>7924</th>
-		<th>44257</th>
-		<th>4114</th>
+		<th>931</th>
+		<th>79191</th>
+		<th>8922</th>
+		<th>8822</th>
+		<th>61447</th>
+		<th>4636</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
