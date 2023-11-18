@@ -121,9 +121,6 @@
 [submodule "projects/my-vue-stylelintrc"]
 	path = projects/my-vue-stylelintrc
 	url = https://github.com/JonathanTreffler/my-vue-stylelintrc
-[submodule "projects/home-assistant-christmas-theme"]
-	path = projects/home-assistant-christmas-theme
-	url = https://github.com/JonathanTreffler/home-assistant-christmas-theme
 [submodule "projects/Programmierung_Uebungsblatt_2_Aufgabe_3"]
 	path = projects/Programmierung_Uebungsblatt_2_Aufgabe_3
 	url = https://github.com/Programmierung-Nils-Jonathan/Programmierung_Uebungsblatt_2_Aufgabe_3
