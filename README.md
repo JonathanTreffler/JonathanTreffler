@@ -48,12 +48,12 @@
 		<th>3448</th>
 	</tr><tr>
 		<th>Vue</th>
-		<th>160</th>
-		<th>13038</th>
-		<th>939</th>
+		<th>161</th>
+		<th>13135</th>
+		<th>941</th>
 		<th>94</th>
-		<th>12005</th>
-		<th>294</th>
+		<th>12100</th>
+		<th>296</th>
 	</tr><tr>
 		<th>YAML</th>
 		<th>129</th>
@@ -169,12 +169,12 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>947</th>
-		<th>80247</th>
-		<th>8922</th>
+		<th>948</th>
+		<th>80344</th>
+		<th>8924</th>
 		<th>8822</th>
-		<th>62503</th>
-		<th>4636</th>
+		<th>62598</th>
+		<th>4638</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
