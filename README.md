@@ -41,19 +41,19 @@
 	<tbody><tr>
 		<th>JavaScript</th>
 		<th>214</th>
-		<th>34651</th>
-		<th>4455</th>
+		<th>34679</th>
+		<th>4458</th>
 		<th>6460</th>
-		<th>23736</th>
-		<th>3448</th>
+		<th>23761</th>
+		<th>3450</th>
 	</tr><tr>
 		<th>Vue</th>
-		<th>161</th>
-		<th>13204</th>
-		<th>947</th>
+		<th>162</th>
+		<th>13376</th>
+		<th>965</th>
 		<th>94</th>
-		<th>12163</th>
-		<th>298</th>
+		<th>12317</th>
+		<th>305</th>
 	</tr><tr>
 		<th>YAML</th>
 		<th>129</th>
@@ -73,11 +73,11 @@
 	</tr><tr>
 		<th>PHP</th>
 		<th>102</th>
-		<th>7275</th>
-		<th>1332</th>
-		<th>713</th>
-		<th>5230</th>
-		<th>280</th>
+		<th>7307</th>
+		<th>1335</th>
+		<th>719</th>
+		<th>5253</th>
+		<th>288</th>
 	</tr><tr>
 		<th>Markdown</th>
 		<th>85</th>
@@ -169,12 +169,12 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>950</th>
-		<th>80871</th>
-		<th>8930</th>
-		<th>8822</th>
-		<th>63119</th>
-		<th>4640</th>
+		<th>951</th>
+		<th>81103</th>
+		<th>8954</th>
+		<th>8828</th>
+		<th>63321</th>
+		<th>4657</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
