@@ -41,10 +41,10 @@
 	<tbody><tr>
 		<th>JavaScript</th>
 		<th>212</th>
-		<th>35195</th>
+		<th>35196</th>
 		<th>4459</th>
 		<th>6460</th>
-		<th>24276</th>
+		<th>24277</th>
 		<th>3451</th>
 	</tr><tr>
 		<th>Vue</th>
@@ -65,10 +65,10 @@
 	</tr><tr>
 		<th>JSON</th>
 		<th>122</th>
-		<th>6804</th>
+		<th>6805</th>
 		<th>3</th>
 		<th>0</th>
-		<th>6801</th>
+		<th>6802</th>
 		<th>0</th>
 	</tr><tr>
 		<th>PHP</th>
@@ -170,10 +170,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>947</th>
-		<th>82176</th>
+		<th>82178</th>
 		<th>8960</th>
 		<th>8830</th>
-		<th>64386</th>
+		<th>64388</th>
 		<th>4664</th>
 	</tr></tfoot>
 	</table>
