@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/Infisical/infisical-python/pull/60#issuecomment-1917593975) in [Infisical/infisical-python](https://github.com/Infisical/infisical-python)
-2. 🔒 Closed issue [#4008](https://github.com/fractava/status/issues/4008) in [fractava/status](https://github.com/fractava/status)
-3. 🗣 Commented on [#4008](https://github.com/fractava/status/issues/4008#issuecomment-1913826433) in [fractava/status](https://github.com/fractava/status)
-4. ❗ Opened issue [#4008](https://github.com/fractava/status/issues/4008) in [fractava/status](https://github.com/fractava/status)
-5. 🔒 Closed issue [#4007](https://github.com/fractava/status/issues/4007) in [fractava/status](https://github.com/fractava/status)
+1. 🗣 Commented on [#60](https://github.com/Infisical/infisical-python/pull/60#issuecomment-1917778433) in [Infisical/infisical-python](https://github.com/Infisical/infisical-python)
+2. 🗣 Commented on [#60](https://github.com/Infisical/infisical-python/pull/60#issuecomment-1917593975) in [Infisical/infisical-python](https://github.com/Infisical/infisical-python)
+3. 🔒 Closed issue [#4008](https://github.com/fractava/status/issues/4008) in [fractava/status](https://github.com/fractava/status)
+4. 🗣 Commented on [#4008](https://github.com/fractava/status/issues/4008#issuecomment-1913826433) in [fractava/status](https://github.com/fractava/status)
+5. ❗ Opened issue [#4008](https://github.com/fractava/status/issues/4008) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
