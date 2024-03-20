@@ -41,11 +41,11 @@
 	<tbody><tr>
 		<th>JavaScript</th>
 		<th>213</th>
-		<th>35640</th>
-		<th>4459</th>
-		<th>6460</th>
-		<th>24721</th>
-		<th>3451</th>
+		<th>35674</th>
+		<th>4461</th>
+		<th>6470</th>
+		<th>24743</th>
+		<th>3453</th>
 	</tr><tr>
 		<th>Vue</th>
 		<th>162</th>
@@ -170,11 +170,11 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>949</th>
-		<th>83064</th>
-		<th>8960</th>
-		<th>8830</th>
-		<th>65274</th>
-		<th>4664</th>
+		<th>83098</th>
+		<th>8962</th>
+		<th>8840</th>
+		<th>65296</th>
+		<th>4666</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
