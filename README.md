@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#456](https://github.com/fractava/biblio/pull/456#issuecomment-2041116208) in [fractava/biblio](https://github.com/fractava/biblio)
-2. 🎉 Merged PR [#532](https://github.com/fractava/biblio/pull/532) in [fractava/biblio](https://github.com/fractava/biblio)
-3. 🎉 Merged PR [#514](https://github.com/fractava/biblio/pull/514) in [fractava/biblio](https://github.com/fractava/biblio)
-4. 🗣 Commented on [#614](https://github.com/tuya-cloudcutter/tuya-cloudcutter/issues/614#issuecomment-2040066593) in [tuya-cloudcutter/tuya-cloudcutter](https://github.com/tuya-cloudcutter/tuya-cloudcutter)
-5. 🔒 Closed issue [#4045](https://github.com/fractava/status/issues/4045) in [fractava/status](https://github.com/fractava/status)
+1. 🎉 Merged PR [#454](https://github.com/fractava/biblio/pull/454) in [fractava/biblio](https://github.com/fractava/biblio)
+2. 🗣 Commented on [#454](https://github.com/fractava/biblio/pull/454#issuecomment-2041117532) in [fractava/biblio](https://github.com/fractava/biblio)
+3. 🎉 Merged PR [#520](https://github.com/fractava/biblio/pull/520) in [fractava/biblio](https://github.com/fractava/biblio)
+4. 🗣 Commented on [#520](https://github.com/fractava/biblio/pull/520#issuecomment-2041117023) in [fractava/biblio](https://github.com/fractava/biblio)
+5. 🎉 Merged PR [#486](https://github.com/fractava/biblio/pull/486) in [fractava/biblio](https://github.com/fractava/biblio)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
