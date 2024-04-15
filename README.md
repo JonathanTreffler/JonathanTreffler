@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/JonathanTreffler/status/issues/35#issuecomment-2056484539) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🔒 Closed issue [#35](https://github.com/JonathanTreffler/status/issues/35) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. ❗ Opened issue [#35](https://github.com/JonathanTreffler/status/issues/35) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. 🔒 Closed issue [#4052](https://github.com/fractava/status/issues/4052) in [fractava/status](https://github.com/fractava/status)
-5. 🗣 Commented on [#4052](https://github.com/fractava/status/issues/4052#issuecomment-2054256117) in [fractava/status](https://github.com/fractava/status)
+1. 🔒 Closed issue [#36](https://github.com/JonathanTreffler/status/issues/36) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+2. 🗣 Commented on [#36](https://github.com/JonathanTreffler/status/issues/36#issuecomment-2056530464) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. ❗ Opened issue [#36](https://github.com/JonathanTreffler/status/issues/36) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. 🗣 Commented on [#35](https://github.com/JonathanTreffler/status/issues/35#issuecomment-2056484539) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. 🔒 Closed issue [#35](https://github.com/JonathanTreffler/status/issues/35) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
