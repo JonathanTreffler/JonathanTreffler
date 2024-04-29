@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.3.0](https://github.com/JonathanTreffler/sharerenamer/releases/tag/v3.3.0) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-2. 🗣 Commented on [#4064](https://github.com/fractava/status/issues/4064#issuecomment-2082511756) in [fractava/status](https://github.com/fractava/status)
-3. 🔒 Closed issue [#4064](https://github.com/fractava/status/issues/4064) in [fractava/status](https://github.com/fractava/status)
-4. ❗ Opened issue [#4064](https://github.com/fractava/status/issues/4064) in [fractava/status](https://github.com/fractava/status)
-5. 🗣 Commented on [#4063](https://github.com/fractava/status/issues/4063#issuecomment-2082352529) in [fractava/status](https://github.com/fractava/status)
+1. 🗣 Commented on [#266](https://github.com/JonathanTreffler/sharerenamer/pull/266#issuecomment-2083730045) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+2. 🔒 Closed issue [#235](https://github.com/JonathanTreffler/sharerenamer/issues/235) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+3. 🗣 Commented on [#235](https://github.com/JonathanTreffler/sharerenamer/issues/235#issuecomment-2083721874) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. 🔒 Closed issue [#235](https://github.com/JonathanTreffler/sharerenamer/issues/235) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+5. 🗣 Commented on [#250](https://github.com/JonathanTreffler/sharerenamer/issues/250#issuecomment-2083719357) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
