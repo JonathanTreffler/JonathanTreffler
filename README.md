@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#300](https://github.com/JonathanTreffler/sharerenamer/pull/300) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-2. 🎉 Merged PR [#299](https://github.com/JonathanTreffler/sharerenamer/pull/299) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-3. 🎉 Merged PR [#204](https://github.com/JonathanTreffler/sharerenamer/pull/204) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-4. 🎉 Merged PR [#281](https://github.com/JonathanTreffler/sharerenamer/pull/281) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-5. 🗣 Commented on [#204](https://github.com/JonathanTreffler/sharerenamer/pull/204#issuecomment-2086078225) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+1. 🚀 Published release [v3.3.1](https://github.com/JonathanTreffler/sharerenamer/releases/tag/v3.3.1) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+2. 🎉 Merged PR [#300](https://github.com/JonathanTreffler/sharerenamer/pull/300) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+3. 🎉 Merged PR [#299](https://github.com/JonathanTreffler/sharerenamer/pull/299) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. 🎉 Merged PR [#204](https://github.com/JonathanTreffler/sharerenamer/pull/204) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+5. 🎉 Merged PR [#281](https://github.com/JonathanTreffler/sharerenamer/pull/281) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
