@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#559](https://github.com/fractava/biblio/pull/559) in [fractava/biblio](https://github.com/fractava/biblio)
-2. 🎉 Merged PR [#564](https://github.com/fractava/biblio/pull/564) in [fractava/biblio](https://github.com/fractava/biblio)
-3. 🗣 Commented on [#149](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/149#issuecomment-2093714834) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. 🔒 Closed issue [#149](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/149) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. 🗣 Commented on [#270](https://github.com/JonathanTreffler/sharerenamer/issues/270#issuecomment-2087768460) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+1. 🎉 Merged PR [#537](https://github.com/fractava/biblio/pull/537) in [fractava/biblio](https://github.com/fractava/biblio)
+2. 🎉 Merged PR [#541](https://github.com/fractava/biblio/pull/541) in [fractava/biblio](https://github.com/fractava/biblio)
+3. 🎉 Merged PR [#538](https://github.com/fractava/biblio/pull/538) in [fractava/biblio](https://github.com/fractava/biblio)
+4. 🎉 Merged PR [#539](https://github.com/fractava/biblio/pull/539) in [fractava/biblio](https://github.com/fractava/biblio)
+5. 🎉 Merged PR [#557](https://github.com/fractava/biblio/pull/557) in [fractava/biblio](https://github.com/fractava/biblio)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
