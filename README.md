@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/149#issuecomment-2093714834) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🔒 Closed issue [#149](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/149) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🗣 Commented on [#270](https://github.com/JonathanTreffler/sharerenamer/issues/270#issuecomment-2087768460) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-4. 🗣 Commented on [#270](https://github.com/JonathanTreffler/sharerenamer/issues/270#issuecomment-2087723538) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-5. 🗣 Commented on [#270](https://github.com/JonathanTreffler/sharerenamer/issues/270#issuecomment-2087366588) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+1. 🎉 Merged PR [#559](https://github.com/fractava/biblio/pull/559) in [fractava/biblio](https://github.com/fractava/biblio)
+2. 🎉 Merged PR [#564](https://github.com/fractava/biblio/pull/564) in [fractava/biblio](https://github.com/fractava/biblio)
+3. 🗣 Commented on [#149](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/149#issuecomment-2093714834) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🔒 Closed issue [#149](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/149) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. 🗣 Commented on [#270](https://github.com/JonathanTreffler/sharerenamer/issues/270#issuecomment-2087768460) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
