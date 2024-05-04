@@ -41,10 +41,10 @@
 	<tbody><tr>
 		<th>JavaScript</th>
 		<th>211</th>
-		<th>36025</th>
-		<th>4465</th>
-		<th>6470</th>
-		<th>25090</th>
+		<th>36029</th>
+		<th>4466</th>
+		<th>6471</th>
+		<th>25092</th>
 		<th>3463</th>
 	</tr><tr>
 		<th>Vue</th>
@@ -170,10 +170,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>947</th>
-		<th>83757</th>
-		<th>8971</th>
-		<th>8840</th>
-		<th>65946</th>
+		<th>83761</th>
+		<th>8972</th>
+		<th>8841</th>
+		<th>65948</th>
 		<th>4676</th>
 	</tr></tfoot>
 	</table>
