@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#157](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/157#issuecomment-2122141657) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🔒 Closed issue [#157](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/157) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🗣 Commented on [#4086](https://github.com/fractava/status/issues/4086#issuecomment-2119948996) in [fractava/status](https://github.com/fractava/status)
-4. 🔒 Closed issue [#4086](https://github.com/fractava/status/issues/4086) in [fractava/status](https://github.com/fractava/status)
-5. ❗ Opened issue [#4086](https://github.com/fractava/status/issues/4086) in [fractava/status](https://github.com/fractava/status)
+1. 🚀 Published release [v3.3.2](https://github.com/JonathanTreffler/sharerenamer/releases/tag/v3.3.2) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+2. 🗣 Commented on [#157](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/157#issuecomment-2122141657) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🔒 Closed issue [#157](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/157) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🗣 Commented on [#4086](https://github.com/fractava/status/issues/4086#issuecomment-2119948996) in [fractava/status](https://github.com/fractava/status)
+5. 🔒 Closed issue [#4086](https://github.com/fractava/status/issues/4086) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
