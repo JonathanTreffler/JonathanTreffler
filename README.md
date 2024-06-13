@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4161](https://github.com/fractava/status/issues/4161) in [fractava/status](https://github.com/fractava/status)
-2. ❗ Opened issue [#4160](https://github.com/fractava/status/issues/4160) in [fractava/status](https://github.com/fractava/status)
-3. 🗣 Commented on [#1](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/1#issuecomment-2163787685) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
-4. 🔒 Closed issue [#1](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/1) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
-5. 🗣 Commented on [#4154](https://github.com/fractava/status/issues/4154#issuecomment-2163764480) in [fractava/status](https://github.com/fractava/status)
+1. 🗣 Commented on [#4160](https://github.com/fractava/status/issues/4160#issuecomment-2164467730) in [fractava/status](https://github.com/fractava/status)
+2. 🔒 Closed issue [#4160](https://github.com/fractava/status/issues/4160) in [fractava/status](https://github.com/fractava/status)
+3. 🔒 Closed issue [#4161](https://github.com/fractava/status/issues/4161) in [fractava/status](https://github.com/fractava/status)
+4. 🗣 Commented on [#4161](https://github.com/fractava/status/issues/4161#issuecomment-2164467413) in [fractava/status](https://github.com/fractava/status)
+5. ❗ Opened issue [#4161](https://github.com/fractava/status/issues/4161) in [fractava/status](https://github.com/fractava/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
