@@ -49,11 +49,11 @@
 	</tr><tr>
 		<th>Vue</th>
 		<th>164</th>
-		<th>13629</th>
-		<th>984</th>
+		<th>13659</th>
+		<th>986</th>
 		<th>96</th>
-		<th>12549</th>
-		<th>351</th>
+		<th>12577</th>
+		<th>357</th>
 	</tr><tr>
 		<th>YAML</th>
 		<th>129</th>
@@ -170,11 +170,11 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>949</th>
-		<th>85553</th>
-		<th>9001</th>
+		<th>85583</th>
+		<th>9003</th>
 		<th>8859</th>
-		<th>67693</th>
-		<th>4725</th>
+		<th>67721</th>
+		<th>4731</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
