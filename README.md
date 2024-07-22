@@ -49,10 +49,10 @@
 	</tr><tr>
 		<th>Vue</th>
 		<th>164</th>
-		<th>13712</th>
-		<th>988</th>
-		<th>96</th>
-		<th>12628</th>
+		<th>13747</th>
+		<th>991</th>
+		<th>98</th>
+		<th>12658</th>
 		<th>357</th>
 	</tr><tr>
 		<th>YAML</th>
@@ -170,10 +170,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>949</th>
-		<th>85660</th>
-		<th>9005</th>
-		<th>8859</th>
-		<th>67796</th>
+		<th>85695</th>
+		<th>9008</th>
+		<th>8861</th>
+		<th>67826</th>
 		<th>4731</th>
 	</tr></tfoot>
 	</table>
