@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/3) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
-2. 🔒 Closed issue [#4](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/4) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
-3. 🎉 Merged PR [#5](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/pull/5) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
-4. 🗣 Commented on [#5](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/pull/5#issuecomment-2200957267) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
-5. 🗣 Commented on [#175](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/175#issuecomment-2190051563) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. 🗣 Commented on [#2](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/2#issuecomment-2247724591) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
+2. 🔒 Closed issue [#2](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/2) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
+3. 🔒 Closed issue [#3](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/3) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
+4. 🔒 Closed issue [#4](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/4) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
+5. 🎉 Merged PR [#5](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/pull/5) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
