@@ -41,18 +41,18 @@
 	<tbody><tr>
 		<th>JavaScript</th>
 		<th>212</th>
-		<th>36819</th>
+		<th>36821</th>
 		<th>4468</th>
 		<th>6489</th>
-		<th>25862</th>
+		<th>25864</th>
 		<th>3463</th>
 	</tr><tr>
 		<th>Vue</th>
 		<th>164</th>
-		<th>13747</th>
+		<th>13764</th>
 		<th>991</th>
 		<th>98</th>
-		<th>12658</th>
+		<th>12675</th>
 		<th>357</th>
 	</tr><tr>
 		<th>YAML</th>
@@ -170,10 +170,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>949</th>
-		<th>85695</th>
+		<th>85714</th>
 		<th>9008</th>
 		<th>8861</th>
-		<th>67826</th>
+		<th>67845</th>
 		<th>4731</th>
 	</tr></tfoot>
 	</table>
