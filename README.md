@@ -188,10 +188,10 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/2#issuecomment-2247724591) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
-2. 🔒 Closed issue [#2](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/2) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
-3. 🔒 Closed issue [#3](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/3) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
-4. 🔒 Closed issue [#4](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/4) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
+1. 🎉 Merged PR [#644](https://github.com/fractava/biblio/pull/644) in [fractava/biblio](https://github.com/fractava/biblio)
+2. 🗣 Commented on [#2](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/2#issuecomment-2247724591) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
+3. 🔒 Closed issue [#2](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/2) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
+4. 🔒 Closed issue [#3](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/3) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
 5. 🎉 Merged PR [#5](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/pull/5) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
 <!--END_SECTION:activity-->
 
