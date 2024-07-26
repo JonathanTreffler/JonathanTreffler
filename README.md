@@ -72,12 +72,12 @@
 		<th>0</th>
 	</tr><tr>
 		<th>PHP</th>
-		<th>102</th>
-		<th>7433</th>
-		<th>1353</th>
+		<th>103</th>
+		<th>7446</th>
+		<th>1357</th>
 		<th>718</th>
-		<th>5362</th>
-		<th>297</th>
+		<th>5371</th>
+		<th>298</th>
 	</tr><tr>
 		<th>Markdown</th>
 		<th>85</th>
@@ -169,12 +169,12 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>949</th>
-		<th>85714</th>
-		<th>9008</th>
+		<th>950</th>
+		<th>85727</th>
+		<th>9012</th>
 		<th>8861</th>
-		<th>67845</th>
-		<th>4731</th>
+		<th>67854</th>
+		<th>4732</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
