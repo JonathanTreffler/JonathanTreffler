@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/bitfireAT/nc_ext_dav_push/issues/7) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-2. 🗣 Commented on [#708](https://github.com/nextcloud/app-certificate-requests/pull/708#issuecomment-2271873297) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
-3. 💪 Opened PR [#708](https://github.com/nextcloud/app-certificate-requests/pull/708) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
-4. 🎉 Merged PR [#644](https://github.com/fractava/biblio/pull/644) in [fractava/biblio](https://github.com/fractava/biblio)
-5. 🗣 Commented on [#2](https://github.com/bitfireAT/nc-ext-caldav-carddav-push/issues/2#issuecomment-2247724591) in [bitfireAT/nc-ext-caldav-carddav-push](https://github.com/bitfireAT/nc-ext-caldav-carddav-push)
+1. 🔒 Closed issue [#6](https://github.com/bitfireAT/nc_ext_dav_push/issues/6) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+2. 🔒 Closed issue [#7](https://github.com/bitfireAT/nc_ext_dav_push/issues/7) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+3. 🗣 Commented on [#708](https://github.com/nextcloud/app-certificate-requests/pull/708#issuecomment-2271873297) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+4. 💪 Opened PR [#708](https://github.com/nextcloud/app-certificate-requests/pull/708) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+5. 🎉 Merged PR [#644](https://github.com/fractava/biblio/pull/644) in [fractava/biblio](https://github.com/fractava/biblio)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
