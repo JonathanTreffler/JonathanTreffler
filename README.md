@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/verdigado/groupfolder_tags/issues/3) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
-2. ❗ Opened issue [#2](https://github.com/verdigado/groupfolder_tags/issues/2) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
-3. ❗ Opened issue [#1](https://github.com/verdigado/groupfolder_tags/issues/1) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
-4. 🗣 Commented on [#8](https://github.com/bitfireAT/nc_ext_dav_push/issues/8#issuecomment-2295307180) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-5. 🗣 Commented on [#8](https://github.com/bitfireAT/nc_ext_dav_push/issues/8#issuecomment-2288660220) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🗣 Commented on [#12](https://github.com/bitfireAT/nc_ext_dav_push/issues/12#issuecomment-2308932177) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+2. 🔒 Closed issue [#12](https://github.com/bitfireAT/nc_ext_dav_push/issues/12) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+3. ❗ Opened issue [#3](https://github.com/verdigado/groupfolder_tags/issues/3) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+4. ❗ Opened issue [#2](https://github.com/verdigado/groupfolder_tags/issues/2) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+5. ❗ Opened issue [#1](https://github.com/verdigado/groupfolder_tags/issues/1) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
