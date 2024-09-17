@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/bitfireAT/nc_ext_dav_push/issues/28#issuecomment-2355110661) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-2. ❗ Opened issue [#22](https://github.com/bitfireAT/nc_ext_dav_push/issues/22) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-3. ❗ Opened issue [#21](https://github.com/bitfireAT/nc_ext_dav_push/issues/21) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-4. 💪 Opened PR [#20](https://github.com/bitfireAT/nc_ext_dav_push/pull/20) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-5. 🗣 Commented on [#15](https://github.com/bitfireAT/nc_ext_dav_push/issues/15#issuecomment-2350999932) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🗣 Commented on [#27](https://github.com/bitfireAT/nc_ext_dav_push/issues/27#issuecomment-2355172598) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+2. 🔒 Closed issue [#28](https://github.com/bitfireAT/nc_ext_dav_push/issues/28) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+3. 🗣 Commented on [#28](https://github.com/bitfireAT/nc_ext_dav_push/issues/28#issuecomment-2355154220) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+4. 🗣 Commented on [#28](https://github.com/bitfireAT/nc_ext_dav_push/issues/28#issuecomment-2355110661) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+5. ❗ Opened issue [#22](https://github.com/bitfireAT/nc_ext_dav_push/issues/22) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
