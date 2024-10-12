@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#187](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/187#issuecomment-2407893279) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#42](https://github.com/JonathanTreffler/status/issues/42#issuecomment-2406716518) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. 🔒 Closed issue [#42](https://github.com/JonathanTreffler/status/issues/42) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. ❗ Opened issue [#42](https://github.com/JonathanTreffler/status/issues/42) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. 🗣 Commented on [#41](https://github.com/JonathanTreffler/status/issues/41#issuecomment-2402755420) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+1. 🗣 Commented on [#187](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/187#issuecomment-2407959513) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 💪 Opened PR [#520](https://github.com/selfhosters/unRAID-CA-templates/pull/520) in [selfhosters/unRAID-CA-templates](https://github.com/selfhosters/unRAID-CA-templates)
+3. 🗣 Commented on [#187](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/187#issuecomment-2407893279) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🗣 Commented on [#42](https://github.com/JonathanTreffler/status/issues/42#issuecomment-2406716518) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. 🔒 Closed issue [#42](https://github.com/JonathanTreffler/status/issues/42) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
