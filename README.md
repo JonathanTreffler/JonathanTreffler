@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/bitfireAT/nc_ext_dav_push/issues/29#issuecomment-2408012912) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-2. 🔒 Closed issue [#29](https://github.com/bitfireAT/nc_ext_dav_push/issues/29) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-3. 🗣 Commented on [#187](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/187#issuecomment-2407959513) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. 💪 Opened PR [#520](https://github.com/selfhosters/unRAID-CA-templates/pull/520) in [selfhosters/unRAID-CA-templates](https://github.com/selfhosters/unRAID-CA-templates)
-5. 🗣 Commented on [#187](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/187#issuecomment-2407893279) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. 🗣 Commented on [#187](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/187#issuecomment-2408159756) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🔒 Closed issue [#187](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/187) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🗣 Commented on [#187](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/187#issuecomment-2408159680) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🗣 Commented on [#29](https://github.com/bitfireAT/nc_ext_dav_push/issues/29#issuecomment-2408012912) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+5. 🔒 Closed issue [#29](https://github.com/bitfireAT/nc_ext_dav_push/issues/29) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
