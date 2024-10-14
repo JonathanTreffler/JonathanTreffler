@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#44](https://github.com/JonathanTreffler/status/issues/44) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-2. 🔒 Closed issue [#43](https://github.com/JonathanTreffler/status/issues/43) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. 🗣 Commented on [#43](https://github.com/JonathanTreffler/status/issues/43#issuecomment-2408604164) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. ❗ Opened issue [#43](https://github.com/JonathanTreffler/status/issues/43) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. 🗣 Commented on [#187](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/187#issuecomment-2408199037) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. 🗣 Commented on [#44](https://github.com/JonathanTreffler/status/issues/44#issuecomment-2411153993) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+2. 🔒 Closed issue [#44](https://github.com/JonathanTreffler/status/issues/44) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+3. ❗ Opened issue [#44](https://github.com/JonathanTreffler/status/issues/44) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. 🔒 Closed issue [#43](https://github.com/JonathanTreffler/status/issues/43) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. 🗣 Commented on [#43](https://github.com/JonathanTreffler/status/issues/43#issuecomment-2408604164) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
