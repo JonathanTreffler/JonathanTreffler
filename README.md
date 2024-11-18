@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/43#issuecomment-2482904899) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#51](https://github.com/JonathanTreffler/status/issues/51#issuecomment-2439983331) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-3. 🔒 Closed issue [#51](https://github.com/JonathanTreffler/status/issues/51) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-4. ❗ Opened issue [#51](https://github.com/JonathanTreffler/status/issues/51) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
-5. 🗣 Commented on [#50](https://github.com/JonathanTreffler/status/issues/50#issuecomment-2435714555) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+1. 💪 Opened PR [#739](https://github.com/nextcloud/app-certificate-requests/pull/739) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+2. 🗣 Commented on [#43](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/43#issuecomment-2482904899) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🗣 Commented on [#51](https://github.com/JonathanTreffler/status/issues/51#issuecomment-2439983331) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+4. 🔒 Closed issue [#51](https://github.com/JonathanTreffler/status/issues/51) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
+5. ❗ Opened issue [#51](https://github.com/JonathanTreffler/status/issues/51) in [JonathanTreffler/status](https://github.com/JonathanTreffler/status)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
