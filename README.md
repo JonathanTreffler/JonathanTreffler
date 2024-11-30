@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/verdigado/organization_folders/pull/5) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. 🎉 Merged PR [#1](https://github.com/verdigado/organization_folders/pull/1) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. 💪 Opened PR [#740](https://github.com/nextcloud/app-certificate-requests/pull/740) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
-4. 💪 Opened PR [#739](https://github.com/nextcloud/app-certificate-requests/pull/739) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
-5. 🗣 Commented on [#43](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/43#issuecomment-2482904899) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. ❗ Opened issue [#137](https://github.com/hegocre/NextcloudPasswords/issues/137) in [hegocre/NextcloudPasswords](https://github.com/hegocre/NextcloudPasswords)
+2. 🎉 Merged PR [#5](https://github.com/verdigado/organization_folders/pull/5) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. 🎉 Merged PR [#1](https://github.com/verdigado/organization_folders/pull/1) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. 💪 Opened PR [#740](https://github.com/nextcloud/app-certificate-requests/pull/740) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+5. 💪 Opened PR [#739](https://github.com/nextcloud/app-certificate-requests/pull/739) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
