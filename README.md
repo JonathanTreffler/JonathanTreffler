@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#436](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/436#issuecomment-2510225685) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. 🎉 Merged PR [#420](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/420) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🗣 Commented on [#420](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/420#issuecomment-2510224608) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#444](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/444) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#447](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/447) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🎉 Merged PR [#442](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/442) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#440](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/440) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🗣 Commented on [#439](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/439#issuecomment-2510227210) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🎉 Merged PR [#417](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/417) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🗣 Commented on [#417](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/417#issuecomment-2510226491) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
