@@ -57,10 +57,10 @@
 	</tr><tr>
 		<th>YAML</th>
 		<th>129</th>
-		<th>4759</th>
-		<th>659</th>
+		<th>4746</th>
+		<th>658</th>
 		<th>415</th>
-		<th>3685</th>
+		<th>3673</th>
 		<th>0</th>
 	</tr><tr>
 		<th>JSON</th>
@@ -170,10 +170,10 @@
 	<tfoot><tr>
 		<th>Total</th>
 		<th>952</th>
-		<th>87327</th>
-		<th>9012</th>
+		<th>87314</th>
+		<th>9011</th>
 		<th>8861</th>
-		<th>69454</th>
+		<th>69442</th>
 		<th>4732</th>
 	</tr></tfoot>
 	</table>
