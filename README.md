@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#451](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/451) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. 🎉 Merged PR [#459](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/459) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🎉 Merged PR [#450](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/450) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#458](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/458) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🎉 Merged PR [#441](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/441) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🎉 Merged PR [#460](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/460) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+2. 🎉 Merged PR [#451](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/451) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#459](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/459) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🎉 Merged PR [#450](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/450) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#458](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/458) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
