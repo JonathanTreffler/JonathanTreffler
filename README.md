@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/hegocre/NextcloudPasswords/issues/137#issuecomment-2509385853) in [hegocre/NextcloudPasswords](https://github.com/hegocre/NextcloudPasswords)
-2. ❗ Opened issue [#137](https://github.com/hegocre/NextcloudPasswords/issues/137) in [hegocre/NextcloudPasswords](https://github.com/hegocre/NextcloudPasswords)
-3. 🎉 Merged PR [#5](https://github.com/verdigado/organization_folders/pull/5) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 🎉 Merged PR [#1](https://github.com/verdigado/organization_folders/pull/1) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. 💪 Opened PR [#740](https://github.com/nextcloud/app-certificate-requests/pull/740) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+1. 🗣 Commented on [#137](https://github.com/hegocre/NextcloudPasswords/issues/137#issuecomment-2509870693) in [hegocre/NextcloudPasswords](https://github.com/hegocre/NextcloudPasswords)
+2. 🔒 Closed issue [#137](https://github.com/hegocre/NextcloudPasswords/issues/137) in [hegocre/NextcloudPasswords](https://github.com/hegocre/NextcloudPasswords)
+3. 🗣 Commented on [#137](https://github.com/hegocre/NextcloudPasswords/issues/137#issuecomment-2509385853) in [hegocre/NextcloudPasswords](https://github.com/hegocre/NextcloudPasswords)
+4. ❗ Opened issue [#137](https://github.com/hegocre/NextcloudPasswords/issues/137) in [hegocre/NextcloudPasswords](https://github.com/hegocre/NextcloudPasswords)
+5. 🎉 Merged PR [#5](https://github.com/verdigado/organization_folders/pull/5) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
