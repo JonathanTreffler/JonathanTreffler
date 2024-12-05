@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#442](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/442) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-2. 🎉 Merged PR [#440](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/440) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-3. 🗣 Commented on [#439](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/439#issuecomment-2510227210) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#417](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/417) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🗣 Commented on [#417](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/417#issuecomment-2510226491) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🗣 Commented on [#739](https://github.com/nextcloud/app-certificate-requests/pull/739#issuecomment-2520389055) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+2. 🎉 Merged PR [#442](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/442) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+3. 🎉 Merged PR [#440](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/440) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+4. 🗣 Commented on [#439](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/439#issuecomment-2510227210) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#417](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/417) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
