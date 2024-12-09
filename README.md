@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/bitfireAT/nc_ext_dav_push/issues/33#issuecomment-2526341875) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-2. 🗣 Commented on [#739](https://github.com/nextcloud/app-certificate-requests/pull/739#issuecomment-2520389055) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
-3. 🎉 Merged PR [#442](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/442) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-4. 🎉 Merged PR [#440](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/440) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
-5. 🗣 Commented on [#439](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/439#issuecomment-2510227210) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+1. 🗣 Commented on [#339](https://github.com/JonathanTreffler/sharerenamer/issues/339#issuecomment-2527991436) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+2. 🗣 Commented on [#33](https://github.com/bitfireAT/nc_ext_dav_push/issues/33#issuecomment-2526341875) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+3. 🗣 Commented on [#739](https://github.com/nextcloud/app-certificate-requests/pull/739#issuecomment-2520389055) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+4. 🎉 Merged PR [#442](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/442) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
+5. 🎉 Merged PR [#440](https://github.com/JonathanTreffler/JonathanTreffler.github.io/pull/440) in [JonathanTreffler/JonathanTreffler.github.io](https://github.com/JonathanTreffler/JonathanTreffler.github.io)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
