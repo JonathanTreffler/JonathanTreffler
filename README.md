@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#33](https://github.com/bitfireAT/nc_ext_dav_push/issues/33) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-2. 🎉 Merged PR [#34](https://github.com/bitfireAT/nc_ext_dav_push/pull/34) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-3. 🔓 Reopened issue [#137](https://github.com/hegocre/NextcloudPasswords/issues/137) in [hegocre/NextcloudPasswords](https://github.com/hegocre/NextcloudPasswords)
-4. 🗣 Commented on [#137](https://github.com/hegocre/NextcloudPasswords/issues/137#issuecomment-2558577170) in [hegocre/NextcloudPasswords](https://github.com/hegocre/NextcloudPasswords)
-5. 🔒 Closed issue [#17](https://github.com/bitfireAT/nc_ext_dav_push/issues/17) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🗣 Commented on [#30](https://github.com/bitfireAT/nc_ext_dav_push/issues/30#issuecomment-2588222691) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+2. 🔒 Closed issue [#30](https://github.com/bitfireAT/nc_ext_dav_push/issues/30) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+3. 🔒 Closed issue [#33](https://github.com/bitfireAT/nc_ext_dav_push/issues/33) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+4. 🎉 Merged PR [#34](https://github.com/bitfireAT/nc_ext_dav_push/pull/34) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+5. 🔓 Reopened issue [#137](https://github.com/hegocre/NextcloudPasswords/issues/137) in [hegocre/NextcloudPasswords](https://github.com/hegocre/NextcloudPasswords)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
