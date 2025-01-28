@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#740](https://github.com/nextcloud/app-certificate-requests/pull/740#issuecomment-2618569985) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
-2. ❗ Opened issue [#340](https://github.com/JonathanTreffler/sharerenamer/issues/340) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-3. 🚀 Published release [v0.0.2](https://github.com/bitfireAT/nc_ext_dav_push/releases/tag/v0.0.2) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-4. 🗣 Commented on [#740](https://github.com/nextcloud/app-certificate-requests/pull/740#issuecomment-2609652647) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
-5. 🗣 Commented on [#15](https://github.com/bitfireAT/nc_ext_dav_push/issues/15#issuecomment-2601062989) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🚀 Published release [v1.0.0](https://github.com/verdigado/groupfolder_tags/releases/tag/v1.0.0) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+2. 🗣 Commented on [#740](https://github.com/nextcloud/app-certificate-requests/pull/740#issuecomment-2618569985) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+3. ❗ Opened issue [#340](https://github.com/JonathanTreffler/sharerenamer/issues/340) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. 🚀 Published release [v0.0.2](https://github.com/bitfireAT/nc_ext_dav_push/releases/tag/v0.0.2) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+5. 🗣 Commented on [#740](https://github.com/nextcloud/app-certificate-requests/pull/740#issuecomment-2609652647) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
