@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/verdigado/groupfolder_tags/releases/tag/v1.0.0) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+1. 🎉 Merged PR [#36](https://github.com/bitfireAT/nc_ext_dav_push/pull/36) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 2. 🚀 Published release [v1.0.0](https://github.com/verdigado/groupfolder_tags/releases/tag/v1.0.0) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
 3. 🚀 Published release [v1.0.0](https://github.com/verdigado/groupfolder_tags/releases/tag/v1.0.0) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
 4. 🚀 Published release [v1.0.0](https://github.com/verdigado/groupfolder_tags/releases/tag/v1.0.0) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
-5. 🗣 Commented on [#740](https://github.com/nextcloud/app-certificate-requests/pull/740#issuecomment-2618569985) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+5. 🚀 Published release [v1.0.0](https://github.com/verdigado/groupfolder_tags/releases/tag/v1.0.0) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
