@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/bitfireAT/nc_ext_dav_push/issues/22#issuecomment-2676167623) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-2. 🎉 Merged PR [#39](https://github.com/bitfireAT/nc_ext_dav_push/pull/39) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-3. 💪 Opened PR [#39](https://github.com/bitfireAT/nc_ext_dav_push/pull/39) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-4. 🗣 Commented on [#35](https://github.com/bitfireAT/nc_ext_dav_push/pull/35#issuecomment-2674932911) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-5. 🗣 Commented on [#37](https://github.com/bitfireAT/nc_ext_dav_push/issues/37#issuecomment-2674919829) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🚀 Published release [v1.12](https://github.com/JonathanTreffler/backblaze-personal-wine-container/releases/tag/v1.12) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🎉 Merged PR [#198](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/198) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🗣 Commented on [#194](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/194#issuecomment-2679233177) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 💪 Opened PR [#198](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/198) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. 🗣 Commented on [#22](https://github.com/bitfireAT/nc_ext_dav_push/issues/22#issuecomment-2676167623) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
