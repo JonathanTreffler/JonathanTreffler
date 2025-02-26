@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.5.0](https://github.com/JonathanTreffler/sharerenamer/releases/tag/v3.5.0) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-2. 🎉 Merged PR [#341](https://github.com/JonathanTreffler/sharerenamer/pull/341) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-3. 💪 Opened PR [#341](https://github.com/JonathanTreffler/sharerenamer/pull/341) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-4. 🗣 Commented on [#340](https://github.com/JonathanTreffler/sharerenamer/issues/340#issuecomment-2682019014) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-5. 🗣 Commented on [#195](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/195#issuecomment-2679496512) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. 🗣 Commented on [#121](https://github.com/JonathanTreffler/sharerenamer/issues/121#issuecomment-2682647108) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+2. 🔒 Closed issue [#121](https://github.com/JonathanTreffler/sharerenamer/issues/121) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+3. 🗣 Commented on [#221](https://github.com/JonathanTreffler/sharerenamer/issues/221#issuecomment-2682645781) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+4. 🔒 Closed issue [#221](https://github.com/JonathanTreffler/sharerenamer/issues/221) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+5. 🗣 Commented on [#222](https://github.com/JonathanTreffler/sharerenamer/issues/222#issuecomment-2682644940) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
