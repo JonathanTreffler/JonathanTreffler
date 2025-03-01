@@ -188,11 +188,11 @@ I really hope public actions stay free 😂
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3981](https://github.com/TeamPiped/Piped/issues/3981#issuecomment-2690553273) in [TeamPiped/Piped](https://github.com/TeamPiped/Piped)
-2. 🗣 Commented on [#3981](https://github.com/TeamPiped/Piped/issues/3981#issuecomment-2689485151) in [TeamPiped/Piped](https://github.com/TeamPiped/Piped)
-3. 🗣 Commented on [#3981](https://github.com/TeamPiped/Piped/issues/3981#issuecomment-2688896766) in [TeamPiped/Piped](https://github.com/TeamPiped/Piped)
-4. 🗣 Commented on [#121](https://github.com/JonathanTreffler/sharerenamer/issues/121#issuecomment-2682647108) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-5. 🔒 Closed issue [#121](https://github.com/JonathanTreffler/sharerenamer/issues/121) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+1. 💪 Opened PR [#840](https://github.com/TeamPiped/Piped-Backend/pull/840) in [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend)
+2. 🗣 Commented on [#3981](https://github.com/TeamPiped/Piped/issues/3981#issuecomment-2690624230) in [TeamPiped/Piped](https://github.com/TeamPiped/Piped)
+3. 🗣 Commented on [#3981](https://github.com/TeamPiped/Piped/issues/3981#issuecomment-2690553273) in [TeamPiped/Piped](https://github.com/TeamPiped/Piped)
+4. 🗣 Commented on [#3981](https://github.com/TeamPiped/Piped/issues/3981#issuecomment-2689485151) in [TeamPiped/Piped](https://github.com/TeamPiped/Piped)
+5. 🗣 Commented on [#3981](https://github.com/TeamPiped/Piped/issues/3981#issuecomment-2688896766) in [TeamPiped/Piped](https://github.com/TeamPiped/Piped)
 <!--END_SECTION:activity-->
 
 ## Youtube Activity:
