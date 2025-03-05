@@ -51,15 +51,15 @@ jobs:
         run: node scc.js
         working-directory: scc
         
-      - name: Install action_time dependencies
-        run: npm ci
-        working-directory: action_time
+      #- name: Install action_time dependencies
+      #  run: npm ci
+      #  working-directory: action_time
 
-      - name: README action_time update
-        run: node action_time.js
-        working-directory: action_time
-        env:
-          BOT_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+      #- name: README action_time update
+      #  run: node action_time.js
+      #  working-directory: action_time
+      #  env:
+      #    BOT_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
       
       - name: Delete temporary files
         run: rm scc.html
