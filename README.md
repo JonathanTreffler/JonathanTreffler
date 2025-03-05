@@ -31,12 +31,12 @@
 	</tr></thead>
 	<tbody><tr>
 		<th>JavaScript</th>
-		<th>323</th>
-		<th>39767</th>
-		<th>4561</th>
-		<th>6756</th>
-		<th>28450</th>
-		<th>3483</th>
+		<th>297</th>
+		<th>38399</th>
+		<th>4425</th>
+		<th>6726</th>
+		<th>27248</th>
+		<th>3317</th>
 	</tr><tr>
 		<th>PHP</th>
 		<th>236</th>
@@ -47,35 +47,35 @@
 		<th>661</th>
 	</tr><tr>
 		<th>JSON</th>
-		<th>226</th>
-		<th>10448</th>
+		<th>223</th>
+		<th>10367</th>
 		<th>3</th>
 		<th>0</th>
-		<th>10445</th>
+		<th>10364</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Vue</th>
-		<th>179</th>
-		<th>15377</th>
-		<th>1187</th>
-		<th>100</th>
-		<th>14090</th>
+		<th>173</th>
+		<th>15025</th>
+		<th>1170</th>
+		<th>99</th>
+		<th>13756</th>
 		<th>378</th>
 	</tr><tr>
 		<th>YAML</th>
-		<th>130</th>
-		<th>4798</th>
-		<th>666</th>
-		<th>432</th>
-		<th>3700</th>
+		<th>122</th>
+		<th>4274</th>
+		<th>611</th>
+		<th>401</th>
+		<th>3262</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Markdown</th>
-		<th>88</th>
-		<th>1859</th>
-		<th>430</th>
+		<th>76</th>
+		<th>1662</th>
+		<th>394</th>
 		<th>0</th>
-		<th>1429</th>
+		<th>1268</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Java</th>
@@ -87,27 +87,19 @@
 		<th>276</th>
 	</tr><tr>
 		<th>Processing</th>
-		<th>32</th>
-		<th>2434</th>
-		<th>330</th>
-		<th>107</th>
-		<th>1997</th>
-		<th>268</th>
+		<th>33</th>
+		<th>2481</th>
+		<th>334</th>
+		<th>113</th>
+		<th>2034</th>
+		<th>275</th>
 	</tr><tr>
 		<th>HTML</th>
+		<th>16</th>
+		<th>563</th>
+		<th>24</th>
 		<th>18</th>
-		<th>647</th>
-		<th>30</th>
-		<th>26</th>
-		<th>591</th>
-		<th>0</th>
-	</tr><tr>
-		<th>CSS</th>
-		<th>15</th>
-		<th>4886</th>
-		<th>246</th>
-		<th>304</th>
-		<th>4336</th>
+		<th>521</th>
 		<th>0</th>
 	</tr><tr>
 		<th>XML</th>
@@ -118,21 +110,29 @@
 		<th>345</th>
 		<th>0</th>
 	</tr><tr>
+		<th>CSS</th>
+		<th>10</th>
+		<th>4440</th>
+		<th>226</th>
+		<th>287</th>
+		<th>3927</th>
+		<th>0</th>
+	</tr><tr>
 		<th>Shell</th>
+		<th>8</th>
+		<th>83</th>
+		<th>23</th>
 		<th>11</th>
-		<th>128</th>
-		<th>34</th>
-		<th>14</th>
-		<th>80</th>
-		<th>5</th>
+		<th>49</th>
+		<th>3</th>
 	</tr><tr>
 		<th>Python</th>
-		<th>8</th>
-		<th>1317</th>
-		<th>58</th>
+		<th>3</th>
+		<th>1186</th>
+		<th>34</th>
 		<th>14</th>
-		<th>1245</th>
-		<th>45</th>
+		<th>1138</th>
+		<th>17</th>
 	</tr><tr>
 		<th>Haskell</th>
 		<th>2</th>
@@ -160,12 +160,12 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>1320</th>
-		<th>100929</th>
-		<th>10908</th>
-		<th>10186</th>
-		<th>79835</th>
-		<th>5136</th>
+		<th>1251</th>
+		<th>97748</th>
+		<th>10607</th>
+		<th>10102</th>
+		<th>77039</th>
+		<th>4947</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
