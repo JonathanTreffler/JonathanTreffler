@@ -51,25 +51,19 @@
 	url = https://github.com/JonathanTreffler/jugendwort-vote
 [submodule "projects/BWINF-37"]
 	path = projects/BWINF-37
-	url = https://github.com/JonathanTreffler/BWINF-37
-[submodule "projects/lets_git_week_4_homework"]
-	path = projects/lets_git_week_4_homework
-	url = https://github.com/JonathanTreffler/lets_git_week_4_homework
+	url = https://codeberg.org/JonathanTreffler/BWINF-37
 [submodule "projects/quantum-computing-jufo-2019.github.io"]
 	path = projects/quantum-computing-jufo-2019.github.io
 	url = https://github.com/Quantum-Computing-Jufo-2019/quantum-computing-jufo-2019.github.io
 [submodule "projects/quantum-computer-GUI"]
 	path = projects/quantum-computer-GUI
-	url = https://github.com/Quantum-Computing-Jufo-2019/quantum-computer-GUI
+	url = https://codeberg.org/Quantum-Computing-Jufo-2019/quantum-computer-GUI
 [submodule "projects/notes-core"]
 	path = projects/notes-core
 	url = https://github.com/fractava/notes-core
 [submodule "projects/notes-desktop"]
 	path = projects/notes-desktop
 	url = https://github.com/fractava/notes-desktop
-[submodule "projects/fractava.com"]
-	path = projects/fractava.com
-	url = https://github.com/fractava/fractava.com
 [submodule "projects/notes-docs"]
 	path = projects/notes-docs
 	url = https://github.com/fractava/notes-docs
