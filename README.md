@@ -3,7 +3,7 @@
 ### Hi there, i am using Github :)
 
 - 🔭 I’m currently working on [fractava/notes-core](https://github.com/fractava/notes-core), [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-´- ⚡ Fun fact: This Profile gets updated by Github Actions
+- ⚡ Fun fact: This Profile gets updated by Github Actions
 
 ## Connect with me:
 
