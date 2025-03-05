@@ -166,3 +166,6 @@
 [submodule "projects/organization_folders"]
 	path = projects/organization_folders
 	url = https://github.com/verdigado/organization_folders
+[submodule "projects/groupfolder_tags"]
+	path = projects/groupfolder_tags
+	url = https://github.com/verdigado/groupfolder_tags
