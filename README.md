@@ -1,23 +1,15 @@
-![Internet not working gif](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
-
-![](https://gpvc.arturio.dev/JonathanTreffler)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 ### Hi there, i am using Github :)
 
 - 🔭 I’m currently working on [fractava/notes-core](https://github.com/fractava/notes-core), [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-- 📫 How to reach me: mail@jonathan-treffler.de
-- ⚡ Fun fact: This Dino Animation is made by @saadeghi :)
-- ⚡ Fun fact: This Profile gets updated by Github Actions
+´- ⚡ Fun fact: This Profile gets updated by Github Actions
 
 ## Connect with me:
 
 [<img align="left" alt="jonathan-treffler.de" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/globe.svg" />](https://jonathan-treffler.de)
 <a rel="me" href="https://gruene.social/@JonathanTreffler"><img align="left" alt="Jonathan Treffler | Mastodon" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/mastodon.svg"></a>
-[<img align="left" alt="Jonathan Treffler | Pixelfed" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/pixelfed.svg" />](https://pixel.gruene.social/JonathanTreffler)
-[<img align="left" alt="Jonathan Treffler | Twitter" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/twitter.svg" />](https://twitter.com/treffler_j)
 [<img align="left" alt="Jonathan Treffler | NPM" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/npm.svg" />](https://www.npmjs.com/~jonathan_treffler)
-[<img align="left" alt="Jonathan Treffler | DEV" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/dev-dot-to.svg" />](https://dev.to/jonathantreffler)
 [<img align="left" alt="Jonathan Treffler | YouTube" width="22px" src="https://raw.githubusercontent.com/JonathanTreffler/JonathanTreffler/master/img/youtube.svg" />](https://www.youtube.com/channel/UCeNkM_i1i9_Ver9njtxLAqw)
 
 <br>
@@ -179,13 +171,6 @@
 	</table>
 <!-- /end_scc/ -->
 
-## Github Action Statistics:
-<!-- /start_action_time/ -->
-7319 years, 3 hours, 7 minutes, 35 seconds of Github Actions Runtime used in total. 
-
-I really hope public actions stay free 😂 
-<!-- /end_action_time/ -->
-
 ## Github Activity:
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#25](https://github.com/bitfireAT/nc_ext_dav_push/issues/25) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
@@ -194,11 +179,3 @@ I really hope public actions stay free 😂
 4. 🗣 Commented on [#35](https://github.com/bitfireAT/nc_ext_dav_push/pull/35#issuecomment-2692985759) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 5. ❌ Closed PR [#35](https://github.com/bitfireAT/nc_ext_dav_push/pull/35) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 <!--END_SECTION:activity-->
-
-## Youtube Activity:
-<!-- YOUTUBE:START -->
-- [Countdown: Wann tritt Scheuer zurück ?](https://www.youtube.com/watch?v=hw3X9rR3I1c)
-- [Countdown: Wann tritt Scheuer zurück ?](https://www.youtube.com/watch?v=OvEQBAlHRs4)
-- [DWAVE Quantum Computer Animation](https://www.youtube.com/watch?v=AcO8yO35ci8)
-- [ISC 2019: The Quantum Boys](https://www.youtube.com/watch?v=aM_pAA9FdYY)
-<!-- YOUTUBE:END -->
