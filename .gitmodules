@@ -160,3 +160,6 @@
 [submodule "projects/Programmierung_Uebungsblatt_10_Aufgabe_4"]
 	path = projects/Programmierung_Uebungsblatt_10_Aufgabe_4
 	url = https://github.com/Programmierung-Nils-Jonathan/Programmierung_Uebungsblatt_10_Aufgabe_4
+[submodule "projects/nc_ext_dav_push"]
+	path = projects/nc_ext_dav_push
+	url = https://github.com/bitfireAT/nc_ext_dav_push
