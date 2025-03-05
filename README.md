@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#25](https://github.com/bitfireAT/nc_ext_dav_push/issues/25) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-2. 🔒 Closed issue [#32](https://github.com/bitfireAT/nc_ext_dav_push/issues/32) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-3. 🗣 Commented on [#32](https://github.com/bitfireAT/nc_ext_dav_push/issues/32#issuecomment-2692988676) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-4. 🗣 Commented on [#35](https://github.com/bitfireAT/nc_ext_dav_push/pull/35#issuecomment-2692985759) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-5. ❌ Closed PR [#35](https://github.com/bitfireAT/nc_ext_dav_push/pull/35) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🎉 Merged PR [#34](https://github.com/JonathanTreffler/JonathanTreffler/pull/34) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
+2. 🗣 Commented on [#15](https://github.com/JonathanTreffler/JonathanTreffler/pull/15#issuecomment-2699313374) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
+3. 🔒 Closed issue [#25](https://github.com/bitfireAT/nc_ext_dav_push/issues/25) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+4. 🔒 Closed issue [#32](https://github.com/bitfireAT/nc_ext_dav_push/issues/32) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+5. 🗣 Commented on [#32](https://github.com/bitfireAT/nc_ext_dav_push/issues/32#issuecomment-2692988676) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 <!--END_SECTION:activity-->
