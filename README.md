@@ -18,7 +18,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=JonathanTreffler&show_icons=true&include_all_commits=true&hide_title=true)
 
 ## Lines of Code (of all my projects):
-*(gets recalculated every 6 hours)*
 <!-- /start_scc/ -->
 <table id="scc-table">
 	<thead><tr>
