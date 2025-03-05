@@ -163,3 +163,6 @@
 [submodule "projects/nc_ext_dav_push"]
 	path = projects/nc_ext_dav_push
 	url = https://github.com/bitfireAT/nc_ext_dav_push
+[submodule "projects/organization_folders"]
+	path = projects/organization_folders
+	url = https://github.com/verdigado/organization_folders
