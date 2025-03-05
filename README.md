@@ -47,36 +47,36 @@
 		<th>12675</th>
 		<th>357</th>
 	</tr><tr>
+		<th>PHP</th>
+		<th>138</th>
+		<th>9750</th>
+		<th>1767</th>
+		<th>1230</th>
+		<th>6753</th>
+		<th>408</th>
+	</tr><tr>
 		<th>YAML</th>
-		<th>129</th>
-		<th>4746</th>
-		<th>658</th>
-		<th>415</th>
-		<th>3673</th>
+		<th>130</th>
+		<th>4798</th>
+		<th>666</th>
+		<th>432</th>
+		<th>3700</th>
 		<th>0</th>
 	</tr><tr>
 		<th>JSON</th>
-		<th>123</th>
-		<th>9397</th>
+		<th>126</th>
+		<th>9496</th>
 		<th>3</th>
 		<th>0</th>
-		<th>9394</th>
+		<th>9493</th>
 		<th>0</th>
-	</tr><tr>
-		<th>PHP</th>
-		<th>103</th>
-		<th>7446</th>
-		<th>1357</th>
-		<th>718</th>
-		<th>5371</th>
-		<th>298</th>
 	</tr><tr>
 		<th>Markdown</th>
-		<th>85</th>
-		<th>1778</th>
-		<th>397</th>
+		<th>86</th>
+		<th>1854</th>
+		<th>428</th>
 		<th>0</th>
-		<th>1381</th>
+		<th>1426</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Java</th>
@@ -112,11 +112,11 @@
 		<th>0</th>
 	</tr><tr>
 		<th>XML</th>
+		<th>13</th>
+		<th>282</th>
 		<th>12</th>
-		<th>238</th>
-		<th>5</th>
 		<th>0</th>
-		<th>233</th>
+		<th>270</th>
 		<th>0</th>
 	</tr><tr>
 		<th>Shell</th>
@@ -161,12 +161,12 @@
 	</tr></tbody>
 	<tfoot><tr>
 		<th>Total</th>
-		<th>952</th>
-		<th>87996</th>
-		<th>9011</th>
-		<th>8861</th>
-		<th>70124</th>
-		<th>4732</th>
+		<th>993</th>
+		<th>90571</th>
+		<th>9467</th>
+		<th>9390</th>
+		<th>71714</th>
+		<th>4842</th>
 	</tr></tfoot>
 	</table>
 <!-- /end_scc/ -->
