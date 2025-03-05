@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/bitfireAT/nc_ext_dav_push/issues/40#issuecomment-2700696335) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-2. 🎉 Merged PR [#34](https://github.com/JonathanTreffler/JonathanTreffler/pull/34) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
-3. 🗣 Commented on [#15](https://github.com/JonathanTreffler/JonathanTreffler/pull/15#issuecomment-2699313374) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
-4. 🔒 Closed issue [#25](https://github.com/bitfireAT/nc_ext_dav_push/issues/25) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-5. 🔒 Closed issue [#32](https://github.com/bitfireAT/nc_ext_dav_push/issues/32) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🗣 Commented on [#17](https://github.com/verdigado/organization_folders/issues/17#issuecomment-2701741915) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. 🔒 Closed issue [#17](https://github.com/verdigado/organization_folders/issues/17) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. 🗣 Commented on [#40](https://github.com/bitfireAT/nc_ext_dav_push/issues/40#issuecomment-2700696335) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+4. 🎉 Merged PR [#34](https://github.com/JonathanTreffler/JonathanTreffler/pull/34) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
+5. 🗣 Commented on [#15](https://github.com/JonathanTreffler/JonathanTreffler/pull/15#issuecomment-2699313374) in [JonathanTreffler/JonathanTreffler](https://github.com/JonathanTreffler/JonathanTreffler)
 <!--END_SECTION:activity-->
