@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/verdigado/organization_folders/issues/27#issuecomment-2844375512) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. 🗣 Commented on [#23](https://github.com/verdigado/organization_folders/issues/23#issuecomment-2837837988) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. 🗣 Commented on [#340](https://github.com/JonathanTreffler/sharerenamer/issues/340#issuecomment-2797944179) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-4. 🗣 Commented on [#340](https://github.com/JonathanTreffler/sharerenamer/issues/340#issuecomment-2795027202) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
-5. ❗ Opened issue [#41](https://github.com/bitfireAT/nc_ext_dav_push/issues/41) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🗣 Commented on [#22](https://github.com/verdigado/organization_folders/issues/22#issuecomment-2847246523) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. 🗣 Commented on [#27](https://github.com/verdigado/organization_folders/issues/27#issuecomment-2844375512) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. 🗣 Commented on [#23](https://github.com/verdigado/organization_folders/issues/23#issuecomment-2837837988) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. 🗣 Commented on [#340](https://github.com/JonathanTreffler/sharerenamer/issues/340#issuecomment-2797944179) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+5. 🗣 Commented on [#340](https://github.com/JonathanTreffler/sharerenamer/issues/340#issuecomment-2795027202) in [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
 <!--END_SECTION:activity-->
