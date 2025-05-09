@@ -2,7 +2,7 @@
 
 ### Hi there, i am using Github :)
 
-- 🔭 I’m currently working on [fractava/notes-core](https://github.com/fractava/notes-core), [JonathanTreffler/sharerenamer](https://github.com/JonathanTreffler/sharerenamer)
+- 🔭 I’m currently working on [verdigado/organization_folders](https://github.com/verdigado/organization_folders), [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push), [fractava/biblio](https://github.com/fractava/biblio), [fractava/notes-core](https://github.com/fractava/notes-core)
 - ⚡ Fun fact: This Profile gets updated by Github Actions
 
 ## Connect with me:
