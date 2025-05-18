@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#34](https://github.com/verdigado/organization_folders/issues/34) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. ❗ Opened issue [#39](https://github.com/verdigado/organization_folders/issues/39) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. 🔒 Closed issue [#33](https://github.com/verdigado/organization_folders/issues/33) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. ❗ Opened issue [#37](https://github.com/verdigado/organization_folders/issues/37) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. ❗ Opened issue [#34](https://github.com/verdigado/organization_folders/issues/34) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🎉 Merged PR [#40](https://github.com/verdigado/organization_folders/pull/40) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. 💪 Opened PR [#40](https://github.com/verdigado/organization_folders/pull/40) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. 🔒 Closed issue [#34](https://github.com/verdigado/organization_folders/issues/34) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. ❗ Opened issue [#39](https://github.com/verdigado/organization_folders/issues/39) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. 🔒 Closed issue [#33](https://github.com/verdigado/organization_folders/issues/33) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
