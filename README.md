@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Beta 1](https://github.com/verdigado/organization_folders/releases/tag/v0.0.1) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. 💪 Opened PR [#13135](https://github.com/nextcloud/documentation/pull/13135) in [nextcloud/documentation](https://github.com/nextcloud/documentation)
-3. 🎉 Merged PR [#40](https://github.com/verdigado/organization_folders/pull/40) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 💪 Opened PR [#40](https://github.com/verdigado/organization_folders/pull/40) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. 🔒 Closed issue [#34](https://github.com/verdigado/organization_folders/issues/34) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🚀 Published release [v0.0.2](https://github.com/verdigado/organization_folders/releases/tag/v0.0.2) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. 🚀 Published release [Beta 1](https://github.com/verdigado/organization_folders/releases/tag/v0.0.1) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. 💪 Opened PR [#13135](https://github.com/nextcloud/documentation/pull/13135) in [nextcloud/documentation](https://github.com/nextcloud/documentation)
+4. 🎉 Merged PR [#40](https://github.com/verdigado/organization_folders/pull/40) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. 💪 Opened PR [#40](https://github.com/verdigado/organization_folders/pull/40) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
