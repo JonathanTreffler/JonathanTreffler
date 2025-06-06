@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/bitfireAT/nc_ext_dav_push/issues/49#issuecomment-2911673760) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-2. 🚀 Published release [v0.0.2](https://github.com/verdigado/organization_folders/releases/tag/v0.0.2) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. 🚀 Published release [Beta 1](https://github.com/verdigado/organization_folders/releases/tag/v0.0.1) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 💪 Opened PR [#13135](https://github.com/nextcloud/documentation/pull/13135) in [nextcloud/documentation](https://github.com/nextcloud/documentation)
-5. 🎉 Merged PR [#40](https://github.com/verdigado/organization_folders/pull/40) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. ❗ Opened issue [#4](https://github.com/cevi/nextcloud-hitobito-login/issues/4) in [cevi/nextcloud-hitobito-login](https://github.com/cevi/nextcloud-hitobito-login)
+2. 🗣 Commented on [#49](https://github.com/bitfireAT/nc_ext_dav_push/issues/49#issuecomment-2911673760) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+3. 🚀 Published release [v0.0.2](https://github.com/verdigado/organization_folders/releases/tag/v0.0.2) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. 🚀 Published release [Beta 1](https://github.com/verdigado/organization_folders/releases/tag/v0.0.1) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. 💪 Opened PR [#13135](https://github.com/nextcloud/documentation/pull/13135) in [nextcloud/documentation](https://github.com/nextcloud/documentation)
 <!--END_SECTION:activity-->
