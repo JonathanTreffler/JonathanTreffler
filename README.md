@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/verdigado/organization_folders/issues/16) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. ❗ Opened issue [#45](https://github.com/verdigado/organization_folders/issues/45) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. ❗ Opened issue [#44](https://github.com/verdigado/organization_folders/issues/44) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. ❗ Opened issue [#4](https://github.com/cevi/nextcloud-hitobito-login/issues/4) in [cevi/nextcloud-hitobito-login](https://github.com/cevi/nextcloud-hitobito-login)
-5. 🗣 Commented on [#49](https://github.com/bitfireAT/nc_ext_dav_push/issues/49#issuecomment-2911673760) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. ❗ Opened issue [#46](https://github.com/verdigado/organization_folders/issues/46) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. 🔒 Closed issue [#16](https://github.com/verdigado/organization_folders/issues/16) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. ❗ Opened issue [#45](https://github.com/verdigado/organization_folders/issues/45) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. ❗ Opened issue [#44](https://github.com/verdigado/organization_folders/issues/44) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. ❗ Opened issue [#4](https://github.com/cevi/nextcloud-hitobito-login/issues/4) in [cevi/nextcloud-hitobito-login](https://github.com/cevi/nextcloud-hitobito-login)
 <!--END_SECTION:activity-->
