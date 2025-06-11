@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/bitfireAT/nc_ext_dav_push/issues/51#issuecomment-2962886585) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-2. 🗣 Commented on [#50](https://github.com/bitfireAT/nc_ext_dav_push/issues/50#issuecomment-2962819550) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-3. 🔒 Closed issue [#50](https://github.com/bitfireAT/nc_ext_dav_push/issues/50) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-4. 🔒 Closed issue [#44](https://github.com/bitfireAT/nc_ext_dav_push/issues/44) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-5. 🎉 Merged PR [#47](https://github.com/bitfireAT/nc_ext_dav_push/pull/47) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🚀 Published release [v0.0.3](https://github.com/bitfireAT/nc_ext_dav_push/releases/tag/v0.0.3) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+2. 🗣 Commented on [#51](https://github.com/bitfireAT/nc_ext_dav_push/issues/51#issuecomment-2962886585) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+3. 🗣 Commented on [#50](https://github.com/bitfireAT/nc_ext_dav_push/issues/50#issuecomment-2962819550) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+4. 🔒 Closed issue [#50](https://github.com/bitfireAT/nc_ext_dav_push/issues/50) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+5. 🔒 Closed issue [#44](https://github.com/bitfireAT/nc_ext_dav_push/issues/44) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 <!--END_SECTION:activity-->
