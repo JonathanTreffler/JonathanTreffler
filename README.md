@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#47](https://github.com/verdigado/organization_folders/issues/47) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. 🗣 Commented on [#47](https://github.com/verdigado/organization_folders/issues/47#issuecomment-2955882800) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. 🔒 Closed issue [#47](https://github.com/verdigado/organization_folders/issues/47) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. ❗ Opened issue [#49](https://github.com/verdigado/organization_folders/issues/49) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. ❗ Opened issue [#48](https://github.com/verdigado/organization_folders/issues/48) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🗣 Commented on [#50](https://github.com/bitfireAT/nc_ext_dav_push/issues/50#issuecomment-2962819550) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+2. 🔒 Closed issue [#50](https://github.com/bitfireAT/nc_ext_dav_push/issues/50) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+3. 🔒 Closed issue [#44](https://github.com/bitfireAT/nc_ext_dav_push/issues/44) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+4. 🎉 Merged PR [#47](https://github.com/bitfireAT/nc_ext_dav_push/pull/47) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+5. 🔓 Reopened issue [#47](https://github.com/verdigado/organization_folders/issues/47) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
