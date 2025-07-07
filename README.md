@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#782](https://github.com/nextcloud/docker-ci/pull/782) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
-2. 🗣 Commented on [#26](https://github.com/bitfireAT/nc_ext_dav_push/issues/26#issuecomment-2963857775) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-3. 🗣 Commented on [#42](https://github.com/bitfireAT/nc_ext_dav_push/issues/42#issuecomment-2963855752) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-4. 🔒 Closed issue [#42](https://github.com/bitfireAT/nc_ext_dav_push/issues/42) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-5. 🔒 Closed issue [#49](https://github.com/bitfireAT/nc_ext_dav_push/issues/49) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🗣 Commented on [#39](https://github.com/verdigado/organization_folders/issues/39#issuecomment-3045303594) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. 🔒 Closed issue [#39](https://github.com/verdigado/organization_folders/issues/39) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. 💪 Opened PR [#782](https://github.com/nextcloud/docker-ci/pull/782) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
+4. 🗣 Commented on [#26](https://github.com/bitfireAT/nc_ext_dav_push/issues/26#issuecomment-2963857775) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+5. 🗣 Commented on [#42](https://github.com/bitfireAT/nc_ext_dav_push/issues/42#issuecomment-2963855752) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 <!--END_SECTION:activity-->
