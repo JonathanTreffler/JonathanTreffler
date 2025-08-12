@@ -172,8 +172,8 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#28](https://github.com/verdigado/organization_folders/issues/28) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. 🚀 Published release [Beta 3](https://github.com/verdigado/organization_folders/releases/tag/v0.0.3) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🔒 Closed issue [#44](https://github.com/verdigado/organization_folders/issues/44) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. 🔒 Closed issue [#28](https://github.com/verdigado/organization_folders/issues/28) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 3. 🗣 Commented on [#39](https://github.com/verdigado/organization_folders/issues/39#issuecomment-3045303594) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 4. 🔒 Closed issue [#39](https://github.com/verdigado/organization_folders/issues/39) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 5. 🗣 Commented on [#26](https://github.com/bitfireAT/nc_ext_dav_push/issues/26#issuecomment-2963857775) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
