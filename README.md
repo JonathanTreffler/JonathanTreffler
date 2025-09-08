@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/LibreCodeCoop/l10n_override/pull/40#issuecomment-3224858792) in [LibreCodeCoop/l10n_override](https://github.com/LibreCodeCoop/l10n_override)
-2. 🎉 Merged PR [#7](https://github.com/verdigado/organization_folders/pull/7) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. 🔒 Closed issue [#48](https://github.com/verdigado/organization_folders/issues/48) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 🗣 Commented on [#30](https://github.com/verdigado/organization_folders/issues/30#issuecomment-3219489876) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. 🔒 Closed issue [#30](https://github.com/verdigado/organization_folders/issues/30) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🗣 Commented on [#56](https://github.com/bitfireAT/nc_ext_dav_push/issues/56#issuecomment-3253480626) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+2. 🗣 Commented on [#40](https://github.com/LibreCodeCoop/l10n_override/pull/40#issuecomment-3224858792) in [LibreCodeCoop/l10n_override](https://github.com/LibreCodeCoop/l10n_override)
+3. 🗣 Commented on [#56](https://github.com/verdigado/organization_folders/pull/56#issuecomment-3223851254) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. 🗣 Commented on [#40](https://github.com/LibreCodeCoop/l10n_override/pull/40#issuecomment-3223614823) in [LibreCodeCoop/l10n_override](https://github.com/LibreCodeCoop/l10n_override)
+5. 🗣 Commented on [#40](https://github.com/LibreCodeCoop/l10n_override/pull/40#issuecomment-3223610030) in [LibreCodeCoop/l10n_override](https://github.com/LibreCodeCoop/l10n_override)
 <!--END_SECTION:activity-->
