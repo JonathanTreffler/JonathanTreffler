@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#20](https://github.com/bitfireAT/nc_ext_dav_push/pull/20) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-2. 🗣 Commented on [#54](https://github.com/bitfireAT/nc_ext_dav_push/issues/54#issuecomment-3319113808) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-3. 🗣 Commented on [#40](https://github.com/LibreCodeCoop/l10n_override/pull/40#issuecomment-3224858792) in [LibreCodeCoop/l10n_override](https://github.com/LibreCodeCoop/l10n_override)
-4. 🔒 Closed issue [#57](https://github.com/bitfireAT/nc_ext_dav_push/issues/57) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🗣 Commented on [#41](https://github.com/bitfireAT/nc_ext_dav_push/issues/41#issuecomment-3342017194) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+2. 🔒 Closed issue [#41](https://github.com/bitfireAT/nc_ext_dav_push/issues/41) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+3. ❌ Closed PR [#20](https://github.com/bitfireAT/nc_ext_dav_push/pull/20) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+4. 🗣 Commented on [#54](https://github.com/bitfireAT/nc_ext_dav_push/issues/54#issuecomment-3319113808) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 5. 🔒 Closed issue [#22](https://github.com/bitfireAT/nc_ext_dav_push/issues/22) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 <!--END_SECTION:activity-->
