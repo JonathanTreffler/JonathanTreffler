@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/bitfireAT/nc_ext_dav_push/issues/56#issuecomment-3342030834) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-2. 🚀 Published release [v1.0.0](https://github.com/bitfireAT/nc_ext_dav_push/releases/tag/v1.0.0) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-3. 🗣 Commented on [#41](https://github.com/bitfireAT/nc_ext_dav_push/issues/41#issuecomment-3342017194) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-4. 🔒 Closed issue [#41](https://github.com/bitfireAT/nc_ext_dav_push/issues/41) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-5. ❌ Closed PR [#20](https://github.com/bitfireAT/nc_ext_dav_push/pull/20) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🗣 Commented on [#22379](https://github.com/nextcloud/server/issues/22379#issuecomment-3343642172) in [nextcloud/server](https://github.com/nextcloud/server)
+2. 🗣 Commented on [#56](https://github.com/bitfireAT/nc_ext_dav_push/issues/56#issuecomment-3342030834) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+3. 🚀 Published release [v1.0.0](https://github.com/bitfireAT/nc_ext_dav_push/releases/tag/v1.0.0) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+4. 🗣 Commented on [#41](https://github.com/bitfireAT/nc_ext_dav_push/issues/41#issuecomment-3342017194) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+5. 🔒 Closed issue [#41](https://github.com/bitfireAT/nc_ext_dav_push/issues/41) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 <!--END_SECTION:activity-->
