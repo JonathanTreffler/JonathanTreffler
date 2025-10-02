@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#67](https://github.com/verdigado/organization_folders/issues/67) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. 🗣 Commented on [#22379](https://github.com/nextcloud/server/issues/22379#issuecomment-3343642172) in [nextcloud/server](https://github.com/nextcloud/server)
-3. 🗣 Commented on [#56](https://github.com/bitfireAT/nc_ext_dav_push/issues/56#issuecomment-3342030834) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-4. 🚀 Published release [v1.0.0](https://github.com/bitfireAT/nc_ext_dav_push/releases/tag/v1.0.0) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-5. 🗣 Commented on [#41](https://github.com/bitfireAT/nc_ext_dav_push/issues/41#issuecomment-3342017194) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🚀 Published release [v1.0.1](https://github.com/verdigado/groupfolder_tags/releases/tag/v1.0.1) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+2. ❗ Opened issue [#67](https://github.com/verdigado/organization_folders/issues/67) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. 🗣 Commented on [#22379](https://github.com/nextcloud/server/issues/22379#issuecomment-3343642172) in [nextcloud/server](https://github.com/nextcloud/server)
+4. 🗣 Commented on [#56](https://github.com/bitfireAT/nc_ext_dav_push/issues/56#issuecomment-3342030834) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+5. 🚀 Published release [v1.0.0](https://github.com/bitfireAT/nc_ext_dav_push/releases/tag/v1.0.0) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 <!--END_SECTION:activity-->
