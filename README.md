@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#219](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/219#issuecomment-3395274113) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🔒 Closed issue [#219](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/219) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🚀 Published release [v1.0.0](https://github.com/verdigado/organization_folders/releases/tag/v1.0.0) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 🗣 Commented on [#60](https://github.com/verdigado/organization_folders/issues/60#issuecomment-3362320380) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. ❗ Opened issue [#68](https://github.com/verdigado/organization_folders/issues/68) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🎉 Merged PR [#221](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/221) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🗣 Commented on [#219](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/219#issuecomment-3395274113) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🔒 Closed issue [#219](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/219) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🚀 Published release [v1.0.0](https://github.com/verdigado/organization_folders/releases/tag/v1.0.0) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. 🗣 Commented on [#60](https://github.com/verdigado/organization_folders/issues/60#issuecomment-3362320380) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
