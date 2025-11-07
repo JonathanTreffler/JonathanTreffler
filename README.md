@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1948](undefined) in [Uberspace/lab](https://github.com/Uberspace/lab)
-2.  Labeled issue [#70](https://github.com/verdigado/organization_folders/issues/70) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. ❗ Opened issue [#70](https://github.com/verdigado/organization_folders/issues/70) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 🔒 Closed issue [#69](https://github.com/verdigado/organization_folders/issues/69) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. 🗣 Commented on [#69](https://github.com/verdigado/organization_folders/issues/69#issuecomment-3407135395) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🚀 Published release [v1.0.1](https://github.com/verdigado/organization_folders/releases/tag/v1.0.1) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. 💪 Opened PR [#1948](undefined) in [Uberspace/lab](https://github.com/Uberspace/lab)
+3.  Labeled issue [#70](https://github.com/verdigado/organization_folders/issues/70) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. ❗ Opened issue [#70](https://github.com/verdigado/organization_folders/issues/70) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. 🔒 Closed issue [#69](https://github.com/verdigado/organization_folders/issues/69) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
