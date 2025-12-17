@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#305](https://github.com/linuxserver/docker-jellyfin/issues/305#issuecomment-3663292767) in [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin)
-2. 🗣 Commented on [#53](https://github.com/verdigado/organization_folders/issues/53#issuecomment-3656700390) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3.  Assigned issue [#78](https://github.com/verdigado/organization_folders/issues/78) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. ❗ Opened issue [#78](https://github.com/verdigado/organization_folders/issues/78) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5.  Assigned issue [#77](https://github.com/verdigado/organization_folders/issues/77) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. ❗ Opened issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2.  Assigned issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. 🗣 Commented on [#305](https://github.com/linuxserver/docker-jellyfin/issues/305#issuecomment-3663292767) in [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin)
+4. 🗣 Commented on [#53](https://github.com/verdigado/organization_folders/issues/53#issuecomment-3656700390) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5.  Assigned issue [#78](https://github.com/verdigado/organization_folders/issues/78) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
