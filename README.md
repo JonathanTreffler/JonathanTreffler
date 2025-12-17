@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#80](undefined) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. ❌ Assigned PR [#80](undefined) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. ❗ Opened issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4.  Assigned issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. 🗣 Commented on [#305](https://github.com/linuxserver/docker-jellyfin/issues/305#issuecomment-3663292767) in [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin)
+1.  Labeled issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2.  Labeled issue [#75](https://github.com/verdigado/organization_folders/issues/75) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. 💪 Opened PR [#80](undefined) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. ❌ Assigned PR [#80](undefined) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. ❗ Opened issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
