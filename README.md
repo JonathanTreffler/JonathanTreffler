@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#80](undefined) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2.  Labeled issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3.  Labeled issue [#75](https://github.com/verdigado/organization_folders/issues/75) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 💪 Opened PR [#80](undefined) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. ❌ Assigned PR [#80](undefined) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🔒 Closed issue [#76](https://github.com/verdigado/organization_folders/issues/76) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. ❌ Merged PR [#80](undefined) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3.  Labeled issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4.  Labeled issue [#75](https://github.com/verdigado/organization_folders/issues/75) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. 💪 Opened PR [#80](undefined) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
