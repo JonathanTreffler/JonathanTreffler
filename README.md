@@ -175,6 +175,6 @@
 1. 🚀 Published release [v1.1.0](https://github.com/verdigado/organization_folders/releases/tag/v1.1.0) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 2. 🔒 Closed issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 3. 🔒 Closed issue [#76](https://github.com/verdigado/organization_folders/issues/76) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. ❌ Merged PR [#80](undefined) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5.  Labeled issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. 🎉 Merged PR [#80](https://github.com/verdigado/organization_folders/pull/80) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. ℹ️ Labeled issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
