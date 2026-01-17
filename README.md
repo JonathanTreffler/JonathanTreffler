@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/verdigado/organization_folders/issues/47#issuecomment-3718638712) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. 🚀 Published release [v1.1.0](https://github.com/verdigado/organization_folders/releases/tag/v1.1.0) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. 🔒 Closed issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 🔒 Closed issue [#76](https://github.com/verdigado/organization_folders/issues/76) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. 🎉 Merged PR [#80](https://github.com/verdigado/organization_folders/pull/80) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🔒 Closed issue [#2](https://github.com/JonathanTreffler/hacs-websocket-service/issues/2) in [JonathanTreffler/hacs-websocket-service](https://github.com/JonathanTreffler/hacs-websocket-service)
+2. 🗣 Commented on [#2](https://github.com/JonathanTreffler/hacs-websocket-service/issues/2#issuecomment-3764141713) in [JonathanTreffler/hacs-websocket-service](https://github.com/JonathanTreffler/hacs-websocket-service)
+3. 🗣 Commented on [#47](https://github.com/verdigado/organization_folders/issues/47#issuecomment-3718638712) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. 🚀 Published release [v1.1.0](https://github.com/verdigado/organization_folders/releases/tag/v1.1.0) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. 🔒 Closed issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
