@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/JonathanTreffler/hacs-websocket-service/issues/2) in [JonathanTreffler/hacs-websocket-service](https://github.com/JonathanTreffler/hacs-websocket-service)
-2. 🗣 Commented on [#2](https://github.com/JonathanTreffler/hacs-websocket-service/issues/2#issuecomment-3764141713) in [JonathanTreffler/hacs-websocket-service](https://github.com/JonathanTreffler/hacs-websocket-service)
-3. 🗣 Commented on [#47](https://github.com/verdigado/organization_folders/issues/47#issuecomment-3718638712) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 🚀 Published release [v1.1.0](https://github.com/verdigado/organization_folders/releases/tag/v1.1.0) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. 🔒 Closed issue [#79](https://github.com/verdigado/organization_folders/issues/79) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🗣 Commented on [#53](https://github.com/verdigado/organization_folders/issues/53#issuecomment-3784627951) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. 🗣 Commented on [#6](https://github.com/verdigado/groupfolder_tags/issues/6#issuecomment-3784612788) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+3. 💪 Opened PR [#8](https://github.com/verdigado/groupfolder_tags/pull/8) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+4. ℹ️ Assigned PR [#8](https://github.com/verdigado/groupfolder_tags/pull/8) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+5. 🔒 Closed issue [#2](https://github.com/JonathanTreffler/hacs-websocket-service/issues/2) in [JonathanTreffler/hacs-websocket-service](https://github.com/JonathanTreffler/hacs-websocket-service)
 <!--END_SECTION:activity-->
