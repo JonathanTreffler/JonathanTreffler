@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#64](https://github.com/bitfireAT/nc_ext_dav_push/issues/64) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-2. ❗ Opened issue [#64](https://github.com/bitfireAT/nc_ext_dav_push/issues/64) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-3. ℹ️ Labeled issue [#95](https://github.com/verdigado/organization_folders/issues/95) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. ❗ Opened issue [#95](https://github.com/verdigado/organization_folders/issues/95) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. ℹ️ Labeled issue [#94](https://github.com/verdigado/organization_folders/issues/94) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🗣 Commented on [#64](https://github.com/bitfireAT/nc_ext_dav_push/issues/64#issuecomment-3920679621) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+2. 🔒 Closed issue [#64](https://github.com/bitfireAT/nc_ext_dav_push/issues/64) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+3. 🗣 Commented on [#65](https://github.com/bitfireAT/nc_ext_dav_push/issues/65#issuecomment-3920671712) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+4. 🚀 Published release [v1.0.1](https://github.com/bitfireAT/nc_ext_dav_push/releases/tag/v1.0.1) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+5. ℹ️ Assigned issue [#64](https://github.com/bitfireAT/nc_ext_dav_push/issues/64) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 <!--END_SECTION:activity-->
