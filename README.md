@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/david-garcia-garcia/traefik-with-plugins/issues/8) in [david-garcia-garcia/traefik-with-plugins](https://github.com/david-garcia-garcia/traefik-with-plugins)
-2. 🗣 Commented on [#66](https://github.com/bitfireAT/nc_ext_dav_push/issues/66#issuecomment-3943966858) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-3. 🗣 Commented on [#51483](https://github.com/nextcloud/server/issues/51483#issuecomment-3923843557) in [nextcloud/server](https://github.com/nextcloud/server)
-4. 🔒 Closed issue [#51483](https://github.com/nextcloud/server/issues/51483) in [nextcloud/server](https://github.com/nextcloud/server)
-5. 🗣 Commented on [#64](https://github.com/bitfireAT/nc_ext_dav_push/issues/64#issuecomment-3920679621) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🚀 Published release [v1.0.3](https://github.com/verdigado/groupfolder_tags/releases/tag/v1.0.3) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+2. ❗ Opened issue [#8](https://github.com/david-garcia-garcia/traefik-with-plugins/issues/8) in [david-garcia-garcia/traefik-with-plugins](https://github.com/david-garcia-garcia/traefik-with-plugins)
+3. 🗣 Commented on [#66](https://github.com/bitfireAT/nc_ext_dav_push/issues/66#issuecomment-3943966858) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+4. 🗣 Commented on [#51483](https://github.com/nextcloud/server/issues/51483#issuecomment-3923843557) in [nextcloud/server](https://github.com/nextcloud/server)
+5. 🔒 Closed issue [#51483](https://github.com/nextcloud/server/issues/51483) in [nextcloud/server](https://github.com/nextcloud/server)
 <!--END_SECTION:activity-->
