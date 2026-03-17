@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4139](https://github.com/TeamPiped/Piped/issues/4139#issuecomment-3990311231) in [TeamPiped/Piped](https://github.com/TeamPiped/Piped)
-2. 🗣 Commented on [#66](https://github.com/bitfireAT/nc_ext_dav_push/issues/66#issuecomment-3984073278) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-3. ℹ️ Assigned issue [#9](https://github.com/verdigado/groupfolder_tags/issues/9) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
-4. ❗ Opened issue [#9](https://github.com/verdigado/groupfolder_tags/issues/9) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
-5. 🚀 Published release [v1.0.3](https://github.com/verdigado/groupfolder_tags/releases/tag/v1.0.3) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+1. 🗣 Commented on [#66](https://github.com/bitfireAT/nc_ext_dav_push/issues/66#issuecomment-4074595255) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+2. 🗣 Commented on [#4139](https://github.com/TeamPiped/Piped/issues/4139#issuecomment-3990311231) in [TeamPiped/Piped](https://github.com/TeamPiped/Piped)
+3. 🗣 Commented on [#66](https://github.com/bitfireAT/nc_ext_dav_push/issues/66#issuecomment-3984073278) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+4. ℹ️ Assigned issue [#9](https://github.com/verdigado/groupfolder_tags/issues/9) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+5. ❗ Opened issue [#9](https://github.com/verdigado/groupfolder_tags/issues/9) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
 <!--END_SECTION:activity-->
