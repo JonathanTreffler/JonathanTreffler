@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#98](https://github.com/verdigado/organization_folders/issues/98) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. ℹ️ Labeled issue [#98](https://github.com/verdigado/organization_folders/issues/98) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. ❗ Opened issue [#98](https://github.com/verdigado/organization_folders/issues/98) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 🗣 Commented on [#96](https://github.com/verdigado/organization_folders/issues/96#issuecomment-4074926306) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. 🗣 Commented on [#96](https://github.com/verdigado/organization_folders/issues/96#issuecomment-4074909490) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. ℹ️ Labeled PR [#100](https://github.com/verdigado/organization_folders/pull/100) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. ℹ️ Labeled PR [#100](https://github.com/verdigado/organization_folders/pull/100) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. 💪 Opened PR [#100](https://github.com/verdigado/organization_folders/pull/100) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. ℹ️ Assigned PR [#100](https://github.com/verdigado/organization_folders/pull/100) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. ❗ Opened issue [#99](https://github.com/verdigado/organization_folders/issues/99) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
