@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/verdigado/organization_folders/issues/96#issuecomment-4074926306) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. 🗣 Commented on [#96](https://github.com/verdigado/organization_folders/issues/96#issuecomment-4074909490) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. 🗣 Commented on [#66](https://github.com/bitfireAT/nc_ext_dav_push/issues/66#issuecomment-4074595255) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-4. 🗣 Commented on [#4139](https://github.com/TeamPiped/Piped/issues/4139#issuecomment-3990311231) in [TeamPiped/Piped](https://github.com/TeamPiped/Piped)
-5. 🗣 Commented on [#66](https://github.com/bitfireAT/nc_ext_dav_push/issues/66#issuecomment-3984073278) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. ℹ️ Assigned issue [#98](https://github.com/verdigado/organization_folders/issues/98) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. ℹ️ Labeled issue [#98](https://github.com/verdigado/organization_folders/issues/98) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. ❗ Opened issue [#98](https://github.com/verdigado/organization_folders/issues/98) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. 🗣 Commented on [#96](https://github.com/verdigado/organization_folders/issues/96#issuecomment-4074926306) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. 🗣 Commented on [#96](https://github.com/verdigado/organization_folders/issues/96#issuecomment-4074909490) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
