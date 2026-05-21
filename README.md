@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#342](https://github.com/nextcloud/integration_google/pull/342#issuecomment-4455952753) in [nextcloud/integration_google](https://github.com/nextcloud/integration_google)
-2. ℹ️ Assigned issue [#103](https://github.com/verdigado/organization_folders/issues/103) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. ℹ️ Labeled issue [#103](https://github.com/verdigado/organization_folders/issues/103) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. ℹ️ Labeled issue [#103](https://github.com/verdigado/organization_folders/issues/103) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. ℹ️ Labeled issue [#103](https://github.com/verdigado/organization_folders/issues/103) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🗣 Commented on [#99](https://github.com/verdigado/organization_folders/issues/99#issuecomment-4510972854) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. 🔒 Closed issue [#99](https://github.com/verdigado/organization_folders/issues/99) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. 🎉 Merged PR [#100](https://github.com/verdigado/organization_folders/pull/100) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. ❗ Opened issue [#104](https://github.com/verdigado/organization_folders/issues/104) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. ℹ️ Labeled issue [#104](https://github.com/verdigado/organization_folders/issues/104) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
