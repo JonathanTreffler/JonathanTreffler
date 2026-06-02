@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/verdigado/organization_folders/issues/109#issuecomment-4603625087) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. 🗣 Commented on [#109](https://github.com/verdigado/organization_folders/issues/109#issuecomment-4603595439) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. 🗣 Commented on [#108](https://github.com/verdigado/organization_folders/issues/108#issuecomment-4594687988) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 🚀 Published release [v1.2.0 Beta 2](https://github.com/verdigado/organization_folders/releases/tag/v1.2.0-beta-2) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. 🚀 Published release [v1.2.0 Beta 1](https://github.com/verdigado/organization_folders/releases/tag/v1.2.0-beta-1) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🗣 Commented on [#109](https://github.com/verdigado/organization_folders/issues/109#issuecomment-4607390386) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. 🗣 Commented on [#109](https://github.com/verdigado/organization_folders/issues/109#issuecomment-4603625087) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. 🗣 Commented on [#109](https://github.com/verdigado/organization_folders/issues/109#issuecomment-4603595439) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. 🗣 Commented on [#108](https://github.com/verdigado/organization_folders/issues/108#issuecomment-4594687988) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. 🚀 Published release [v1.2.0 Beta 2](https://github.com/verdigado/organization_folders/releases/tag/v1.2.0-beta-2) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
