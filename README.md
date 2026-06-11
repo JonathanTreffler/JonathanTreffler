@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/verdigado/organization_folders/pull/111) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. 🔒 Closed issue [#108](https://github.com/verdigado/organization_folders/issues/108) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. 🗣 Commented on [#108](https://github.com/verdigado/organization_folders/issues/108#issuecomment-4673653032) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 🗣 Commented on [#109](https://github.com/verdigado/organization_folders/issues/109#issuecomment-4673229239) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. ℹ️ Labeled PR [#111](https://github.com/verdigado/organization_folders/pull/111) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🗣 Commented on [#4723](https://github.com/nextcloud/groupfolders/issues/4723#issuecomment-4676000693) in [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders)
+2. 🗣 Commented on [#4696](https://github.com/nextcloud/groupfolders/issues/4696#issuecomment-4675905377) in [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders)
+3. 🚀 Published release [v1.2.0 Beta 3](https://github.com/verdigado/organization_folders/releases/tag/v1.2.0-beta-3) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. 🎉 Merged PR [#111](https://github.com/verdigado/organization_folders/pull/111) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. 🔒 Closed issue [#108](https://github.com/verdigado/organization_folders/issues/108) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
