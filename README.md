@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0 Beta 4](https://github.com/verdigado/organization_folders/releases/tag/v1.2.0-beta-4) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. ❗ Opened issue [#953](https://github.com/nextcloud/docker-ci/issues/953) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
-3. 🗣 Commented on [#685](https://github.com/fractava/biblio/pull/685#issuecomment-4702608493) in [fractava/biblio](https://github.com/fractava/biblio)
-4. 🗣 Commented on [#719](https://github.com/fractava/biblio/pull/719#issuecomment-4702602761) in [fractava/biblio](https://github.com/fractava/biblio)
-5. 🗣 Commented on [#729](https://github.com/fractava/biblio/pull/729#issuecomment-4702598210) in [fractava/biblio](https://github.com/fractava/biblio)
+1. 🗣 Commented on [#953](https://github.com/nextcloud/docker-ci/issues/953#issuecomment-4722820116) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
+2. 💪 Opened PR [#1046](https://github.com/nextcloud/app-certificate-requests/pull/1046) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+3. 🚀 Published release [v1.2.0 Beta 4](https://github.com/verdigado/organization_folders/releases/tag/v1.2.0-beta-4) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. ❗ Opened issue [#953](https://github.com/nextcloud/docker-ci/issues/953) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
+5. 🗣 Commented on [#685](https://github.com/fractava/biblio/pull/685#issuecomment-4702608493) in [fractava/biblio](https://github.com/fractava/biblio)
 <!--END_SECTION:activity-->
