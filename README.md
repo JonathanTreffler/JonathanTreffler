@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#953](https://github.com/nextcloud/docker-ci/issues/953#issuecomment-4732189437) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
-2. ℹ️ Assigned issue [#112](https://github.com/verdigado/organization_folders/issues/112) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. ❗ Opened issue [#112](https://github.com/verdigado/organization_folders/issues/112) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 🗣 Commented on [#953](https://github.com/nextcloud/docker-ci/issues/953#issuecomment-4722820116) in [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci)
-5. 💪 Opened PR [#1046](https://github.com/nextcloud/app-certificate-requests/pull/1046) in [nextcloud/app-certificate-requests](https://github.com/nextcloud/app-certificate-requests)
+1. 🔒 Closed issue [#68](https://github.com/bitfireAT/nc_ext_dav_push/issues/68) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+2. 🗣 Commented on [#68](https://github.com/bitfireAT/nc_ext_dav_push/issues/68#issuecomment-4818492287) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+3. 🚀 Published release [v1.0.2](https://github.com/bitfireAT/nc_ext_dav_push/releases/tag/v1.0.2) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+4. 🎉 Merged PR [#70](https://github.com/bitfireAT/nc_ext_dav_push/pull/70) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+5. 💪 Opened PR [#70](https://github.com/bitfireAT/nc_ext_dav_push/pull/70) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 <!--END_SECTION:activity-->
