@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4633](https://github.com/bigcode-project/opt-out-v2/issues/4633) in [bigcode-project/opt-out-v2](https://github.com/bigcode-project/opt-out-v2)
-2. 🗣 Commented on [#71](https://github.com/bitfireAT/nc_ext_dav_push/pull/71#issuecomment-5012278690) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
-3. ℹ️ Labeled issue [#119](https://github.com/verdigado/organization_folders/issues/119) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. 🗣 Commented on [#9](https://github.com/verdigado/groupfolder_tags/issues/9#issuecomment-5101149935) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+2. ❗ Opened issue [#4633](https://github.com/bigcode-project/opt-out-v2/issues/4633) in [bigcode-project/opt-out-v2](https://github.com/bigcode-project/opt-out-v2)
+3. 🗣 Commented on [#71](https://github.com/bitfireAT/nc_ext_dav_push/pull/71#issuecomment-5012278690) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
 4. ℹ️ Labeled issue [#119](https://github.com/verdigado/organization_folders/issues/119) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. ❗ Opened issue [#119](https://github.com/verdigado/organization_folders/issues/119) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. ℹ️ Labeled issue [#119](https://github.com/verdigado/organization_folders/issues/119) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
