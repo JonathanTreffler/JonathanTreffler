@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/verdigado/groupfolder_tags/pull/11#issuecomment-5483404022) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
-2. 🗣 Commented on [#58365](https://github.com/nextcloud/server/pull/58365#issuecomment-5395193288) in [nextcloud/server](https://github.com/nextcloud/server)
-3. 🗣 Commented on [#120](https://github.com/verdigado/organization_folders/issues/120#issuecomment-5394801906) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 🗣 Commented on [#265](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/265#issuecomment-5151670369) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. ❗ Opened issue [#4633](https://github.com/bigcode-project/opt-out-v2/issues/4633) in [bigcode-project/opt-out-v2](https://github.com/bigcode-project/opt-out-v2)
+1. 🗣 Commented on [#107](https://github.com/verdigado/organization_folders/pull/107#issuecomment-5572587895) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. 🗣 Commented on [#93](https://github.com/verdigado/organization_folders/issues/93#issuecomment-5572533280) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. ❗ Opened issue [#12](https://github.com/verdigado/groupfolder_tags/issues/12) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+4. 🗣 Commented on [#9](https://github.com/verdigado/groupfolder_tags/issues/9#issuecomment-5572323145) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
+5. 🔒 Closed issue [#9](https://github.com/verdigado/groupfolder_tags/issues/9) in [verdigado/groupfolder_tags](https://github.com/verdigado/groupfolder_tags)
 <!--END_SECTION:activity-->
