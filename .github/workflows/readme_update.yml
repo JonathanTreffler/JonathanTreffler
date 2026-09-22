@@ -30,7 +30,7 @@ jobs:
           git pull
           git submodule update --recursive --remote
       
-      - uses: actions/setup-go@v2
+      - uses: actions/setup-go@v5
         with:
           go-version: '^1.13.1'
       
