@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#115](https://github.com/verdigado/organization_folders/issues/115) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. ❗ Opened issue [#133](https://github.com/verdigado/organization_folders/issues/133) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. ℹ️ Labeled issue [#133](https://github.com/verdigado/organization_folders/issues/133) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. ℹ️ Labeled issue [#133](https://github.com/verdigado/organization_folders/issues/133) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. 🗣 Commented on [#76](https://github.com/bitfireAT/nc_ext_dav_push/issues/76#issuecomment-5743632519) in [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push)
+1. 🔒 Closed issue [#112](https://github.com/verdigado/organization_folders/issues/112) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+2. 🗣 Commented on [#112](https://github.com/verdigado/organization_folders/issues/112#issuecomment-5820216092) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+3. 🔒 Closed issue [#115](https://github.com/verdigado/organization_folders/issues/115) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+4. ❗ Opened issue [#133](https://github.com/verdigado/organization_folders/issues/133) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+5. ℹ️ Labeled issue [#133](https://github.com/verdigado/organization_folders/issues/133) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 <!--END_SECTION:activity-->
