@@ -172,9 +172,9 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.1 - Calendars & Performance](https://github.com/verdigado/organization_folders/releases/tag/v1.2.1) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-2. 🔒 Closed issue [#112](https://github.com/verdigado/organization_folders/issues/112) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-3. 🗣 Commented on [#112](https://github.com/verdigado/organization_folders/issues/112#issuecomment-5820216092) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-4. 🔒 Closed issue [#115](https://github.com/verdigado/organization_folders/issues/115) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
-5. ❗ Opened issue [#133](https://github.com/verdigado/organization_folders/issues/133) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
+1. ℹ️ Labeled issue [#65513](https://github.com/nextcloud/server/issues/65513) in [nextcloud/server](https://github.com/nextcloud/server)
+2. ℹ️ Labeled issue [#65513](https://github.com/nextcloud/server/issues/65513) in [nextcloud/server](https://github.com/nextcloud/server)
+3. ℹ️ Labeled issue [#65513](https://github.com/nextcloud/server/issues/65513) in [nextcloud/server](https://github.com/nextcloud/server)
+4. ℹ️ Labeled issue [#65513](https://github.com/nextcloud/server/issues/65513) in [nextcloud/server](https://github.com/nextcloud/server)
+5. ℹ️ Labeled issue [#65513](https://github.com/nextcloud/server/issues/65513) in [nextcloud/server](https://github.com/nextcloud/server)
 <!--END_SECTION:activity-->
