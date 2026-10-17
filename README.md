@@ -172,7 +172,7 @@
 
 ## Github Activity:
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#65513](https://github.com/nextcloud/server/issues/65513) in [nextcloud/server](https://github.com/nextcloud/server)
+1. 🗣 Commented on [#134](https://github.com/verdigado/organization_folders/issues/134#issuecomment-6233334937) in [verdigado/organization_folders](https://github.com/verdigado/organization_folders)
 2. ℹ️ Labeled issue [#65513](https://github.com/nextcloud/server/issues/65513) in [nextcloud/server](https://github.com/nextcloud/server)
 3. ℹ️ Labeled issue [#65513](https://github.com/nextcloud/server/issues/65513) in [nextcloud/server](https://github.com/nextcloud/server)
 4. ℹ️ Labeled issue [#65513](https://github.com/nextcloud/server/issues/65513) in [nextcloud/server](https://github.com/nextcloud/server)
